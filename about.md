@@ -19,6 +19,7 @@ Now that I have started using angular to build some small apps, I feel even more
 This blog exists to document the develpoment of a cross-stitch helper application written with angular. As I mentioned, I have only been using angular for two months as of this writing. I intend to log the progress of the app here and discuss how I feel about angular through the development process.
 
 Cheers!
+
 -Mike 
 
 <sub>1</sub> Which was just jQuery for much of that time
