@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Crosstronic App General Plan"
+title:  "Crosstronica App General Plan"
 date:   2014-10-05 12:18:24
-categories: crosstronic
+categories: crosstronica
 ---
 I've never been good at keeping up with blog entries. Part of that is because I always try and start one with no purpose other than journaling. That's never enough to keep me focused on writing. 
 
