@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "jQuery to Angular + Requirements"
-date:   2014-10-05 12:18:24
+date:   2014-10-06 21:23:47
 categories: jquery define-requirements 
 ---
 
