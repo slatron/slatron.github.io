@@ -17,7 +17,7 @@ Writing an Angular application feels exactly the opposite. Instead of creating a
 
 This feels like a more scalable and maintainable way to write web apps. I can move  angular directives and controllers between projects. As long as each piece is provided with the right data, I can move them between projects like legos.
 
-So... after that here's what I'll need for the actual Crosstronica APp:
+So... after that here's what I'll need for the actual Crosstronica App:
 
 - Color Picker Pallete
 - Way to save symbols for each color in pallete
