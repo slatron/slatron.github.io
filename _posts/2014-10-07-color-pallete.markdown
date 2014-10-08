@@ -27,7 +27,8 @@ pallete: [
     name: 'Wacky Purple'
     rgb: 'aaccff',
     symbol: 'w'
-  }
+  },
+  ...
 ]
 
 $scope.selected = {}
