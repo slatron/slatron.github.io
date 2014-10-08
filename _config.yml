@@ -1,8 +1,8 @@
 # Site settings
 title: Crosstronica Dev Blog
 description: > # > = ignore newlines
-  This is the developemt blog of Mike Slater. 
-  If the sound of a cross-stitch helper app built with 
+  This is the development blog of Mike Slater.
+  If the sound of a cross-stitch helper app built with
   angular excites you - youre in the right place.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://slatron.github.io"
