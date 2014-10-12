@@ -28,6 +28,6 @@ So... after that here's what I'll need for the actual Crosstronica App:
 
 Since I'm in no rush to completion - and I want to milk as many blog topics as I can from this - I'll spend the next week writing a blog post on each of these items.
 
-1 - and by back then I mean 2008 - 2014
+<sup>1</sup> | And by back then I mean 2008 - 2014
 
 [book-nook]: http://www.carinslater.com/booknook/

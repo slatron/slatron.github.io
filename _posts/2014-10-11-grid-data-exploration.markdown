@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Exploring Javascrtipt Multidimensional Arrays"
-date:   2014-10-11
+date:   2014-10-11 13:00:00
 categories: javascript multidimensional-arrays data-structures
 ---
 
@@ -45,7 +45,7 @@ var Grid = function(size) {
   for(i=0; i < size; i++) {
     for(j=0; j < size; j++) {
       grid[i][j] = j + (size * i);
-    }  
+    }
   }
 
   return grid;
@@ -59,13 +59,13 @@ grid = new Grid(2);
 for(i=0; i < grid[0].length; i++) {
   for(j=0; j < grid[i].length; j++) {
     console.log(i + ', ' + j + ': ', grid[i][j]);
-  }  
+  }
 }
 
 ```
 
 This is great, It proves to me that I can define grids for patterns. On the side, I've just started to use the lodash library for js data manipulation. It should be better performing and allow me to write more consice code. There will be a learning curve as I havent; done much functinoal programming / lisp and lodash uses a similar syntax. Though after working with it for a couple days, it reminds me of chaining jQuery functions more than lisp.
 
-My next step will be to rewrite this script with lodash and compare the time.
+My next step will be to rewrite this script with lodash and compare the time. I'll also be creating a quick angular based view for the grid to use rather than the console log.
 
 CHeers!
