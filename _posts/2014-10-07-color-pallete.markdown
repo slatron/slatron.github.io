@@ -21,6 +21,7 @@ There will also need to be an interface for adding colors. This may or may not b
 
 #### Data Needed
 
+<pre>
   pallete: [
     {
       name: 'Wacky Purple'
@@ -31,6 +32,7 @@ There will also need to be an interface for adding colors. This may or may not b
   ]
 
   $scope.selected = {}
+</pre>
 
 [dmc-rgb]: http://www.csh.rit.edu/~vance/pages/color.html
 [jquery-colopicker-wiki]: http://wiki.jqueryui.com/w/page/12137750/ColorPicker

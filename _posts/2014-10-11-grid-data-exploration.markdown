@@ -11,6 +11,7 @@ After poking around, I found that I was right. Javascript ony has arrays, but yo
 
 #### Data Needed
 
+<pre>
   multiArray3x3 = [
     [{}, {}, {}],
     [{}, 'foo', {}],
@@ -18,7 +19,7 @@ After poking around, I found that I was right. Javascript ony has arrays, but yo
   ]
 
   multiArray3x3[1][1] === 'foo'
-
+</pre>
 
 While anything can go in the arrays, the app will limit them to containing Color objects. I'll also assume square grids to start.
 
@@ -26,6 +27,7 @@ While anything can go in the arrays, the app will limit them to containing Color
 
 To start using the structure, I wrote a quick Class to define a square grid and fill it with numbers 0 to (size * 2).
 
+<pre>
   var Grid = function(size) {
 
     grid = new Array(size);
@@ -56,6 +58,7 @@ To start using the structure, I wrote a quick Class to define a square grid and 
       console.log(i + ', ' + j + ': ', grid[i][j]);
     }
   }
+</pre>
 
 This is great, It proves to me that I can define grids for patterns. On the side, I've just started to use the lodash library for js data manipulation. It should be better performing and allow me to write more consice code. There will be a learning curve as I havent; done much functinoal programming / lisp and lodash uses a similar syntax. Though after working with it for a couple days, it reminds me of chaining jQuery functions more than lisp.
 
