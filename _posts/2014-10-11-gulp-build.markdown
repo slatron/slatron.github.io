@@ -33,6 +33,7 @@ For reference, I'm including my gulp tasks below. Note that I use "require-dir" 
 
 My scripts tasks defines how to put the final main.js file together. I never put more than one script call in my HTML files now. Everything is handled right here in /gulp/scripts.js:
 
+<pre>
   var gulp         = require('gulp'),
       uglify       = require('gulp-uglify'),
       rename       = require('gulp-rename'),
@@ -64,6 +65,7 @@ My scripts tasks defines how to put the final main.js file together. I never put
       .pipe(uglify())
       .pipe(gulp.dest('app/assets/js'))
   });
+</pre>
 
 Styles is the next most important compiler. Note tht use of autoprefixer here. It makes CSS so much easier to keep up with by using caniuse statistics to add browser prefixes to my selectors:
 
