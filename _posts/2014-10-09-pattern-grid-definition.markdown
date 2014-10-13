@@ -16,35 +16,32 @@ For the metadata, I'll need a pattern name, date created, date modified and type
 
 #### Data Needed
 
-```javascript
-grids: [
-  {
-    name: 'All My Children'
-    created: '2014-10-07',
-    modified: 2014-10-09',
-    type: 'Family',
-    grid: [
-            {
-              name: 'Wacky Purple'
-              rgb: 'aaccff',
-              symbol: 'w'
-            },
-            {
-              name: 'Wacky Purple'
-              rgb: 'aaccff',
-              symbol: 'w'
-            }
-          ][
-            null,
-            {
-              name: 'Wacky Purple'
-              rgb: 'aaccff',
-              symbol: 'w'
-            }
-          ]
-  }
-]
-
-```
+  grids: [
+    {
+      name: 'All My Children'
+      created: '2014-10-07',
+      modified: 2014-10-09',
+      type: 'Family',
+      grid: [
+              {
+                name: 'Wacky Purple'
+                rgb: 'aaccff',
+                symbol: 'w'
+              },
+              {
+                name: 'Wacky Purple'
+                rgb: 'aaccff',
+                symbol: 'w'
+              }
+            ][
+              null,
+              {
+                name: 'Wacky Purple'
+                rgb: 'aaccff',
+                symbol: 'w'
+              }
+            ]
+    }
+  ]
 
 Yeah, I already see some issues with that. First of all, I'm not entirely sure on that multidimensional array approach. Second, there should be a way to reference the pallete array objects instead of copying each color object to the grid. Looks like I know what I'll be looking nto next. Cheers for tonight!

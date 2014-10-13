@@ -21,19 +21,16 @@ There will also need to be an interface for adding colors. This may or may not b
 
 #### Data Needed
 
-```javascript
-pallete: [
-  {
-    name: 'Wacky Purple'
-    rgb: 'aaccff',
-    symbol: 'w'
-  },
-  ...
-]
+  pallete: [
+    {
+      name: 'Wacky Purple'
+      rgb: 'aaccff',
+      symbol: 'w'
+    },
+    ...
+  ]
 
-$scope.selected = {}
-
-```
+  $scope.selected = {}
 
 [dmc-rgb]: http://www.csh.rit.edu/~vance/pages/color.html
 [jquery-colopicker-wiki]: http://wiki.jqueryui.com/w/page/12137750/ColorPicker
