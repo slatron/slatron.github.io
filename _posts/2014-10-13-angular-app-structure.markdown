@@ -92,9 +92,9 @@ Last is the index.html page. The grid is displayed in the &lt;main&gt; node by l
       &lt;div
         class=&quot;pattern-cel square&quot;
         ng-click=&quot;paintCel($parent.$index, $index)&quot;
-        style=&quot;background-color: #\{\{col.rgb\}\};&quot;
+        style=&quot;background-color: #%7B%7Bcol.rgb%7D%7D;&quot;
       &gt;
-        \{\{col.symbol\}\}
+        {{col.symbol}}
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
