@@ -67,7 +67,7 @@ factory('gridFactory', gridFactory);
 
 </pre>
 
-THe controller is less interesting at this point, although I did write two methods on $scope to select a color from the pallete and paint individual squares:
+The controller is less interesting at this point, although I did write two methods on $scope to select a color from the pallete and paint individual squares:
 
 <pre>
 
@@ -87,17 +87,17 @@ Last is the index.html page. The grid is displayed in the &lt;main&gt; node by l
 
 <pre>
 
-  <div ng-repeat="row in grid track by $index" class="grid pattern-row">
-    <div ng-repeat="col in row track by $index" class="grid">
-      <div
-        class="pattern-cel square"
-        ng-click="paintCel($parent.$index, $index)"
-        style="background-color: #{{col.rgb}};"
-      >
+  &lt;div ng-repeat=&quot;row in grid track by $index&quot; class=&quot;grid pattern-row&quot;&gt;
+    &lt;div ng-repeat=&quot;col in row track by $index&quot; class=&quot;grid&quot;&gt;
+      &lt;div
+        class=&quot;pattern-cel square&quot;
+        ng-click=&quot;paintCel($parent.$index, $index)&quot;
+        style=&quot;background-color: #{{col.rgb}};&quot;
+      &gt;
         {{col.symbol}}
-      </div>
-    </div>
-  </div>
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
 
 </pre>
 
