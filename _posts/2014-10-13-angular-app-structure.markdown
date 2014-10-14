@@ -92,9 +92,9 @@ Last is the index.html page. The grid is displayed in the &lt;main&gt; node by l
       &lt;div
         class=&quot;pattern-cel square&quot;
         ng-click=&quot;paintCel($parent.$index, $index)&quot;
-        style=&quot;background-color: #%7B%7Bcol.rgb%7D%7D;&quot;
+        style=&quot;background-color: #col.rgb;&quot;
       &gt;
-        {{col.symbol}}
+        col.symbol
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
@@ -105,15 +105,15 @@ The pallete displays above the grid for now:
 
 <pre>
 
-  <div ng-repeat="color in pallete" class="color-pallete">
-    <div
-      ng-click="selectColor(color.c_id)"
-      class="square"
-      style="background-color: #{{color.rgb}};"
-    >
+  &lt;div ng-repeat=&quot;color in pallete&quot; class=&quot;color-pallete&quot;&gt;
+    &lt;div
+      ng-click=&quot;selectColor(color.c_id)&quot;
+      class=&quot;square&quot;
+      style=&quot;background-color: #{{color.rgb}};&quot;
+    &gt;
       {{color.symbol}}
-    </div>
-  </div>
+    &lt;/div&gt;
+  &lt;/div&gt;
 
 </pre>
 
