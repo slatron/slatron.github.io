@@ -33,7 +33,8 @@ For reference, I'm including my gulp tasks below. Note that I use "require-dir" 
 
 My scripts tasks defines how to put the final main.js file together. I never put more than one script call in my HTML files now. Everything is handled right here in /gulp/scripts.js:
 
-<pre>
+<div code-showhide headline="Gulp Scripts Task">
+  <pre>
   var gulp         = require('gulp'),
       uglify       = require('gulp-uglify'),
       rename       = require('gulp-rename'),
@@ -65,11 +66,13 @@ My scripts tasks defines how to put the final main.js file together. I never put
       .pipe(uglify())
       .pipe(gulp.dest('app/assets/js'))
   });
-</pre>
+  </pre>
+</div>
 
 Styles is the next most important compiler. Note tht use of autoprefixer here. It makes CSS so much easier to keep up with by using caniuse statistics to add browser prefixes to my selectors:
 
-<pre>
+<div code-showhide headline="Gulp Styles Task">
+  <pre>
   var gulp         = require('gulp'),
       compass      = require('gulp-compass'),
       autoprefixer = require('gulp-autoprefixer'),
@@ -94,7 +97,8 @@ Styles is the next most important compiler. Note tht use of autoprefixer here. I
       .pipe(minifycss())
       .pipe(gulp.dest('app/assets/css'));
   });
-</pre>
+  </pre>
+</div>
 
 For the rest of my tasks, please see [my github repository][crosstronica-gulp]. In the meantime, I'll be writing the first angular code for the project to move the grid javascript I wrote into an angular factory. I will then set up a controller and html page to visualize the grid outside of the console.
 

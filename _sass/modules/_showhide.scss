@@ -1,0 +1,13 @@
+.showhide h5 {
+  font-weight: bold;
+}
+
+.showhide pre {
+  padding: 0 $base-unit/2;
+}
+
+.showhide {
+  border: 2px dotted #666;
+  margin: $base-unit;
+  padding: $base-unit/2;
+}
