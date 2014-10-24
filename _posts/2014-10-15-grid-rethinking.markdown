@@ -67,6 +67,23 @@ Once that was set up, I had to set up the directive scope and link function. One
 
 The dragging magic happens from within the link function. Any mouse down over a square triggers a draw. Same with drags over squares with the mouse held down.
 
+The last item to fix is the grid square highlighting. When you drag a click on a div, it highlights in the same way you highlght text. This is not what I want, so I lookied into a CSS solution.
+
+Ths answer was to use the user-select: none property on all Pattern Grid squares. There are still a lot of differences on this property using browser prefixes. Fortunately, I'm using autoprefixer in my gulp build, which takes care of that for me.
+
+<div code-showhide headline="This is all I need to disable highlighting on Grid Squares">
+
+  <pre>
+    %square,
+    .square {
+      user-select: none;
+      ...more css
+    }
+  </pre>
+
+</div>
+
+
 That was easier than I thought. Hopefully, the nested ng-repeats will hold up for a while. Next, I'll have to add a color form to submit additional pallete colors.
 
 Cheers!
