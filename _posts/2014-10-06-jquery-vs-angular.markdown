@@ -3,6 +3,7 @@ layout: post
 title:  "jQuery to Angular + Requirements"
 date:   2014-10-06 21:23:47
 categories: jquery define-requirements
+desc: When I was only writing javascript in jQuery, I had a much different approach to front end web developent. Back then, I would write all the HTML and CSS for the site and add on javascript for UI later on.
 ---
 
 When I was only writing javascript in jQuery, I had a much different approach to front end web developent. Back then<sup>1</sup>, I would write all the HTML and CSS for the site and add on javascript for UI later on. This worked well for a single website. With jQuery, you read the DOM itself as the state of the page. Building interactions last was easy because the representation of state was already visible. All the developer has to do is move the things on the screen around.

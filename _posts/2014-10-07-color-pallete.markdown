@@ -3,6 +3,7 @@ layout: post
 title:  "Defining the Color Pallete"
 date:   2014-10-07
 categories: define-requirements
+desc: My first image for the color UI is a color picker. Like the color palete panel in Photoshop. I  need a series amount of squares, one for each color in the full pallete.
 ---
 My first image for the color UI is a color picker. Like the color palete panel in Photoshop. I  need a series amount of squares, one for each color in the full pallete. Something like the gradient pickers like the ones used for the [jquery-ui colopicker][jquery-colopicker-wiki] would be nice eventually. For now I can use the [DMC floss numbers to RGB][dmc-rgb] chart to enter the values through a text input.
 

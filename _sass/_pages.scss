@@ -1,6 +1,15 @@
 /**
  * Page content
  */
+
+.git-banner {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 0;
+  z-index: 1000;
+}
+
 .page-content {
     padding: $spacing-unit 0;
 }
@@ -14,7 +23,8 @@
   list-style: none;
 
   > li {
-      margin-bottom: $spacing-unit;
+    border-bottom: 1px solid #e8e8e8;
+    margin-bottom: $spacing-unit;
   }
 }
 

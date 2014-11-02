@@ -3,8 +3,9 @@ layout: post
 title:  "Crosstronica App General Plan"
 date:   2014-10-05 12:18:24
 categories: crosstronica
+desc: I've never been good at keeping up with blog entries. Part of that is because I always try and start one with no purpose other than journaling. That's never enough to keep me focused on writing...
 ---
-I've never been good at keeping up with blog entries. Part of that is because I always try and start one with no purpose other than journaling. That's never enough to keep me focused on writing. 
+I've never been good at keeping up with blog entries. Part of that is because I always try and start one with no purpose other than journaling. That's never enough to keep me focused on writing.
 
 My wife Carin recently started a [book blog][book-nook]. Shes had similar problems with writing posts on a new blog. But this one is going well for her. This is inspiring me to get my own started, but to get a subject to write about first that I can keep up with.
 

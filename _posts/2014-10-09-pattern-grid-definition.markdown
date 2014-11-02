@@ -3,6 +3,7 @@ layout: post
 title:  "Defining the Pattern Grid Object"
 date:   2014-10-09
 categories: define-requirements
+desc: The last requirement I want to think about before laying some code to pavement is the actual pattern grid object. I've realized while writing these posts how much typing these...
 ---
 The last requirement I want to think about before laying some code to pavement is the actual pattern grid object. I've realized while writing these posts how much typing these extremely short and focused posts on requirements are helping me think about building the app.
 

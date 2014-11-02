@@ -3,6 +3,7 @@ layout: post
 title:  "My Opinionated Gulp / Angular Build"
 date:   2014-10-11 17:46:00
 categories: gulp angular
+desc: I was quite the late bloomer when it came to learning build systems. In my defense, it was never really neseccary for the type of code I was writing.
 ---
 
 I was quite the late bloomer when it came to learning build systems. In my defense, it was never really neseccary for the type of code I was writing. My background is in building websites for ad agencies. The intent was always to build a system of code that could maintain consistancy between sites. But ever-changing / non-existant requirements and deadlines made putting time into an overriding system challenging.

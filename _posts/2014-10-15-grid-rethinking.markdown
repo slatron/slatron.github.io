@@ -3,6 +3,7 @@ layout: post
 title:  "Rethinking the Grid HTML"
 date:   2014-10-15
 categories: angular
+desc: Instead of using a repeated div on the html view that shows the symbol of the current color as text, I had to pass all the information in through attributes.
 ---
 
 <div code-showhide headline="A premature start to this post that I am still not edting out">

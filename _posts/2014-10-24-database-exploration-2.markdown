@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Entering the DB foray"
+title:  "Conquering the DB?"
 date:   2014-10-24
 categories: angular database couch
+desc: I'm a little bit further along with the database progress. Mongo turned out to be much easier to install than couch, even though it's more of a full "enterprise" solution.
 ---
 
 I'm a little bit further along with the database progress. Mongo turned out to be much easier to install than couch, even though it's more of a full "enterprise" solution. With mongo, I could simply download the binary files and be ready to go.

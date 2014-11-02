@@ -3,6 +3,7 @@ layout: post
 title:  "The Angular App Structure"
 date:   2014-10-13
 categories: angular
+desc: As I promised myself, I got around to writing some code this weekend. Angular has proven to be a quick way of developing apps. That is, if enough of the structural decisions have been made beforehand.
 ---
 
 As I promised myself, I got around to writing some code this weekend. Angular has proven to be a quick way of developing apps. That is, if enough of the structural decisions have been made beforehand.
