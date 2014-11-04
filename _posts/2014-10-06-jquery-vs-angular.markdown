@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "jQuery to Angular + Requirements"
+title:  "jQuery to angular + requirements"
 date:   2014-10-06 21:23:47
 categories: jquery define-requirements
 desc: When I was only writing javascript in jQuery, I had a much different approach to front end web developent. Back then, I would write all the HTML and CSS for the site and add on javascript for UI later on.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Defining the Color Pallete"
+title:  "Defining the color pallete"
 date:   2014-10-07
 categories: define-requirements
 desc: My first image for the color UI is a color picker. Like the color palete panel in Photoshop. I  need a series amount of squares, one for each color in the full pallete.

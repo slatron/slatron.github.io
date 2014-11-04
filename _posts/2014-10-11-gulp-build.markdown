@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My Opinionated Gulp / Angular Build"
+title:  "My opinionated gulp / angular build"
 date:   2014-10-11 17:46:00
 categories: gulp angular
 desc: I was quite the late bloomer when it came to learning build systems. In my defense, it was never really neseccary for the type of code I was writing.
