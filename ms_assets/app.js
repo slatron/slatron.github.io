@@ -10,13 +10,14 @@ angular.module('myApp').directive('codeShowhide', [function () {
   return {
     restrict: 'A',
     replace: true,
-    scope: {},
+    scope: {
+      headline: '@'
+    },
     transclude: true,
     templateUrl: '/ng_templates/showhide.html',
     link: function (scope, elem, attrs) {
 
       scope.collapsed = true;
-      scope.headline = attrs.headline;
 
       scope.toggleMe = function() {
         scope.collapsed = !scope.collapsed;

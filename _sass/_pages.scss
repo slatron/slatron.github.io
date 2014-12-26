@@ -82,3 +82,15 @@
       }
   }
 }
+
+.image-plus-caption {
+  text-align: center;
+  margin: $base-unit 0;
+
+  em {
+    background: #eee;
+    font-size: 11px;
+    margin: $base-unit/2 0;
+    padding: $base-unit;
+  }
+}
