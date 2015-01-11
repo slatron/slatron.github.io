@@ -3,7 +3,7 @@ layout: post
 title:  "Results of Self User Testing"
 date:   2014-11-22
 categories: UI
-desc: Looking at some of the UI changes after using my own application.
+desc: Re-evaluating the UI by using my own application.
 ---
 
 My initial results are positive. I'm definately finding some missing functionality - mostly storage, a wider toolset, and ability to draw lines across more than just grid borders. But this is exactly the kind of feedback I need, even from myself. I guess I should have thought of an application with a wider user base than just for me if feedback is what I wanted. Oh well, at least I don't ever plan on selling this - or making $$$ 8 )>.
