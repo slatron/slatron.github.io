@@ -22,9 +22,9 @@ The application has grown to the point where I need to get the database nailed d
 
 My current overall epic goal is getting the aplication running online against a database. I'll need to go through some steps to get there.
 
-1) Move the local application data from couch to mongo.
-2) Migrate that local mongo data to mongolab
-3) Update the application to use the public mongolab DB
-4) Deploy the express application to heroku
+- Move the local application data from couch to mongo.
+- Migrate that local mongo data to mongolab
+- Update the application to use the public mongolab DB
+- Deploy the express application to heroku
 
-I'm not sure how often my blog chedule will be around this. It really depends on how lazy I get. I'll try to at least add some posts on what I'm getting done each week.
+I'm not sure how often my blog schedule will be around this. It really depends on how lazy I get.
