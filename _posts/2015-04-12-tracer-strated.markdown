@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Second MEAN App deploy"
+title:  "The Tracer"
 date:   2015-04-12
 categories: tracer
 desc: Settling on and adding the tracer feature
