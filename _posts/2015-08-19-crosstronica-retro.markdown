@@ -28,11 +28,7 @@ Speaking of which, I just finished a piece for Zoey. I started with a pattern I 
 
 Next for me is a move on to react and flux. I'm starting a project app to learn that. This was loads of fun to do. I'll be back here someday to resurrect this from its graveyard. Thanks for reading!
 
-<div code-showhide headline="Some Patterns Designed With Crosstronica:">
-
-  <div class="image-plus-caption">
-    <img src="/ms_assets/images/diz.png">
-    <em>Made For Zoey</em>
-  </div>
-
+<div class="image-plus-caption">
+  <img src="/ms_assets/images/diz.png">
+  <em>Made For Zoey</em>
 </div>
