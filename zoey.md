@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Zoey's Corner
 permalink: /zoey/
 ---
 
