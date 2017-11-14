@@ -10,8 +10,7 @@ $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
 
 $base-unit:        1em;
-
-$spacing-unit:     30px;
+$spacing-unit:     15px;
 
 $text-color:       #111;
 $background-color: #fdfdfd;
@@ -50,5 +49,7 @@ $on-laptop:        800px;
   "layout/nav",
   "layout/footer",
   "modules/showhide",
-  "modules/syntax-highlighting"
+  "modules/show-card",
+  "modules/syntax-highlighting",
+  "state"
 ;

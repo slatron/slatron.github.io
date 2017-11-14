@@ -26,6 +26,10 @@
     border-bottom: 1px solid #e8e8e8;
     margin-bottom: $spacing-unit;
   }
+
+  > li:last-child {
+    border-bottom: none;
+  }
 }
 
 .post-meta {

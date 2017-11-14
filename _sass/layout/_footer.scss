@@ -7,13 +7,17 @@
 }
 
 .footer-heading {
-    font-size: 18px;
-    margin-bottom: $spacing-unit / 2;
+    font-size: 14px;
+    margin-bottom: $spacing-unit / 4;
 }
 
-.contact-list,
-.social-media-list {
+.contact-list {
     list-style: none;
+    margin-left: 0;
+}
+
+.social-media-list {
+    font-size: 12px;
     margin-left: 0;
 }
 
