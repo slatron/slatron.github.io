@@ -2,7 +2,9 @@
 layout: post
 title:  "Alpha Deployment Retro"
 date:   2015-02-24
-categories: mongo, heroku, angular, requirements
+tags: mongo heroku angular requirements
+category: archived
+hidden: true
 desc: Here is how the first deployment went
 ---
 

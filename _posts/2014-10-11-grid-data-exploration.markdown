@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Exploring javascrtipt multidimensional arrays"
+title:  "Exploring javascript multidimensional arrays"
 date:   2014-10-11 13:00:00
-categories: javascript multidimensional-arrays data-structures
+tags: javascript multidimensional-arrays data-structures
+category: archived
+hidden: true
 desc: The main data structure for Crosstronica will be the multidimensional grid array. It will create a matrix of color objects that form the pattern.
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title:  "Crosstronica app general plan"
 date:   2014-10-05 12:18:24
-categories: crosstronica
+tags: crosstronica
+category: archived
+hidden: true
 desc: I've never been good at keeping up with blog entries. Part of that is because I always try and start one with no purpose other than journaling. That's never enough to keep me focused on writing...
 ---
 I've never been good at keeping up with blog entries. Part of that is because I always try and start one with no purpose other than journaling. That's never enough to keep me focused on writing.
@@ -31,4 +33,3 @@ Cheers!
 
 
 [book-nook]: http://www.carinslater.com/booknook/
-

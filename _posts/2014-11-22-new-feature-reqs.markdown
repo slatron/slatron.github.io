@@ -2,7 +2,9 @@
 layout: post
 title:  "Results of Self User Testing"
 date:   2014-11-22
-categories: UI
+tags: UI
+category: archived
+hidden: true
 desc: Re-evaluating the UI by using my own application.
 ---
 

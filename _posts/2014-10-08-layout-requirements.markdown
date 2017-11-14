@@ -2,7 +2,9 @@
 layout: post
 title:  "Defining the app layout"
 date:   2014-10-08
-categories: define-requirements
+tags: define-requirements
+category: archived
+hidden: true
 desc: In my last post, I mention a "toolbox" area of the page without defining it. Let's do that now, especially since this should be a short post and it's family movie night tonight (Lego Movie, fourth viewing, Zoey's pick).
 ---
 In my last post, I mention a "toolbox" area of the page without defining it. Let's do that now, especially since this should be a short post and it's family movie night tonight (Lego Movie, fourth viewing, Zoey's pick).

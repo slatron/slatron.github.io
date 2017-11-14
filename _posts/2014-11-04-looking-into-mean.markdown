@@ -2,7 +2,9 @@
 layout: post
 title:  "A sidetrip into MEAN"
 date:   2014-11-04
-categories: MEAN
+tags: MEAN archived
+category: archived
+hidden: true
 desc: The more I play around with couch, the less I like it. This could be simply because databases and operations aren't my best skill. But I also can't find much beyond the main Apache documentation on couch.
 ---
 

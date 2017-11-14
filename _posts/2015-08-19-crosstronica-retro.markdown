@@ -2,7 +2,9 @@
 layout: post
 title:  "Project Retro"
 date:   2015-08-19
-categories: retro
+tags: retro
+category: archived
+hidden: true
 desc: Putting the application down for now
 ---
 

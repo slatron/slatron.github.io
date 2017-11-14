@@ -2,7 +2,9 @@
 layout: post
 title:  "Second MEAN App deploy"
 date:   2015-03-10
-categories: MEAN, heroku, angular, trello
+tags: MEAN heroku angular trello
+category: archived
+hidden: true
 desc: I built a quick CMS for Mad Bread shows
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title:  "The Tracer"
 date:   2015-04-12
-categories: tracer
+tags: angular ui
+category: archived
+hidden: true
 desc: Settling on and adding the tracer feature
 ---
 

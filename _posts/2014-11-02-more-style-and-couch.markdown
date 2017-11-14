@@ -2,7 +2,9 @@
 layout: post
 title:  "Upkeepin and Couchin"
 date:   2014-11-02
-categories: couch style jekyll
+tags: couch style jekyll
+category: archived
+hidden: true
 desc: I upkeeped a couple of layout styles this weekend. Now crosstronica has a drawer UI. The pattern grid will be in the main area of the page. The user will be able to open and close the drawer to give the grid more room.
 ---
 

@@ -2,7 +2,9 @@
 layout: post
 title:  "UXmas"
 date:   2014-11-21
-categories: UX CSS User-testing
+tags: UX CSS User-testing
+category: archived
+hidden: true
 desc: Changing course from database specifics to using my own application.
 ---
 

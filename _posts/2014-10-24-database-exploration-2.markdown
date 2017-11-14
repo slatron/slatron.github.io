@@ -2,7 +2,9 @@
 layout: post
 title:  "Conquering the DB?"
 date:   2014-10-24
-categories: angular database couch
+tags: angular database couch
+category: archived
+hidden: true
 desc: I'm a little bit further along with the database progress. Mongo turned out to be much easier to install than couch, even though it's more of a full "enterprise" solution.
 ---
 

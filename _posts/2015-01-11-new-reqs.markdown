@@ -2,7 +2,9 @@
 layout: post
 title:  "Next Steps for 2015"
 date:   2015-01-11
-categories: Requirements
+tags: Requirements
+category: archived
+hidden: true
 desc: Going through what needs to be done before initial deployment.
 ---
 

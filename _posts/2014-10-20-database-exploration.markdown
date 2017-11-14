@@ -2,7 +2,9 @@
 layout: post
 title:  "Entering the DB foray"
 date:   2014-10-20
-categories: angular database
+tags: angular database
+category: archived
+hidden: true
 desc: I haven't added anything in a few days. Carin and I got to go on a short vacation to Geneva, IL. Mom and Dad came into town with GG to watch Zoey for the night.
 ---
 

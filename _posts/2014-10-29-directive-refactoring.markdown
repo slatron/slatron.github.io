@@ -2,7 +2,9 @@
 layout: post
 title:  "No more ng-controller attributes"
 date:   2014-10-29
-categories: angular directives refactoring
+tags: angular directives refactoring
+category: archived
+hidden: true
 desc: Time to get beyond database struggles. Couch is pretty tough to get a proper mental model for. After finishing the pallete GET and POST functionality, I'm going to take a DB break to...
 ---
 
