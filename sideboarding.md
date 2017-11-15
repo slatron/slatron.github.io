@@ -27,6 +27,16 @@ permalink: /sideboarding/
   <p>+1 Nihil Spellbomb +2 Liliana of the Veil</p>
 </div>
 
+<div code-showhide headline="vs Eldrazi Tron">
+  <p>-1 Spell Snare -2 Supreme Verdict -1 Think Twice -1 Gideon Jura -2 Gideon of the Trials</p>
+  <p>+2 Stony Silence +3 Geist of Saint Traft +1 Detention Sphere + 1Ceremonious Rejection</p>
+
+  <h5>Sample Eldrazi Tron Postboard</h5>
+
+  <p>-1 Endbringer -1 Dismember -1 Crucible of Worlds -1 Wurmcoil Engine</p>
+  <p>+2 Relic of Progenitus +1 Warping Wail +1 Hangarback Walker</p>
+</div>
+
 <div code-showhide headline="vs UR Gifts Storm">
   <p>-3 Supreme Verdict -1 Blessed Alliance -1 Gideon Jura -1 Search for Azcanta -1 Logic Knot -1 Sphinx's Revelation</p>
   <p>+2 Dispel +1 Rest in Peace +1 Relic of Progenitus +1 Grafdigger's Cage +3 Geist of Saint Traft</p>
