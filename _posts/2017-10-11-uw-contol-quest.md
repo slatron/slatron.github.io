@@ -32,7 +32,7 @@ Win-cons are the 3 Gideons, single Jace and 4 Colonades. The planeswalker plan c
 
 More cuts I am considering:
 
-1 Supreme Verdict -> 1 Settle the Wreckage:Verdict is the best answer to a board of creatures, but I would still like to lean further into avoiding tapping out on my turn. Settle the Wreckage is good for surprise value and keeping mana open. Bad since its easy to play around if opponent knows I have it. I have one in the sideboard but am close to ditching this idea as there are several drawbacks to Settle that outweigh the potential to leave mana open.
+1 Supreme Verdict -> 1 Settle the Wreckage:Verdict is the best answer to a board of creatures, but I would still like to lean further into avoiding tapping out on my turn. Settle the Wreckage is good for surprise value and keeping mana open. Bad since its easy to play around if opponent knows I have it. I have one in the sideboard but am close to ditching this idea as there are several drawbacks to Settle that outweigh the potential to leave mana open. In the right meta, this could be great. Especially when players go light on basics.
 
 Jace to Sideboard -> Blessed Alliance:Jace is great against wide creature decks and can generate steady card advantage with -2, but may not be the best option to risk lowering defenses before turn 6. I replaced the fourth Gideon in the sideboard as its more clear when to bring in the Jace.
 
