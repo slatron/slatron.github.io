@@ -30,7 +30,7 @@ permalink: /sideboarding/
   <p>-1 <span showcard>Spell Snare</span>  -1 <span showcard>Negate</span> -2 <span showcard>Supreme Verdict</span> -1 <span showcard>Think Twice</span> -1 <span showcard>Gideon Jura</span> -2 <span showcard>Gideon of the Trials</span> -1 <span showcard>Serum Visions</span> -1 <span showcard>Search for Azcanta</span></p>
   <p>+2 <span showcard>Stony Silence</span> +3 <span showcard>Geist of Saint Traft</span> +1 <span showcard>Detention Sphere</span> +2 <span showcard>Ceremonious Rejection</span> +2 <span showcard>Spreading Seas</span></p>
 
-  <p>If not in saucy mood, keep in Gideons for Geists</p>
+  <p>If not in saucy mood (read: on the draw), keep in Gideons for Geists</p>
 
   <h5>Sample Eldrazi Tron Postboard</h5>
 
