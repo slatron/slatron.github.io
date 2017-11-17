@@ -84,3 +84,7 @@ permalink: /sideboarding/
 <div showhide headline="vs Ad Nauseum">
   <p>TODO</p>
 </div>
+
+<div showhide headline="vs 8 Rack">
+  <p>TODO</p>
+</div>
