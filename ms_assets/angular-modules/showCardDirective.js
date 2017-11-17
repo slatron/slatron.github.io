@@ -22,7 +22,6 @@ angular.module('modernBlogApp')
         //================================================================================
         var cardActiveClassName = 'card-show';
 
-
         scope.text              = attrs.showcard || element[0].innerText;
         scope.cardLoaded        = false;
         scope.cardImgUrl        = '/ms_assets/images/blank.jpg';
@@ -50,6 +49,7 @@ angular.module('modernBlogApp')
             })
             .catch(function(error) {
               console.warn(error);
+              scope.cardUrl    = '/';
             })
             .finally(function() {
               scope.cardLoaded = true;

@@ -60,7 +60,8 @@ permalink: /sideboarding/
 
 
 <div showhide headline="vs Counters Company">
-  <p>TODO</p>
+  <p>-1 <span showcard>Think Twice</span> -1 <span showcard>Serum Visions</span></p>
+  <p>+2 <span showcard>Dispel</span></p>
 </div>
 
 <div showhide headline="vs Burn">
