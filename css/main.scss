@@ -44,12 +44,12 @@ $on-laptop:        800px;
 @import
   "base",
   "pages",
+  "state",
   "responsive",
   "layout/header",
   "layout/nav",
   "layout/footer",
   "modules/showhide",
   "modules/show-card",
-  "modules/syntax-highlighting",
-  "state"
+  "modules/syntax-highlighting"
 ;
