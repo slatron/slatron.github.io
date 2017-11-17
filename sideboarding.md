@@ -60,15 +60,16 @@ permalink: /sideboarding/
 
 
 <div showhide headline="vs Counters Company">
-  <p>-1 <span showcard>Think Twice</span> -1 <span showcard>Serum Visions</span></p>
-  <p>+2 <span showcard>Dispel</span></p>
-</div>
-
-<div showhide headline="vs Burn">
-  <p>TODO</p>
+  <p>-1 <span showcard>Think Twice</span> -1 <span showcard>Serum Visions</span> -1 <span showcard>Logic Knot</span></p>
+  <p>+2 <span showcard>Dispel</span> +1 <span showcard>Relic of Progenitus</span></p>
 </div>
 
 <div showhide headline="vs 5c Humans">
+  <p>-1 <span showcard>Negate</span> -1 <span showcard>Search for Azcanta</span> -1 <span showcard>Think Twice</span></p>
+  <p>+2 <span showcard>Spreading Seas</span> +1 <span showcard>Detention Sphere</span></p>
+</div>
+
+<div showhide headline="vs Burn">
   <p>TODO</p>
 </div>
 

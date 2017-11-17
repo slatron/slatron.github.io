@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The first 75"
+title:  "Most of the way to 75"
 date:   2017-11-14
 tags: uw-control
 category: magic
