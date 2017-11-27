@@ -25,7 +25,7 @@ angular.module('modernBlogApp')
         scope.text              = attrs.showcard || element[0].innerText;
         scope.cardLoaded        = false;
         scope.cardImgUrl        = '/ms_assets/images/blank.jpg';
-        scope.cardUrl           = undefined;
+        scope.cardUrl           = '';
 
         // GET card img URL from API
         //================================================================================
@@ -34,9 +34,13 @@ angular.module('modernBlogApp')
           scope.cardUrl    = cacheFactory.get('cardUrl:' + scope.text);
           scope.cardLoaded = true;
         } else {
+          var getURL = 'https://api.deckbrew.com/mtg/cards?name=' + scope.text;
+          if (!attrs.hasOwnProperty('allFormats')) {
+            getURL += '&format=modern';
+          }
           $http({
             method: 'GET',
-            url: 'https://api.deckbrew.com/mtg/cards?name=' + scope.text + '&format=modern'
+            url: getURL
           }).then(function successCallback(response) {
               var data = response.data[0];
               var editions = data.editions.filter(function(edition) {
@@ -49,7 +53,6 @@ angular.module('modernBlogApp')
             })
             .catch(function(error) {
               console.warn(error);
-              scope.cardUrl    = '/';
             })
             .finally(function() {
               scope.cardLoaded = true;
