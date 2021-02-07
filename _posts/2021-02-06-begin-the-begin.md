@@ -40,6 +40,8 @@ Around the Sun is the only record with no entries. Up, Life's Rich Pageant and M
 
 I plan on using a random number generator to pick a new song each time. Soon as I pick the song, I'll start the blog post and figuring out what I want to do in terms of arrangement. I'm in a small apartment, so Drums and percussion will be mostly midi for now. I also have no good keyboard controller, so any piano / organ parts will also be a midi arrangement. I purposly stayed away from piano focused songs at first for that reaon. No "Nightswimming" or "At My Most Beautiful" for a while.
 
+I'll cross out each one as they are chosen and add a date. When the song and post are finished, I'll link them.
+
 ##### Collapse Into Now 
 - Discoverer
 
@@ -57,7 +59,8 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 
 ##### Hi-Fi
 - Leave
-- So Fast, So Numb
+- ~~So Fast, So Numb~~ 
+  - *Chosen 1st on Feb 6, 2021*
 
 ##### Monster
 - What’s the Frequency, Kenneth?
