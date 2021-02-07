@@ -2,13 +2,14 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
-    padding: $spacing-unit 0;
+  font-size: 12px;
+  border-top: 1px solid $grey-color-light;
+  padding: $spacing-unit 0;
 }
 
 .footer-heading {
-    font-size: 14px;
-    margin-bottom: $spacing-unit / 4;
+  font-size: 14px;
+  margin-bottom: $spacing-unit / 4;
 }
 
 .contact-list {
@@ -17,12 +18,11 @@
 }
 
 .social-media-list {
-    font-size: 12px;
     margin-left: 0;
+    list-style: none;
 }
 
 .footer-col-wrapper {
-    font-size: 15px;
     color: $grey-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
