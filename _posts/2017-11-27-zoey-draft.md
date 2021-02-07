@@ -34,7 +34,7 @@ Below is the list of 26 songs I intend to cover. I'm hoping to average one a wee
 Along with recording a version of the song, I'll write a post about how I chose to arrage it and my thought s on the song itself. I'll include chords and lyrics as I go.
 
 ### The List
-I'm pulling from all their major suidio album releases plus Chronic Town. I'm not getting into Ded Letter Office, bonus tracks, b-sides, rarities or live albums. This sets some decent parameters in case I keep going into their entire catalog.
+I'm pulling from all their major suidio album releases plus Chronic Town. I'm not getting into Dead Letter Office, bonus tracks, b-sides, rarities or live albums. This sets some decent parameters in case I keep going into their entire catalog.
 
 Around the Sun is the only record with no entries. Up, Life's Rich Pageant and Murmur are the only ones with three. To be sure, these aren't necessarily my favorite REM songs. Just ones I feel that I would enjoy covering the most for an initial run. To be honest, I'm most excited to get through these and see if I want to keep going. Just to see what random REM goodie will be thrown at me each time. I'm also looking forward to getting into the ATS songs that still haven't gotten in me. Theres nothing like learning a song as a fast track to loving it more.
 
