@@ -3,35 +3,9 @@
 ---
 @charset "utf-8";
 
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: $base-font-size * 1.75;
-$base-line-height-paragraph: $base-font-size * 2.5;
-
-$base-unit:        1em;
-$spacing-unit:     15px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
-}
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+  "settings",
   "base",
   "pages",
   "state",
