@@ -4,7 +4,7 @@ title:  "Begin the Begin..."
 date:   2021-02-06
 tags: rem-project
 category: music
-desc: Why I decided to record a buncha old music
+desc: why i decided to record a buncha old music
 permalink: rem-begin-the-begin.html
 ---
 

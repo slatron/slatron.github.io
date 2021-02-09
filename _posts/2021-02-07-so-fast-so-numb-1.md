@@ -4,8 +4,8 @@ title:  "So Fast, So Numb pt 1"
 date:   2021-02-07
 tags: rem-project
 category: music
-desc: Arranging th first song
-permalink: so-gast-so-numb-1.html
+desc: arranging the first song
+permalink: so-fast-so-numb-1.html
 ---
 
 # So Fast, So Numb
@@ -27,4 +27,4 @@ This is a song with several allusions to drug use and overdosing. I'm not sure i
 
 Either way, it serves as a cautionary tale of sorts from the singer.  The subject is someone the singer is concerned about going too far with something, Hence the drug metaphor. Which depening on the case might not be a metaphor and just be one of Stipe's friends. Most speculation on the webs say its River Phoenix, so let's go with that.
 
-To me, the song evokes my own refusal to persue music as seriously as I thought I would. When I sing, I address one of my friens who burned themselves out persuing a career in music or engineering.
+To me, the song evokes my own refusal to persue music as seriously as I thought I would. When I sing, I address one of my friends who burned themselves out persuing a career in music or engineering. It's been a compromise my entire life to not be making music in order to have a great family. I'm pretty happy that I've the kids and the job are at a good place for me to carve out time for music again.
