@@ -2,7 +2,7 @@
 //  * Page content
 //  */
 .wrapper {
-  padding: 1em 0;
+  padding: 1rem 0;
 }
 
 h1 {
@@ -11,20 +11,7 @@ h1 {
 
 .home > h1,
 .post-header {
-  margin-bottom: $spacing-unit;
-}
-
-.post-list {
-  list-style-type: none;
-  line-height: $base-font-size * 1.85;
-}
-
-.post-list h2 {
-  margin: 0;
-}
-
-.post-list li {
-  margin-bottom: $spacing-unit * 2;
+  margin-bottom: $base-unit;
 }
 
 li > ul > li {

@@ -1,12 +1,11 @@
 // Our variables
 $base-font-family: Helvetica, Arial, sans-serif;
 $base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: $base-font-size * 1.75;
-$base-line-height-paragraph: $base-font-size * 2.5;
+$small-font-size:  0.75rem;
+$base-line-height: 1.75rem;
+$base-line-height-paragraph: 2.5rem;
 
-$base-unit:        1em;
-$spacing-unit:     15px;
+$base-unit:        1rem;
 
 $text-color:       #111;
 $background-color: #ecebeb;
