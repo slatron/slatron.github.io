@@ -22,6 +22,7 @@ Laying the organ part came on top of the electric. That made it easier to go in 
 
 The acoustic guitar and bass went in last. I don't think I've ever saved bass for the end like that.
 
+### Vocals
 Vocals are going to be my biggest issue. I'm great at backup and harmony vocals, but I don't have the tone for lead. Part of this sproject will be to make the best of what I have - and that includes my own take on Stipe's singing. He has such a unique rhythm when he ties phrases together. I'm not going to do myself any favors by thinking I can perform as well as he did.
 
 As I do more of these, I can slowly let myslef learn what I can do as a singer. Sadly, I'll have to accept some pretty bad takes and mixing as I improve.  I am having a great time reading though mixing and recording tips. It was a large part of my life not so long ago. Rememebring why is fun
