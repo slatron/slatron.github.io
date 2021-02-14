@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  "So Fast, So Numb pt 1"
+title:  So Fast, So Numb pt 1
 date:   2021-02-07
 tags: rem-project
 category: music
 desc: arranging the first song
 permalink: so-fast-so-numb-1.html
+video: https://youtu.be/hhY5J2C9fJk
 ---
 
 ```

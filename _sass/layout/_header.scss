@@ -2,11 +2,8 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-med;
-
-    // Positioning context for the mobile navigation icon
-    position: relative;
+  border-top: 5px solid $grey-color-dark;
+  border-bottom: 1px solid $grey-color-med;
 }
 
 .site-title {
@@ -14,9 +11,8 @@
     letter-spacing: -2px;
     margin-bottom: 0;
 
-    &,
     &:visited {
-        color: $grey-color-dark;
+      color: $grey-color-dark;
     }
 }
 

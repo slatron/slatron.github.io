@@ -14,6 +14,37 @@ h1 {
   margin-bottom: $base-unit;
 }
 
+.flex-line {
+  display: flex;
+
+  > * {
+    margin-right: 1rem;
+  }
+}
+
 li > ul > li {
   font-size: 11px;
+}
+
+.video-link {
+  width: 30px;
+  display: inline-block;
+}
+
+.post-list {
+  list-style-type: none;
+  margin: 0;
+
+  .post-date {
+    font-size: 0.75rem;
+  }
+
+  li {
+    margin-bottom: 0.5rem;
+  }
+
+  h2 {
+    font-size: 1.25rem;
+    margin-bottom: 0;
+  }
 }
