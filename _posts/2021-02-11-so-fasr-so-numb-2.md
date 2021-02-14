@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  So Fast, So Numb pt 2
+song: So Fast, So Numb
+album: New Adventures In Hi-Fi
+year: "1996"
 date:   2021-02-11
 tags: rem-project
 category: music
@@ -8,11 +11,6 @@ desc: how so fast got made
 permalink: so-fast-so-numb-2.html
 video: https://youtu.be/hhY5J2C9fJk
 ---
-
-```
-So Fast, So Numb
-New Adventures in Hi-Fi | 1996
-```
 
 ### About the Arrangement
 I started the first song with a tempo error. The original song is around 108bpm but I put down the first piano and drum tracks down at 115bpm. Good thing I'm not holding myself to making these exactly like the original versions. This will certainly change things up, it will just be a bit more difficult to stay with the pace.

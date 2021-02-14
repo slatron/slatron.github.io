@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  "So Fast, So Numb pt 3"
+song: So Fast, So Numb
+album: New Adventures In Hi-Fi
+year: "1996"
 date:   2021-02-13
 tags: rem-project
 category: music
@@ -8,11 +11,6 @@ desc: recording vocals
 permalink: so-fast-so-numb-3.html
 video: https://youtu.be/hhY5J2C9fJk
 ---
-
-```
-So Fast, So Numb
-New Adventures in Hi-Fi | 1996
-```
 
 ### Stipe Vocals
 The vocals on this have a weird up front presence while retianing a balance in the mix. He's much easier to hear than on the first few albums - but figured out how to hold onto that feeling where listining to REM is like overhearing coversations in a crowd.

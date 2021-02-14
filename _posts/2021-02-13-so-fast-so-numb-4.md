@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  So Fast, So Numb pt 4
+song: So Fast, So Numb
+album: New Adventures In Hi-Fi
+year: "1996"
 date:   2021-02-13
 tags: rem-project
 category: music
@@ -9,11 +12,6 @@ permalink: so-fast-so-numb-4.html
 video: https://youtu.be/hhY5J2C9fJk
 final_mix: https://drive.google.com/file/d/12NVKLkgs17zyAAAiOf4Ry7WArQL7ITbf/view?usp=sharing
 ---
-
-```
-So Fast, So Numb
-New Adventures in Hi-Fi | 1996
-```
 
 ### Finishing Up
 One of my early quesitons was "how long should I take to reacord each song". I think "So Fast" will be a good average at one week. I could easily tweak any of these tracks forever. Without making myself move on, I won't learn as much.

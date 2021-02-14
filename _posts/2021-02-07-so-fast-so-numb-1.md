@@ -1,6 +1,9 @@
 ---
 layout: post
 title:  So Fast, So Numb pt 1
+song: So Fast, So Numb
+album: New Adventures In Hi-Fi
+year: "1996"
 date:   2021-02-07
 tags: rem-project
 category: music
@@ -8,11 +11,6 @@ desc: arranging the first song
 permalink: so-fast-so-numb-1.html
 video: https://youtu.be/hhY5J2C9fJk
 ---
-
-```
-So Fast, So Numb
-New Adventures in Hi-Fi | 1996
-```
 
 ### About the Arrangement
 This will be an interesting first attempt. I'll keep it simple with the drums and use an existing rock loop. Since this is so distortion heavy, I can get away with that more than on a cleaner song. My apologies to Bill. Piano will also be difficult to reproduce as I'll be limited to midi.

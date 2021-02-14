@@ -31,6 +31,19 @@ li > ul > li {
   display: inline-block;
 }
 
+.listen-area {
+  margin: $base-unit * 2;
+
+  img {
+    margin-right: $base-unit;
+  }
+}
+
+.listen-link {
+  width: 30px;
+  display: inline-block;
+}
+
 .post-list {
   list-style-type: none;
   margin: 0;

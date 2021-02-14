@@ -7,7 +7,7 @@ layout: default
     <div class="flex-line">
       <h1 class="post-title">{{ page.title }}</h1>
       {% if page.video %}
-      <a class="video-link" href="{{ page.video }}" target="_blank">
+      <a class="video-link" href="{{ page.video }}" target="_blank" title="Original Recording from REMhq youtube">
         <img src="/ms_assets/images/video-play.svg" />
       </a>
       {% endif %}
@@ -16,6 +16,22 @@ layout: default
   </header>
 
   <article class="post-content">
+
+    <div class="highlighter-rouge">
+      <div class="highlight">
+        <pre class="highlight"><code>{{page.song}}
+{{page.album}} | {{page.year}}</code></pre>
+      </div>
+    </div>
+
+    {% if page.final_mix %}
+    <h3 class="listen-area">
+      <a href="{{page.final_mix}}" target="_blank">
+        <img class="listen-link" src="/ms_assets/images/listen.svg" /> Final Mix
+      </a>
+    </h3>
+    {% endif %}
+
     {{ content }}
   </article>
 
