@@ -61,6 +61,7 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 - Leave
 - ~~So Fast, So Numb~~ 
   - *[Chosen 1st on Feb 6, 2021](so-fast-so-numb-1.html)*
+  - *[Final Project Mix](https://drive.google.com/file/d/12NVKLkgs17zyAAAiOf4Ry7WArQL7ITbf/view?usp=sharing){:target="_blank"}*
 
 ##### Monster
 - What’s the Frequency, Kenneth?

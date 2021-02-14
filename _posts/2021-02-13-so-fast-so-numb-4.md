@@ -22,8 +22,29 @@ It was so much fun to live inside a single REM song for an entire week. I kept "
 
 I'd also like to see how I do on another fast drum track. After using that loop, it shouldn't take much to build my own.
 
+### Final Tracks (19)
+Vocals (7 tracks)
+- Main Composite Lead
+- Lead Vocal doubling with different composite
+- Main Vocal Delay on some lines
+- Callback "Woahs" for main vocals
+- Four tracks for Mills Macking Vocals
+
+Instruments (12 tracks)
+- Piano (midi)
+- Drum Intro (midi)
+- Drums (Apple Loop "Headbop Drumset")
+- Two Shaker Tracks
+- Organ (midi)
+- Lead Distortion Rhythm Guitar 
+- Lighter Distortion Rhythm Guitar 
+- Lead Guitar Solo
+- Bass
+- Acoustic Guitar Soft
+- Acoustic Guitar Loud
+
 ### Faithful Covers?
-This was a good song to do a fairly straight coer for. It let me focus less on arrangment than the engineering. Not to mention setting up the initial space.
+This was a good song to do a fairly straight cover for. It let me focus less on arrangment than the engineering. Not to mention setting up the initial space.
 
 For future songs, I may not follow the recorded version as close. I'd really like to get creative with some of these.
 

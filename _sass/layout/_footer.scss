@@ -36,16 +36,16 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$base-unit} / 2));
-    width:         calc(35% - (#{$base-unit} / 2));
-}
-
-.footer-col-2 {
     width: -webkit-calc(20% - (#{$base-unit} / 2));
     width:         calc(20% - (#{$base-unit} / 2));
 }
 
+.footer-col-2 {
+    width: -webkit-calc(25% - (#{$base-unit} / 2));
+    width:         calc(25% - (#{$base-unit} / 2));
+}
+
 .footer-col-3 {
-    width: -webkit-calc(45% - (#{$base-unit} / 2));
-    width:         calc(45% - (#{$base-unit} / 2));
+    width: -webkit-calc(55% - (#{$base-unit} / 2));
+    width:         calc(55% - (#{$base-unit} / 2));
 }

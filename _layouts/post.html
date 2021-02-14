@@ -17,12 +17,14 @@ layout: default
 
   <article class="post-content">
 
+    {% if page.song %}
     <div class="highlighter-rouge">
       <div class="highlight">
         <pre class="highlight"><code>{{page.song}}
 {{page.album}} | {{page.year}}</code></pre>
       </div>
     </div>
+    {% endif %}
 
     {% if page.final_mix %}
     <h3 class="listen-area">

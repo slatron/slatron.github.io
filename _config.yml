@@ -4,9 +4,11 @@ subtitle: with R.E.M.
 description: >
   I am returning to music after taking a break for several
   years. As an initial excercise in my home studio, I 
-  decided to focus on REM for a while.
+  decided to focus on REM for a while. Over 26 weeks, I will
+  record covers of my favorite 26 REM songs
 baseurl: ""
 url: "http://slatron.github.io"
+reddit_username: slatron11
 twitter_username: slatron
 github_username:  slatron
 plugins: [jekyll-paginate]
