@@ -9,7 +9,7 @@ permalink: rem-begin-the-begin.html
 ---
 
 ### Returning to Music
-For Christmas and my birthday last December, my wife got me a focusrite audio interface and a used lap steel guitar. In the month since, I've leared some lap steel and set up a small recording... thing. I hesitate to call it a studo as it means finding a quick place to put down tracks while the kids are occupied.
+I recently got a focusrite audio interface and a used lap steel guitar. In the month since, I've leared some lap steel and set up a small recording... thing. I hesitate to call it a studo as it means finding a quick place to put down tracks while the kids are occupied.
 
 I've managed enough ambition to [finish two songs](https://soundcloud.com/slatron/sets/home-recordings) this past month. And I really want to keep up with more of this. My band has been on hiatus for most of the lockdown. We put out two livestreams before the cold weather set in. Right before this started, we put down some initiail tracks for an EP. But without being able to work close together, that's fallen by the wayside. I have enough base parts to move that a bit forward - but I'll need another source of songs to record while I re-learn audio engineering.
 
