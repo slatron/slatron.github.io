@@ -15,15 +15,29 @@ So Fast, So Numb
 New Adventures in Hi-Fi | 1996
 ```
 
-### Stipe Vocals
-The vocals on this have a weird up front presence while retianing a balance in the mix. He's much easier to hear than on the first few albums - but figured out how to hold onto that feeling where listining to REM is like overhearing coversations in a crowd.
+### Finishing Up
+One of my early quesitons was "how long should I take to reacord each song". I think "So Fast" will be a good average at one week. I could easily tweak any of these tracks forever. Without making myself move on, I won't learn as much.
 
-My attempt here will be to set up a recording booth in the bathroom. Which means putting a mic and laptop in the bathroom. I spent around an hour on vocal takes. First time was slowly through the song, stopping anytime I felt like retaking something. I kept the original around for constant reference. I didn't care so much about replicating Michael's part perfectly, but there is not much room for some of these words. And given that I'm recording this at ~15 bpm faster than the original, I have less room for improv.
+So I'll shoot for a week per song. Nothing that Im holding myself to. There's no knowing what will come up. But at least I have a ballpark.
 
-I gave myself two extra takes for the shouted "Now" and "Listen" lyrics. Those were bound to peak and I wanted to be sure I had at least one useable take. I think I can live with these.
+It was so much fun to live inside a single REM song for an entire week. I kept "So Fast" on repeat each night to soak everything in. WHen it came up, I had no idea how well I could get a big rock guitar mix together. After this one, I'm eager to try another rocker from "Life's Rich Pageant" or "Accelerate".
 
+I'd also like to see how I do on another fast drum track. After using that loop, it shouldn't take much to build my own.
 
-#### Mills Vocals
-Picking out Mike's background voclas from this was rough. They are definately in there, but mixed in a way that they completely blend in with the organ in some parts.  I sayed in the bathroom and pulled away from the mic for the recordings. These will be way in the background and likely drenched in reverb. The original has a few layers of Mike in the background, but its so difficult to pick them apart. Like singing from the astral plane. I'll definatly leave more time for songs like "Harborcoat" with multiple background parts.
+### Faithful Covers?
+This was a good song to do a fairly straight coer for. It let me focus less on arrangment than the engineering. Not to mention setting up the initial space.
 
-I may end up recording another background take after initial mixing. It depends on what I can do with what I have.
+For future songs, I may not follow the recorded version as close. I'd really like to get creative with some of these.
+
+As a closing for each song, I'll be making a single take version of the song with me singing and playing one instrument. Likely acoustic guitar or piano. This way, I'll have a "live" version of the song without any studio shenannegains.
+
+### Learnings
+Here are some things I learng from my first song:
+
+- Garageband can do a lot more than I expected. Especially with the built-in effects and the amount of customizability around them. Its still so much clunkier for some common tasks like gain clipping and aux sends. But there are ways around them.
+- Get the initial song tempo right
+- Record dry vocals. I need to do some sound tests in the closet to see how dry I can get the signal. The bathroom booth was OK for "So Fast", but that initial effect on tape won't always work.
+- This is so much fun and rewarding. Even if no one listens, I'm enjoing making these.
+
+### Next Up
+I had Zoey hit the button for the next song. It's "Near Wild Heaven". Looks like I'll be shifting vocal gears.
