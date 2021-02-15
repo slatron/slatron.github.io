@@ -1,10 +1,17 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width initial-scale=1" />
+    <meta name="language" content="english">
+    <meta http-equiv="content-type" content="text/html">
+    <meta name="author" content="Mike Slater">
+    <meta name="designer" content="Mike Slater">
+    <meta name="publisher" content="Mike Slater">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }} {{ site.subtitle }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
+    <meta name="keywords" content="REM, Audio Engineering, Home Recording Studio">
+    <meta name="distribution" content="web">
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">

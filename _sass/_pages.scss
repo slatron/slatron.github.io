@@ -2,15 +2,15 @@
 //  * Page content
 //  */
 .wrapper {
-  padding: 1rem 0;
+  padding: 1rem;
 }
 
-h1 {
-  margin-bottom: 0;
+.post-heading {
+  margin-bottom: $base-unit;
 }
 
-.home > h1,
-.post-header {
+nav {
+  font-weight: bold;
   margin-bottom: $base-unit;
 }
 
