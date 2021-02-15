@@ -9,9 +9,9 @@ permalink: rem-begin-the-begin.html
 ---
 
 ### Returning to Music
-I recently got a focusrite audio interface and a used lap steel guitar. In the month since, I've leared some lap steel and set up a small recording... thing. I hesitate to call it a studo as it means finding a quick place to put down tracks while the kids are occupied.
+I recently got a focusrite audio interface and a used lap steel guitar. In the month since, I've leared some lap steel and set up a small recording... thing. I hesitate to call it a studio when I have to find a place to put down tracks whenever the kids are occupied.
 
-I've managed enough ambition to [finish two songs](https://soundcloud.com/slatron/sets/home-recordings) this past month. And I really want to keep up with more of this. My band has been on hiatus for most of the lockdown. We put out two livestreams before the cold weather set in. Right before this started, we put down some initiail tracks for an EP. But without being able to work close together, that's fallen by the wayside. I have enough base parts to move that a bit forward - but I'll need another source of songs to record while I re-learn audio engineering.
+I've managed enough ambition to [finish two songs](https://soundcloud.com/slatron/sets/home-recordings) this past month. And I really want to keep up with more of this. My band has been on hiatus for most of the lockdown. We put out [two](https://www.youtube.com/watch?v=PnaB-C-Chgw) [livestreams](https://www.youtube.com/watch?v=JRWzDKeiCcQ) before the cold weather set in. Right before this started, we put down some initiail tracks for an EP. But without being able to work close together, that's fallen by the wayside. I have enough foundational parts to move that a bit forward - but I'll need another source of songs to record while I re-learn audio engineering.
 
 ### So... REM?
 Yeah, The 90's band that stopped making music 10 years ago. Always been my favorite band. I was around eleven years old when Green was released. It was one of the first cds I remember my dad getting along with Eponymous.  All of my early mucis tastes were from my parents. Beatles, Paul Simon, Neil Young. But REM was one of the first bands that I really loved and made mine.
@@ -36,7 +36,9 @@ Along with recording a version of the song, I'll write a post about how I chose 
 ### The List
 I'm pulling from all their major suidio album releases plus Chronic Town. I'm not getting into Dead Letter Office, bonus tracks, b-sides, rarities or live albums. This sets some decent parameters in case I keep going into their entire catalog.
 
-Around the Sun is the only record with no entries. Up, Life's Rich Pageant and Murmur are the only ones with three. To be sure, these aren't necessarily my favorite REM songs. Just ones I feel that I would enjoy covering the most for an initial run. To be honest, I'm most excited to get through these and see if I want to keep going. Just to see what random REM goodie will be thrown at me each time. I'm also looking forward to getting into the ATS songs that still haven't gotten in me. Theres nothing like learning a song as a fast track to loving it more.
+Around the Sun is the only record with no entries. Up, Life's Rich Pageant and Murmur are the only ones with three. To be sure, these aren't necessarily my favorite REM songs. Just ones I feel that I would enjoy covering the most for an initial run. There are only a couple "Greatest Hits" songs here most people think of. "Frequency" is the only major standout. Next on popularity would be "Driver 8" and "Radio Free Europe".
+
+To be honest, I'm most excited to get through these and see if I want to keep going. Just to see what random REM goodie will be thrown at me each time. I'm also looking forward to getting into the ATS songs that still haven't gotten in me. Theres nothing like learning a song as a fast track to loving it more.
 
 I plan on using a random number generator to pick a new song each time. Soon as I pick the song, I'll start the blog post and figuring out what I want to do in terms of arrangement. I'm in a small apartment, so Drums and percussion will be mostly midi for now. I also have no good keyboard controller, so any piano / organ parts will also be a midi arrangement. I purposly stayed away from piano focused songs at first for that reaon. No "Nightswimming" or "At My Most Beautiful" for a while.
 
