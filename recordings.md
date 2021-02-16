@@ -14,4 +14,5 @@ permalink: recordings.html
   - *[Blog Post 4](so-fast-so-numb-4.html)*
 
 ### Near Wild Heaven | Feb 14, 2021
-
+  - *[Blog Post 1](near-wild-heaven-1.html)*
+  - *[Blog Post 2](near-wild-heaven-2.html)*
