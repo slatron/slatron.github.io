@@ -3,17 +3,33 @@
  */
 .site-header {
   border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-med;
+  border-bottom: 2px solid $grey-color-med;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  background-color: $header-color;
+
+  .wrapper {
+    padding-top: $base-unit / 2;
+    padding-bottom: $base-unit / 2;
+  }
+
+  .header-lower {
+    display: flex;
+    justify-content: space-between;
+  }
 }
 
 .site-title {
-    font-size: 1.35rem;
-    letter-spacing: -2px;
-    margin-bottom: 0;
+  font-size: 1.35rem;
+  letter-spacing: -2px;
+  margin-bottom: 0;
 
-    &:visited {
-      color: $grey-color-dark;
-    }
+  &:visited {
+    color: $grey-color-dark;
+  }
 }
 
 .site-subtitle {

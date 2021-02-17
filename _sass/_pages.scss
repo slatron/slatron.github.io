@@ -2,16 +2,17 @@
 //  * Page content
 //  */
 .wrapper {
-  padding: 1rem;
+  padding: 0 1rem;
 }
 
-.post-heading {
-  margin-bottom: $base-unit;
-}
+.page-heading,
+.post-title  {
+  font-size: 1.65rem;
+} 
 
-nav {
-  font-weight: bold;
-  margin-bottom: $base-unit;
+.page-content {
+  padding-top: $header-height;
+  z-index: 1;
 }
 
 .flex-line {

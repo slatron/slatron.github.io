@@ -6,6 +6,7 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
+    box-sizing: content-box;
 }
 
 /**
@@ -171,8 +172,8 @@ pre {
 .icon {
     > svg {
         display: inline-block;
-        width: 16px;
-        height: 16px;
+        width: 25px;
+        height: 25px;
         vertical-align: middle;
 
         path {
