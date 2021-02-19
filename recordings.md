@@ -12,5 +12,5 @@ permalink: recordings.html
 ### Near Wild Heaven | Feb 14, 2021
 - *[Final Project Mix](https://drive.google.com/file/d/1UD8Cs8dT7eKY13vEK2SkVW_mWLGNLS5J/view?usp=sharing){:target="_blank"}*
 
-### I'll Take THe Rainn | Feb 18, 2021
+### I'll Take The Rain | Feb 18, 2021
 - *[Post 1](ill-take-the-rain-1.html)*
