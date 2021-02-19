@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  So Fast, So Numb pt 4
+title:  So Fast, So Numb IV
 song: So Fast, So Numb
 album: New Adventures In Hi-Fi
+image: hifi.jpg
 year: "1996"
 date:   2021-02-13
 tags: rem-project
@@ -43,7 +44,7 @@ Instruments (12 tracks)
 - Acoustic Guitar Soft
 - Acoustic Guitar Loud
 
-### Faithful Covers?
+### Faithful Cover?
 This was a good song to do a fairly straight cover for. It let me focus less on arrangment than the engineering. Not to mention setting up the initial space.
 
 For future songs, I may not follow the recorded version as close. I'd really like to get creative with some of these.

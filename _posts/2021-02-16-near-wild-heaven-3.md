@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  Near Wild Heaven Pt 3
+title:  Near Wild Heaven III
 song: Near Wild Heaven
 album: Out of Time
+image: out.jpg
 year: "1991"
 date:   2021-02-16
 tags: rem-project
@@ -13,7 +14,7 @@ video: https://www.youtube.com/watch?v=dcP7TxLnd9M
 ---
 
 ### Wild Heaven Vocals
-I've always agredd with the sentiment that Mike's background vocals are REMs secret weapon. I don't think he could have been more of a lead singer. Singing his parts here was very easy compared to Michael's. I've always felt sympathetic to Mike, and this is one more reason to support that. I've always been a strong backup singer but never a great lead.
+I've always agreed with the sentiment that Mike's background vocals are REMs secret weapon. I don't think he could have been more of a lead singer. Singing his parts here was very easy compared to Michael's. I've always felt sympathetic to Mike, and this is one more reason to support that. I've always been a strong backup singer but never a great lead.
 
 I'm mostly surprised by Bill's performance on the "Living Inside" parts. Those are so solid, despite clearly being in falsetto.
 

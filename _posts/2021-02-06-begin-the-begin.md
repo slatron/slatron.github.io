@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Begin the Begin..."
+image: pageant.jpg
 date:   2021-02-06
 tags: rem-project
 category: music

@@ -1,7 +1,0 @@
-@include media-query($on-palm) {
-  .footer-col {
-      float: none;
-      width: -webkit-calc(100% - (#{$base-unit} / 2));
-      width:         calc(100% - (#{$base-unit} / 2));
-  }
-}

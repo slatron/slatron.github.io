@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  Near Wild Heaven Pt 2
+title:  Near Wild Heaven II
 song: Near Wild Heaven
 album: Out of Time
+image: out.jpg
 year: "1991"
 date:   2021-02-15
 tags: rem-project

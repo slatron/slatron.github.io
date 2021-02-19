@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "So Fast, So Numb pt 3"
+title:  "So Fast, So Numb III"
 song: So Fast, So Numb
 album: New Adventures In Hi-Fi
+image: hifi.jpg
 year: "1996"
 date:   2021-02-13
 tags: rem-project

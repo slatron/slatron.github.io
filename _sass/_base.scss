@@ -6,7 +6,6 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
-    box-sizing: content-box;
 }
 
 /**
@@ -20,6 +19,10 @@ html {
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
+}
+
+html * {
+    box-sizing: border-box;
 }
 
 body {
@@ -136,8 +139,8 @@ pre {
  * Wrapper
  */
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$base-unit} * 2));
-    max-width:         calc(800px - (#{$base-unit} * 2));
+    max-width: -webkit-calc(1000px - (#{$base-unit} * 2));
+    max-width:         calc(1000px - (#{$base-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-top: 1rem;
@@ -146,7 +149,7 @@ pre {
     padding-left: $base-unit;
     @extend %clearfix;
 
-    @include media-query($on-laptop) {
+    @include media-query($laptop) {
         max-width: -webkit-calc(800px - (#{$base-unit}));
         max-width:         calc(800px - (#{$base-unit}));
         padding-right: $base-unit / 2;
