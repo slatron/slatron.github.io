@@ -5,7 +5,7 @@ song: So Fast, So Numb
 album: New Adventures In Hi-Fi
 image: hifi.jpg
 year: "1996"
-date:   2021-02-13
+date: 2021-02-13
 tags: rem-project
 category: music
 desc: song wrapup

@@ -6,17 +6,11 @@ layout: default
   <header class="post-header">
     <div class="flex-line">
       <h1 class="post-title">{{ page.title }}</h1>
-      {% if page.video %}
-      <a class="video-link" href="{{ page.video }}" target="_blank" title="Original Recording from REMhq youtube">
-        <img src="/ms_assets/images/video-play.svg" />
-      </a>
-      {% endif %}
     </div>
     <div class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</div>
   </header>
 
   <article class="post-content">
-
     {% if page.song %}
     <div class="highlighter-rouge">
       <div class="highlight">
@@ -26,13 +20,18 @@ layout: default
     </div>
     {% endif %}
 
-    {% if page.final_mix %}
-    <h3 class="listen-area">
-      <a href="{{page.final_mix}}" target="_blank">
-        <img class="listen-link" src="/ms_assets/images/listen.svg" /> Final Mix
+    <div class="post-media-links">
+      {% if page.video %}
+      <a class="btn" href="{{ page.video }}" target="_blank" title="Original Recording from REMhq youtube">
+        <img class="link-icon" src="/ms_assets/images/video-play.svg" /> Listen Original
       </a>
-    </h3>
-    {% endif %}
+      {% endif %}
+      {% if page.final_mix %}
+      <a class="btn" title="Listen to Final Mix" href="{{page.final_mix}}" target="_blank">
+        <img class="link-icon" src="/ms_assets/images/listen.svg" /> Listen Final Mix
+      </a>
+      {% endif %}
+    </div>
 
     {{ content }}
   </article>

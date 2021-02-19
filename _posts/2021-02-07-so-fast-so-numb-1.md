@@ -5,12 +5,13 @@ song: So Fast, So Numb
 album: New Adventures In Hi-Fi
 image: hifi.jpg
 year: "1996"
-date:   2021-02-07
+date: 2021-02-07
 tags: rem-project
 category: music
 desc: arranging the first song
 permalink: so-fast-so-numb-1.html
 video: https://youtu.be/hhY5J2C9fJk
+final_mix: https://drive.google.com/file/d/12NVKLkgs17zyAAAiOf4Ry7WArQL7ITbf/view?usp=sharing
 ---
 
 ### About the Arrangement

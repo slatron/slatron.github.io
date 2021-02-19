@@ -11,6 +11,7 @@ category: music
 desc: playing like buck
 permalink: near-wild-heaven-2.html
 video: https://www.youtube.com/watch?v=dcP7TxLnd9M
+final_mix: https://drive.google.com/file/d/1SSSDHLvNdBe8VxiNwGQTy4SFA6ZPachB/view?usp=sharing
 ---
 
 ### Understanding Peter Buck

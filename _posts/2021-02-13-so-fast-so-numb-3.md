@@ -11,6 +11,7 @@ category: music
 desc: recording vocals
 permalink: so-fast-so-numb-3.html
 video: https://youtu.be/hhY5J2C9fJk
+final_mix: https://drive.google.com/file/d/12NVKLkgs17zyAAAiOf4Ry7WArQL7ITbf/view?usp=sharing
 ---
 
 ### Stipe Vocals

@@ -5,12 +5,13 @@ song: Near Wild Heaven
 album: Out of Time
 image: out.jpg
 year: "1991"
-date:   2021-02-16
+date: 2021-02-16
 tags: rem-project
 category: music
 desc: singing like mike
 permalink: near-wild-heaven-3.html
 video: https://www.youtube.com/watch?v=dcP7TxLnd9M
+final_mix: https://drive.google.com/file/d/1SSSDHLvNdBe8VxiNwGQTy4SFA6ZPachB/view?usp=sharing
 ---
 
 ### Wild Heaven Vocals
