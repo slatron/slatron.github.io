@@ -41,7 +41,7 @@ Around the Sun is the only record with no entries. Up, Life's Rich Pageant and M
 
 To be honest, I'm most excited to get through these and see if I want to keep going. Just to see what random REM goodie will be thrown at me each time. I'm also looking forward to getting into the ATS songs that still haven't gotten in me. Theres nothing like learning a song as a fast track to loving it more.
 
-I plan on using a random number generator to pick a new song each time. Soon as I pick the song, I'll start the blog post and figuring out what I want to do in terms of arrangement. I'm in a small apartment, so Drums and percussion will be mostly midi for now. I also have no good keyboard controller, so any piano / organ parts will also be a midi arrangement. I purposly stayed away from piano focused songs at first for that reaon. No "Nightswimming" or "At My Most Beautiful" for a while.
+I plan on using a random number generator to pick a new song each time. Soon as I pick the song, I'll start the blog post and figuring out what I want to do in terms of arrangement. I'm in a small apartment, so Drums and percussion will be mostly midi for now. I also have no good keyboard controller, so any piano / organ parts will also be a midi arrangement. I purposly stayed away from piano focused songs at first for that reaon. No "Nightswimming" or "At My Most Beautiful" for a while. Though I may take on "At My Most Beautiful" if I visit home and have access to my old piano.
 
 ## Initial Song List
 
@@ -53,7 +53,8 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 - Supernatural Superserious
 
 ##### Reveal
-- I’ll Take the Rain
+- ~~I’ll Take the Rain~~
+  - *[Chosen 3rd on Feb 18, 2021](ill-take-the-rain-1.html)*
 
 ##### Up
 - Hope
@@ -75,6 +76,7 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 ##### Out of Time
 - ~~Near Wild Heaven~~
   - *[Chosen 2nd on Feb 13, 2021](near-wild-heaven-1.html)*
+  - *[Final Project Mix](https://drive.google.com/file/d/1UD8Cs8dT7eKY13vEK2SkVW_mWLGNLS5J/view?usp=sharing){:target="_blank"}*
 
 ##### Green
 - You Are the Everything

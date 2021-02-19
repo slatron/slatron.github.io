@@ -45,3 +45,4 @@ Yeah, I had no intentions of straying too far for this one and stuck my focus on
 - The more vocals the better, just keep them balanced low in the mix. I could have recorded 15 more parts and almost buried them for some neat blending.
 
 ### Next Up
+  "I’ll Take the Rain"
