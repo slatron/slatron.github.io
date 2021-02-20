@@ -76,6 +76,10 @@ li > ul > li {
   .post-list {
     li {
       flex: 0 0 30%;
+
+      &:last-child {
+        align-self: flex-start;
+      }
     }
     h2 {
       font-size: 1rem;
