@@ -11,6 +11,7 @@ category: music
 desc: teaching robot to dance
 permalink: ill-take-the-rain-2.html
 video: https://www.youtube.com/watch?v=JlIj6BxUS6E
+final_mix: https://drive.google.com/file/d/1v6JiyRs829CqiLvXj3pckZyr5fR6vKn9/view?usp=sharing
 ---
 
 ### Building the Tracks

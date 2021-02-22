@@ -14,4 +14,6 @@ permalink: recordings.html
   - [Raw Single Take](https://drive.google.com/file/d/1PGiQy88s7c2sMa8d9xxQpSGI6F-B1Fcd/view?usp=sharing){:target="_blank"}
 
 ### I'll Take The Rain | Feb 18, 2021
-- *[Post 1](ill-take-the-rain-1.html)*
+- *[Final Project Mix](https://drive.google.com/file/d/1v6JiyRs829CqiLvXj3pckZyr5fR6vKn9/view?usp=sharing)*
+
+### Shaking Through | Feb 22, 2021

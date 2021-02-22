@@ -55,6 +55,7 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 ##### Reveal
 - ~~I’ll Take the Rain~~
   - *[Chosen 3rd on Feb 18, 2021](ill-take-the-rain-1.html)*
+  - *[Final Project Mix](https://drive.google.com/file/d/1v6JiyRs829CqiLvXj3pckZyr5fR6vKn9/view?usp=sharing)*
 
 ##### Up
 - Hope
@@ -101,7 +102,8 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 ##### Murmur
 - Radio Free Europe
 - Sitting Still
-- Shaking Through
+- ~~Shaking Through~~
+  - *[Chosen 4th on Feb 22, 2021](shaking-through-1.html)*
 
 ##### Chronic Town
 - Carnival of Sorts (Boxcar)

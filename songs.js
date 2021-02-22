@@ -20,6 +20,5 @@ const songs = [
   "Pretty Persuasion",
   "Radio Free Europe",
   "Sitting Still",
-  "Shaking Through",
   "Carnival of Sorts (Boxcar)"
 ]
