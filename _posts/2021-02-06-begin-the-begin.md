@@ -30,14 +30,16 @@ I don't think I'd get as far as Barnaby did by starting from the beginning. But 
 
 So instead of chronologically through each album, I went through their discography and picked 0-3 songs from each album that will motivate me to record. I considered just randomly assigning myself a song from the entire catalog each time, but I'd rather start small. I can always go on to something like that after prioving to myself that I can commit to an intiail batch of my favorite REM songs.
 
-Below is the list of 26 songs I intend to cover. I'm hoping to average one a week. I might do a very straight-forward cover - or do something outside the box to challenge myself. If nothing else, I'll at least strum some chords and sing.
+Below is the list of 27 songs I intend to cover. I'm hoping to average one a week. I might do a very straight-forward cover - or do something outside the box to challenge myself. If nothing else, I'll at least strum some chords and sing.
 
 Along with recording a version of the song, I'll write a post about how I chose to arrage it and my thought s on the song itself. I'll include chords and lyrics as I go.
 
 ### The List
 I'm pulling from all their major suidio album releases plus Chronic Town. I'm not getting into Dead Letter Office, bonus tracks, b-sides, rarities or live albums. This sets some decent parameters in case I keep going into their entire catalog.
 
-Around the Sun is the only record with no entries. Up, Life's Rich Pageant and Murmur are the only ones with three. To be sure, these aren't necessarily my favorite REM songs. Just ones I feel that I would enjoy covering the most for an initial run. There are only a couple "Greatest Hits" songs here most people think of. "Frequency" is the only major standout. Next on popularity would be "Driver 8" and "Radio Free Europe".
+Around the Sun is the only record with no entries. Up, Life's Rich Pageant and Murmur are the only ones with three or more. Up sits at the only one with four. No surprises there. It's a vastly underrated record. I would also call it one of the worst sequenced albums ever. No favors there.
+
+To be sure, these aren't necessarily my favorite REM songs. Just ones I feel that I would enjoy covering the most for an initial run. There are only a couple "Greatest Hits" songs here most people think of. "Frequency" is the only major standout. Next on popularity would be "Radio Free Europe" or "Driver 8".
 
 To be honest, I'm most excited to get through these and see if I want to keep going. Just to see what random REM goodie will be thrown at me each time. I'm also looking forward to getting into the ATS songs that still haven't gotten in me. Theres nothing like learning a song as a fast track to loving it more.
 
@@ -61,6 +63,7 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 - Hope
 - Sad Professor
 - Walk Unafraid
+- At My Most Beautiful
 
 ##### Hi-Fi
 - Leave
