@@ -8,7 +8,7 @@ year: "1983"
 date: 2021-02-22
 tags: rem-project
 category: music
-desc: murmur tiume
+desc: murmur time
 permalink: shaking-through-1.html
 video: https://www.youtube.com/watch?v=LGRovL2s6gk
 ---
