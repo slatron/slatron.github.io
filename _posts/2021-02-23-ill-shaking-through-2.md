@@ -8,13 +8,13 @@ year: "1983"
 date: 2021-02-23
 tags: rem-project
 category: music
-desc: murmur tiume
+desc: murmur basics
 permalink: shaking-through-2.html
 video: https://www.youtube.com/watch?v=LGRovL2s6gk
 ---
 
 ### Back 2 Basics
-It's so neat hearing what a basic drum + bass + guitar + piano cab sound like. The chord changes here are so straight-forward. Everything is either a major to relative minor pattern, or a V -> I resolving toward D.
+It's so neat hearing what a basic drum + bass + guitar + piano can sound like. The chord changes here are so straight-forward. Everything is either a major to relative minor pattern, or a V -> I resolving toward D.
 
 I didn't have to do nearly as much as I thought with the guitar part. Just arpeggiating the chords on an electric sounds oretty great. The piano part took a while longer - only because I had to program it out in MIDI, performing on the laptop keyboard and adjusting some notes. I really want to get my keyboard up here for these parts.
 
