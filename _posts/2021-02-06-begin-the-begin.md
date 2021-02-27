@@ -106,6 +106,7 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 - Radio Free Europe
 - Sitting Still
 - ~~Shaking Through~~
+  - *[Shaking Through](https://drive.google.com/file/d/1bDK7eyMc3iloWywernigrHSnGvyKRCkq/view?usp=sharing){:target="_blank"}*
   - *[Chosen 4th on Feb 22, 2021](shaking-through-1.html)*
 
 ##### Chronic Town
