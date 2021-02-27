@@ -11,6 +11,7 @@ category: music
 desc: murmur time
 permalink: shaking-through-1.html
 video: https://www.youtube.com/watch?v=LGRovL2s6gk
+final_mix: https://drive.google.com/file/d/1bDK7eyMc3iloWywernigrHSnGvyKRCkq/view?usp=sharing
 ---
 
 ### Next arrangement

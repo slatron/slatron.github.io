@@ -11,6 +11,7 @@ category: music
 desc: murmur basics
 permalink: shaking-through-2.html
 video: https://www.youtube.com/watch?v=LGRovL2s6gk
+final_mix: https://drive.google.com/file/d/1bDK7eyMc3iloWywernigrHSnGvyKRCkq/view?usp=sharing
 ---
 
 ### Back 2 Basics

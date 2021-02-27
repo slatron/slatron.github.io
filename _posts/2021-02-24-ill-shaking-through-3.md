@@ -11,6 +11,7 @@ category: music
 desc: murmur wash
 permalink: shaking-through-3.html
 video: https://www.youtube.com/watch?v=LGRovL2s6gk
+final_mix: https://drive.google.com/file/d/1bDK7eyMc3iloWywernigrHSnGvyKRCkq/view?usp=sharing
 ---
 
 ### The Sounds of Murmur
