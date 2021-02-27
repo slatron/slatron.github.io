@@ -5,7 +5,7 @@ song: Shaking Through
 album: Murmur
 image: murmur.jpg
 year: "1983"
-date: 2021-02-24
+date: 2021-02-27
 tags: rem-project
 category: music
 desc: shaking mixed
@@ -32,8 +32,10 @@ Instruments (11 tracks)
 - 4 Jangle guitar tracks, composited together to create part
 
 ### Faithful Cover?
-Pretty much. I addded two higher piano parts at the end. The backing vocals are also a close approximation. Cuz they're pretty tough to make out on the original.
+Pretty much. I addded two higher piano parts at the end. The backing vocals are also a close approximation. Cuz they're pretty tough to make out on the original. The drum part was especially close on this one. I'll probably program all Bill's parts for the IRS years as they were an even more important part of the arrangements at that time.
 
 ### Learnings
+- More attention is needed to guitar tone WRT blending
+- It is very possible to get a full-sounding piano performance on this laptop compputer with multiple tracks and some creativity
 
 ### Next Up
