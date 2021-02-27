@@ -39,3 +39,4 @@ Pretty much. I addded two higher piano parts at the end. The backing vocals are 
 - It is very possible to get a full-sounding piano performance on this laptop compputer with multiple tracks and some creativity
 
 ### Next Up
+I Believe

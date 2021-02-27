@@ -14,7 +14,6 @@ const songs = [
   "Exhuming McCarthy",
   "Begin the Begin",
   "These Days",
-  "I Believe",
   "Driver 8",
   "Harborcoat",
   "Pretty Persuasion",

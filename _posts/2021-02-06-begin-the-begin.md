@@ -93,7 +93,9 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 ##### Life’s Rich Pageant
 - Begin the Begin
 - These Days
-- I Believe
+- ~I Believe~
+  - *[Chosen 2nd on Feb 27, 2021](i-believe-1.html)*
+
 
 ##### Fables of the Reconstruction
 - Driver 8
