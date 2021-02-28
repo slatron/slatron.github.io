@@ -29,8 +29,10 @@ li > ul > li {
   justify-content: space-between;
   flex-wrap: wrap;
 
-  .post-date {
+  .post-list-dateline {
     font-size: 0.75rem;
+    display: flex;
+    justify-content: space-between;
   }
 
   li {
