@@ -22,14 +22,14 @@ li > ul > li {
   align-items: center;
 }
 
-.post-list {
+.slug-list {
   list-style-type: none;
   margin: 0;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 
-  .post-list-dateline {
+  .slug-list-dateline {
     font-size: 0.75rem;
     display: flex;
     justify-content: space-between;
@@ -70,7 +70,7 @@ li > ul > li {
 }
 
 @include media-query($laptop) {
-  .post-list {
+  .slug-list {
     li {
       flex: 0 0 30%;
 
