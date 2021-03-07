@@ -5,6 +5,8 @@ permalink: recordings.html
 
 <h1 class="page-heading">Recordings</h1>
 
+#### March 7, 2021 | [Sitting Still](https://drive.google.com/file/d/1kc9qexTS4ZKOo3jt4hej6FVZhtfF8WvC/view?usp=sharing){:target="_blank"}
+
 #### March 6, 2021 | [I Believe](https://drive.google.com/file/d/1bQPnMSNsrWEmIMdrtdAzG22aBVvQXL-z/view?usp=sharing){:target="_blank"}
 
 #### Feb 22, 2021 | [Shaking Through](https://drive.google.com/file/d/1bDK7eyMc3iloWywernigrHSnGvyKRCkq/view?usp=sharing){:target="_blank"}

@@ -1,16 +1,17 @@
 ---
 layout: post
 title:  Sitting Still I
-song: I Believe
-album: Life's Rich Pageant
-image: pageant.jpg
-year: "1986"
-date: 2021-02-28
+song: Sitting Still
+album: Murmur
+image: murmur.jpg
+year: "1983"
+date: 2021-03-07
 tags: rem-project
 category: music
 desc: still waters
 permalink: sitting-still-1.html
 video: https://www.youtube.com/watch?v=aUTBRfBnsBo
+final_mix: https://drive.google.com/file/d/1kc9qexTS4ZKOo3jt4hej6FVZhtfF8WvC/view?usp=sharing
 ---
 
 ### Close Companions
