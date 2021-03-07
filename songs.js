@@ -18,6 +18,5 @@ const songs = [
   "Harborcoat",
   "Pretty Persuasion",
   "Radio Free Europe",
-  "Sitting Still",
   "Carnival of Sorts (Boxcar)"
 ]
