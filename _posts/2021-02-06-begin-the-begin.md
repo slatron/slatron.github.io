@@ -51,8 +51,9 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 - Discoverer
 
 ##### Accelerate
-- Living Well is the Best Revenge
-- Supernatural Superserious
+- ~~Living Well is the Best Revenge~~
+  - *[Chosen 7th on March 8th, 2021](living-well-is-the-best-revenge-1.html)*
+  - Supernatural Superserious
 
 ##### Reveal
 - ~~I’ll Take the Rain~~

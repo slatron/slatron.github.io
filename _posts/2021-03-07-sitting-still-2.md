@@ -39,7 +39,12 @@ Other Instruments (4)
 - Bass, oubled
 
 ### Faithful Cover?
+Ya. I could have experimented on this one, but the simpler early ones are so much fun to re-create.
 
 ### Learnings
+- I'm capable of producing one of these in  a day given a few uninterrupted hours
+- This is in my sweet spot for vocal range
+- As a bass player, using the bass track to begin as the basis for the track is always a wise decision
 
 ### Next Up
+Living Well is the Best Revenge

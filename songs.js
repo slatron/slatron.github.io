@@ -1,6 +1,5 @@
 const songs = [
   "Discoverer",
-  "Living Well is the Best Revenge",
   "Supernatural Superserious",
   // "Hope",
   "Sad Professor",
