@@ -11,7 +11,7 @@ category: music
 desc: quick revenge final mix 
 permalink: living-well-is-the-best-revenge-2.html
 video: https://www.youtube.com/watch?v=rj55GSeXYuI
-final_mix: https://drive.google.com/file/d/1IrfG-kSRYLrt8lr6m_YgZ0QHPuYaRz3g/view?usp=sharing
+final_mix: https://drive.google.com/file/d/1kHsvHdhnuwMwMp9LrowSQnGxwGILe1Om/view?usp=sharing
 ---
 
 ### Calling
@@ -44,3 +44,4 @@ Somewhat. I substituted the effects track in for the organ. I also played the gu
 - Driving bass is a great workout
 
 ### Next Up
+Walk Unafraid

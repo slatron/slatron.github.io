@@ -52,7 +52,7 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 
 ##### Accelerate
 - ~~Living Well is the Best Revenge~~
-  - *[Final Mix](https://drive.google.com/file/d/1IrfG-kSRYLrt8lr6m_YgZ0QHPuYaRz3g/view?usp=sharing)*
+  - *[Final Mix](https://drive.google.com/file/d/1kHsvHdhnuwMwMp9LrowSQnGxwGILe1Om/view?usp=sharing)*
   - *[Chosen 7th on March 8th, 2021](living-well-is-the-best-revenge-1.html)*
 - Supernatural Superserious
 
@@ -64,7 +64,8 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 ##### Up
 - Hope
 - Sad Professor
-- Walk Unafraid
+- ~~Walk Unafraid~~
+  - *[Chosen 7th on March 12th, 2021](walk-unafraid-1.html)*
 - At My Most Beautiful
 
 ##### Hi-Fi

@@ -5,7 +5,7 @@ permalink: recordings.html
 
 <h1 class="page-heading">Recordings</h1>
 
-#### [Living Well Is The Best Revenge](https://drive.google.com/file/d/1IrfG-kSRYLrt8lr6m_YgZ0QHPuYaRz3g/view?usp=sharing){:target="_blank"} <span style="font-size: 10px;">March 11, 2021</span>
+#### [Living Well Is The Best Revenge](https://drive.google.com/file/d/1kHsvHdhnuwMwMp9LrowSQnGxwGILe1Om/view?usp=sharing){:target="_blank"} <span style="font-size: 10px;">March 11, 2021</span>
 
 ####  [Sitting Still](https://drive.google.com/file/d/1kc9qexTS4ZKOo3jt4hej6FVZhtfF8WvC/view?usp=sharing){:target="_blank"} <span style="font-size: 10px;">March 7, 2021</span>
 
