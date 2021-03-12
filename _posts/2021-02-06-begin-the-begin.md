@@ -52,13 +52,14 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 
 ##### Accelerate
 - ~~Living Well is the Best Revenge~~
+  - *[Final Mix](https://drive.google.com/file/d/1IrfG-kSRYLrt8lr6m_YgZ0QHPuYaRz3g/view?usp=sharing)*
   - *[Chosen 7th on March 8th, 2021](living-well-is-the-best-revenge-1.html)*
-  - Supernatural Superserious
+- Supernatural Superserious
 
 ##### Reveal
 - ~~I’ll Take the Rain~~
+  - *[Final Mix](https://drive.google.com/file/d/1v6JiyRs829CqiLvXj3pckZyr5fR6vKn9/view?usp=sharing)*
   - *[Chosen 3rd on Feb 18, 2021](ill-take-the-rain-1.html)*
-  - *[Final Project Mix](https://drive.google.com/file/d/1v6JiyRs829CqiLvXj3pckZyr5fR6vKn9/view?usp=sharing)*
 
 ##### Up
 - Hope
@@ -69,8 +70,8 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 ##### Hi-Fi
 - Leave
 - ~~So Fast, So Numb~~ 
+  - *[Final Mix](https://drive.google.com/file/d/12NVKLkgs17zyAAAiOf4Ry7WArQL7ITbf/view?usp=sharing){:target="_blank"}*
   - *[Chosen 1st on Feb 6, 2021](so-fast-so-numb-1.html)*
-  - *[Final Project Mix](https://drive.google.com/file/d/12NVKLkgs17zyAAAiOf4Ry7WArQL7ITbf/view?usp=sharing){:target="_blank"}*
 
 ##### Monster
 - What’s the Frequency, Kenneth?
@@ -80,8 +81,8 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 
 ##### Out of Time
 - ~~Near Wild Heaven~~
+  - *[Final Mix](https://drive.google.com/file/d/1UD8Cs8dT7eKY13vEK2SkVW_mWLGNLS5J/view?usp=sharing){:target="_blank"}*
   - *[Chosen 2nd on Feb 13, 2021](near-wild-heaven-1.html)*
-  - *[Final Project Mix](https://drive.google.com/file/d/1UD8Cs8dT7eKY13vEK2SkVW_mWLGNLS5J/view?usp=sharing){:target="_blank"}*
 
 ##### Green
 - You Are the Everything
@@ -94,8 +95,8 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 ##### Life’s Rich Pageant
 - Begin the Begin
 - These Days
-- ~I Believe~
-  - *[I Believe](https://drive.google.com/file/d/1bQPnMSNsrWEmIMdrtdAzG22aBVvQXL-z/view?usp=sharing){:target="_blank"}*
+- ~~I Believe~~
+  - *[Final Mix](https://drive.google.com/file/d/1bQPnMSNsrWEmIMdrtdAzG22aBVvQXL-z/view?usp=sharing){:target="_blank"}*
   - *[Chosen 2nd on Feb 27, 2021](i-believe-1.html)*
 
 
@@ -109,10 +110,10 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 ##### Murmur
 - Radio Free Europe
 - ~~Sitting Still~~
-  - *[Sitting Still](https://drive.google.com/file/d/1kc9qexTS4ZKOo3jt4hej6FVZhtfF8WvC/view?usp=sharing){:target="_blank"}*
+  - *[Final Mix](https://drive.google.com/file/d/1kc9qexTS4ZKOo3jt4hej6FVZhtfF8WvC/view?usp=sharing){:target="_blank"}*
   - *[Chosen 6th on March 6, 2021](sitting-still-1.html)*
 - ~~Shaking Through~~
-  - *[Shaking Through](https://drive.google.com/file/d/1bDK7eyMc3iloWywernigrHSnGvyKRCkq/view?usp=sharing){:target="_blank"}*
+  - *[Final Mix](https://drive.google.com/file/d/1bDK7eyMc3iloWywernigrHSnGvyKRCkq/view?usp=sharing){:target="_blank"}*
   - *[Chosen 4th on Feb 22, 2021](shaking-through-1.html)*
 
 ##### Chronic Town

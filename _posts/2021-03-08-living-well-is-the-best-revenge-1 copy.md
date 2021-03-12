@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Living Well Is The Best Revenge I
-song: Living Well Is The Best Reveng
+song: Living Well Is The Best Revenge
 album: Accelerate
 image: accelerate.jpg
 year: "2008"
@@ -11,6 +11,7 @@ category: music
 desc: living well
 permalink: living-well-is-the-best-revenge-1.html
 video: https://www.youtube.com/watch?v=rj55GSeXYuI
+final_mix: https://drive.google.com/file/d/1IrfG-kSRYLrt8lr6m_YgZ0QHPuYaRz3g/view?usp=sharing
 ---
 
 ### Revenge
