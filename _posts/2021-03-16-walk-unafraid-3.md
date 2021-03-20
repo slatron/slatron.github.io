@@ -11,6 +11,7 @@ category: music
 desc: simplicity hiding
 permalink: walk-unafraid-3.html
 video: https://www.youtube.com/watch?v=W-qENGh33F4
+final_mix: https://drive.google.com/file/d/1WEyC_ld3Lq1_NO62ZJaOFveLWcI4PXN5/view?usp=sharing
 ---
 
 ### Blank Page Song

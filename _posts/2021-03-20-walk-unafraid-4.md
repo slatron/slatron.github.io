@@ -1,0 +1,59 @@
+---
+layout: post
+title:  Walk Unafraid IV
+song: Walk Unafraid
+album: Up
+image: up.jpg
+year: "1998"
+date: 2021-03-20
+tags: rem-project
+category: music
+desc: a synthtastic finish
+permalink: walk-unafraid-4.html
+video: https://www.youtube.com/watch?v=W-qENGh33F4
+final_mix: https://drive.google.com/file/d/1WEyC_ld3Lq1_NO62ZJaOFveLWcI4PXN5/view?usp=sharing
+---
+
+### Vocal Discoveries
+I'm picking up on more of Michael's vocal tics. In the pre-chorus, he anchors his voice on a lower D. He naturally resolves on that note after each word on the D chord. I'm not sure if it's something he's doing purposely as much as it's the way his voice naturally rests at the end of shorter phrases.
+
+### Final Tracks (28)
+Vocals (12)
+- Main vocal composited
+- Main vocal doubled (3)
+- Background Vocals Verse 2 (4)
+- Background Vocals Verse 3 (4)
+
+Guitar (5)
+- Picked full song performance on two tracks
+- Fingerstyle full song performance on two tracks higher in mix
+- "Rocks Smash!" power chords track on third verse
+
+Electric Violin (3)
+- e-bow Part Iintro
+- e-bow Part through song
+- Fiddler Joe pops in at end of third verse
+
+Synthesizer (3)
+- Accordeon Backing w/ebow
+- End Syth Lead
+- Strings on last bridge
+
+Other Instruments (5)
+- Piano Lead Line
+- Piano soft repeated note third verse
+- Piano Chords
+- Bass
+- Robot Drummer
+
+
+### Faithful Cover?
+Similar, but there's almost no way to get a perfect "Up" recreation in a week. The song itself is so straightforward in terms of sequencing and chord structure. Nothing but the synths and effects used to distinguish it. It feels like a blank page of a song this way. I could do anything with it, as long as what I do is somewhat interesting.
+
+Peter used an ebow thoughout his part. I don't have one of those, but I gots the next best thing: an electric violin. I put it through a bunch of guitar amp modelers and effects to get something that could take on that role.
+
+### Learnings
+
+
+### Next Up
+Hope
