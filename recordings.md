@@ -5,6 +5,8 @@ permalink: recordings.html
 
 <h1 class="page-heading">Recordings</h1>
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1012089535&color=%23beb7b1&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+
 <div class="flex-table">
   <div class="row head">
     <span></span>
@@ -70,3 +72,5 @@ permalink: recordings.html
     <span class="text-small">2/6/21</span>
   </div>
 </div>
+
+<div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/slatron" title="slatron" target="_blank" style="color: #cccccc; text-decoration: none;">slatron</a> · <a href="https://soundcloud.com/slatron/walk-unafraid" title="Walk Unafraid" target="_blank" style="color: #cccccc; text-decoration: none;">Walk Unafraid</a></div>
