@@ -68,7 +68,7 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 - ~~Walk Unafraid~~
   - *[Chosen 8th on March 12th, 2021](walk-unafraid-1.html){:target="_blank"}*
 - ~~At My Most Beautiful~~
-  - Chosen 10th on March 20th, 2021
+  - *[Chosen 10th on March 20th, 2021](at-my-most-beautiful-1.html){:target="_blank"}*
 
 ##### Hi-Fi
 - Leave

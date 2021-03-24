@@ -43,6 +43,18 @@
   }
 }
 
+.split-header {
+  display: flex;
+  span:nth-child(1) {
+    flex: 1 0 75%;
+  }
+  span:nth-child(2) {
+    flex: 0 1 25%;
+    font-size: 0.8rem;
+    text-align: right;
+  }
+}
+
 .flex-table {
   display: flex;
   flex-direction: column;

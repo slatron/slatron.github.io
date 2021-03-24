@@ -7,7 +7,10 @@ permalink: recordings.html
 
 <iframe width="100%" height="165" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1207303108&color=%23d1c6c0&auto_play=false&hide_related=false&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
 
-<h2 class="page-heading">Downloads</h2>
+<h2 class="page-heading split-header">
+  <span>Downloads</span>
+  <span>✭ Mike's Picks</span>
+</h2>
 
 <div class="flex-table">
   <div class="row head">

@@ -8,14 +8,14 @@ year: "1998"
 date: 2021-03-12
 tags: rem-project
 category: music
-desc: on up
+desc: a new up
 permalink: walk-unafraid-1.html
 video: https://www.youtube.com/watch?v=W-qENGh33F4
 final_mix: https://drive.google.com/file/d/1WEyC_ld3Lq1_NO62ZJaOFveLWcI4PXN5/view?usp=sharing
 ---
 
 ### Meditations On Up
-Up is [one of my top 5 REM albums](https://slatron.github.io/comics/rem-rank.html){:target="_blank"}. This is despite my not liking it at the time. That and I think that its one of the worst sequenced albums of all time.
+Up is [in my top 5 REM albums](https://slatron.github.io/comics/rem-rank.html){:target="_blank"}. This is despite my not liking it at the time. That and I think that its one of the worst sequenced albums of all time.
 
 I never listened much to Up until my recent re-evaluation of their latet period in 2017. I'm not sure what led me back to REM, but what I found was several of my new all-time favorite REM songs. Up especially captured me. BUt it was so tough to get into. Each song feels like a jarring change from the last. And the last few songs always blend togetether for me to nothing. It was only until I was constantly going back to these as individual tracks that I realized how great most of these songs are. "Sad Professor", "Hope", "Walk Unafraid" and "At My Most Beautiful" would all be in my top 20 songs list if I ever made one. No other REM album is represented as much in this project.
 

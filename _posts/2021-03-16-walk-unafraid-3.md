@@ -19,7 +19,7 @@ This song is sequenced so straight forward. I was so surprised to see every chor
 
 This is also the first song that stays almost exactly on a single bpm throughout the song. Its pretty obvious that this was recorded with all band members seprate from each other. Peter has said in interviews that they never played this song all together in a room before the studio version was complete. He just added the guitar and effects to the existing tracks.
 
-This leaves a ton of room for creativity on this song. It would be nearly impossible to recreate Peter's effects. Especially all the ebow parts. And I don't ahve an ebow. I'm considering a synth for those parts.
+This leaves a ton of room for creativity on this song. It would be nearly impossible to recreate Peter's effects. Especially all the ebow parts. And I don't have an e-bow. I'm considering a synth for those parts.
 
 I'm also considering a "Mad Bread" arranged version. That would be one electric guitat, one acoustic, bass and electic fiddle. I'd probably leave in the robot drummer, but it would still be closer to what the band would do as a cover.
 

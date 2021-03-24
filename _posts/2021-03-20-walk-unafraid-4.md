@@ -17,6 +17,13 @@ final_mix: https://drive.google.com/file/d/1WEyC_ld3Lq1_NO62ZJaOFveLWcI4PXN5/vie
 ### Vocal Discoveries
 I'm picking up on more of Michael's vocal tics. In the pre-chorus, he anchors his voice on a lower D. He naturally resolves on that note after each word on the D chord. I'm not sure if it's something he's doing purposely as much as it's the way his voice naturally rests at the end of shorter phrases.
 
+It's very difficult to pull off. I got something close by jumping down to the D on some of those parts, but there's something in Michael's transitions that comes off so clean. After a couple months of singing, I'm remembering all the proper ways to support breath. Keeping up with some of these long phrases is a chore. Especially with the uncommon meter Michael uses.
+
+It's getting a bit more comfortable hearing my own voice on these tracks. My goal for each lead vocal is to get a take that I can stand to hear with no EQ or effects. That way I have a good starting point going into mixing.
+
+### E-Bow Replacements
+I was able to get a decent e-bow sound on my NS violin. It's an electric played with a bow, so seemed natural enough. Putting some heavy distrotion on it made it virtually unrecognizable as a violin. For fun, I added a more traditional fiddle part on the third verse. You can her a snippet of it at the end with the high repeated piano notes.
+
 ### Final Tracks (28)
 Vocals (12)
 - Main vocal composited
@@ -30,7 +37,7 @@ Guitar (5)
 - "Rocks Smash!" power chords track on third verse
 
 Electric Violin (3)
-- e-bow Part Iintro
+- e-bow Part Intro
 - e-bow Part through song
 - Fiddler Joe pops in at end of third verse
 
