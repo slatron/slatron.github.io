@@ -25,7 +25,7 @@ permalink: recordings.html
     <span><a href="https://drive.google.com/file/d/1Et9QkM4rWoUPY-iKXSpv8W4Ne8U_J8OE/view?usp=sharing" target="_blank">Hope</a></span>
     <span><a href="https://drive.google.com/file/d/1Et9QkM4rWoUPY-iKXSpv8W4Ne8U_J8OE/view?usp=sharing" target="_blank">🎸</a></span>
     <span></span>
-    <span class="text-small">3/20/21</span>
+    <span class="text-small">3/29/21</span>
   </div>
   <div class="row">
     <span><a href="https://drive.google.com/file/d/1WEyC_ld3Lq1_NO62ZJaOFveLWcI4PXN5/view?usp=sharing" target="_blank">✭</a></span>
