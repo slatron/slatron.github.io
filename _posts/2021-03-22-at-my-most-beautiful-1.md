@@ -11,6 +11,7 @@ category: music
 desc: return of the up
 permalink: at-my-most-beautiful-1.html
 video: https://www.youtube.com/watch?v=0xKISUD_F0s
+final_mix: https://drive.google.com/file/d/11FSFyQuDRLX2h5qGmjypCDa1i0-3fgz1/view?usp=sharing
 ---
 
 ### Expanding the Sounds

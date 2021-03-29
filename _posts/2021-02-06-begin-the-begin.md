@@ -67,8 +67,10 @@ I plan on using a random number generator to pick a new song each time. Soon as 
   - *[Chosen 9th on March 20th, 2021](hope-1.html){:target="_blank"}*
 - Sad Professor
 - ~~Walk Unafraid~~
+  - *[Final Mix](https://drive.google.com/file/d/1WEyC_ld3Lq1_NO62ZJaOFveLWcI4PXN5/view?usp=sharing){:target="_blank"}*
   - *[Chosen 8th on March 12th, 2021](walk-unafraid-1.html){:target="_blank"}*
 - ~~At My Most Beautiful~~
+  - *[Final Mix](https://drive.google.com/file/d/11FSFyQuDRLX2h5qGmjypCDa1i0-3fgz1/view?usp=sharing){:target="_blank"}*
   - *[Chosen 10th on March 20th, 2021](at-my-most-beautiful-1.html){:target="_blank"}*
 
 ##### Hi-Fi

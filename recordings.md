@@ -20,6 +20,14 @@ permalink: recordings.html
     <span title="single-take recording on one mic, raw with no effects">Acoustic</span>
     <span title="date">Date</span>
   </div>
+
+  <div class="row">
+    <span><a href="https://drive.google.com/file/d/11FSFyQuDRLX2h5qGmjypCDa1i0-3fgz1/view?usp=sharing" target="_blank"></a></span>
+    <span><a href="https://drive.google.com/file/d/11FSFyQuDRLX2h5qGmjypCDa1i0-3fgz1/view?usp=sharing" target="_blank">At My Most Beautiful</a></span>
+    <span><a href="https://drive.google.com/file/d/11FSFyQuDRLX2h5qGmjypCDa1i0-3fgz1/view?usp=sharing" target="_blank">🎸</a></span>
+    <span></span>
+    <span class="text-small">3/29/21</span>
+  </div>
   <div class="row">
     <span><a href="https://drive.google.com/file/d/1Et9QkM4rWoUPY-iKXSpv8W4Ne8U_J8OE/view?usp=sharing" target="_blank">✭</a></span>
     <span><a href="https://drive.google.com/file/d/1Et9QkM4rWoUPY-iKXSpv8W4Ne8U_J8OE/view?usp=sharing" target="_blank">Hope</a></span>
