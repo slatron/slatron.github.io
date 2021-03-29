@@ -63,6 +63,7 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 
 ##### Up
 - ~~Hope~~
+  - *[Final Mix](https://drive.google.com/file/d/1Et9QkM4rWoUPY-iKXSpv8W4Ne8U_J8OE/view?usp=sharing){:target="_blank"}*
   - *[Chosen 9th on March 20th, 2021](hope-1.html){:target="_blank"}*
 - Sad Professor
 - ~~Walk Unafraid~~

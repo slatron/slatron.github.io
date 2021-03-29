@@ -9,7 +9,7 @@ date: 2021-03-29
 tags: rem-project
 category: music
 desc: beach bliss
-permalink: at-my-most-beautiful-1.html
+permalink: at-my-most-beautiful-2.html
 video: https://www.youtube.com/watch?v=0xKISUD_F0s
 ---
 
