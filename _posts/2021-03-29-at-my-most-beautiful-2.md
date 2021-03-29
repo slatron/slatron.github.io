@@ -27,3 +27,5 @@ I managed to break the number of vocal tracks here. 17 seprate vocal takes stack
 
 It's gonna be a rough mixing session, but I should get something listenable here. As always, the lead vocal s are the weak point, but the backing vocals soar.
 
+It seems like an odd way to phrase it, but recording/mixing these "Up" songs is like making a souffle. They are delicate and need a light touch. One part with a poor EQ or volume choice could destroy the entire thing. As opposed to "Living Well", which is like blacksmithing. Temper your voice in fire and release it as hard as you can with that one. Not so much here.
+
