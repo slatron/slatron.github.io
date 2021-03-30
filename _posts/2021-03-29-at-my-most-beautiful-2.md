@@ -5,7 +5,7 @@ song: At My Most Beautiful
 album: Up
 image: most-beautiful.jpg
 year: "1998"
-date: 2021-03-29
+date: 2021-03-29t12:00:01
 tags: rem-project
 category: music
 desc: beach bliss

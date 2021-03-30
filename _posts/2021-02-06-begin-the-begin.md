@@ -80,7 +80,8 @@ I plan on using a random number generator to pick a new song each time. Soon as 
   - *[Chosen 1st on Feb 6, 2021](so-fast-so-numb-1.html){:target="_blank"}*
 
 ##### Monster
-- What’s the Frequency, Kenneth?
+- ~What’s the Frequency, Kenneth?~
+  - *[Chosen 11th on March 29th, 2021](frequency-1.html){:target="_blank"}*
 
 ##### Automatic for the People
 - Sweetness Follows

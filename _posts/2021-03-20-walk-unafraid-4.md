@@ -53,14 +53,14 @@ Other Instruments (5)
 - Bass
 - Robot Drummer
 
-
 ### Faithful Cover?
 Similar, but there's almost no way to get a perfect "Up" recreation in a week. The song itself is so straightforward in terms of sequencing and chord structure. Nothing but the synths and effects used to distinguish it. It feels like a blank page of a song this way. I could do anything with it, as long as what I do is somewhat interesting.
 
 Peter used an ebow thoughout his part. I don't have one of those, but I gots the next best thing: an electric violin. I put it through a bunch of guitar amp modelers and effects to get something that could take on that role.
 
 ### Learnings
-
+- Forcing constraints on myself like having to use the electric violin makes for some good opportunities
+- Doesn't take much to get a decent sounding echo effect
 
 ### Next Up
 Hope
