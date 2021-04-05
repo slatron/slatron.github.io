@@ -81,6 +81,7 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 
 ##### Monster
 - ~What’s the Frequency, Kenneth?~
+  - *[Final Mix](https://drive.google.com/file/d/1cZ0RDxEdf8dpr93axawJ0i0_k9d8qiZm/view?usp=sharing){:target="_blank"}*
   - *[Chosen 11th on March 29th, 2021](frequency-1.html){:target="_blank"}*
 
 ##### Automatic for the People
