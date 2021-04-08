@@ -19,14 +19,14 @@ permalink: recordings.html
   </div>
 
   <div class="row">
-    <span><a href="https://drive.google.com/file/d/1cZ0RDxEdf8dpr93axawJ0i0_k9d8qiZm/view?usp=sharing" target="_blank"></a></span>
+    <span><a href="https://drive.google.com/file/d/1cZ0RDxEdf8dpr93axawJ0i0_k9d8qiZm/view?usp=sharing" target="_blank">✭</a></span>
     <span><a href="https://drive.google.com/file/d/1cZ0RDxEdf8dpr93axawJ0i0_k9d8qiZm/view?usp=sharing" target="_blank">What's the Frequency, Kenneth?</a></span>
     <span><a href="https://drive.google.com/file/d/1cZ0RDxEdf8dpr93axawJ0i0_k9d8qiZm/view?usp=sharing" target="_blank">🎸</a></span>
     <span></span>
     <span class="text-small">4/5/21</span>
   </div>
   <div class="row">
-    <span><a href="https://drive.google.com/file/d/11FSFyQuDRLX2h5qGmjypCDa1i0-3fgz1/view?usp=sharing" target="_blank"></a></span>
+    <span></span>
     <span><a href="https://drive.google.com/file/d/11FSFyQuDRLX2h5qGmjypCDa1i0-3fgz1/view?usp=sharing" target="_blank">At My Most Beautiful</a></span>
     <span><a href="https://drive.google.com/file/d/11FSFyQuDRLX2h5qGmjypCDa1i0-3fgz1/view?usp=sharing" target="_blank">🎸</a></span>
     <span></span>
@@ -54,14 +54,14 @@ permalink: recordings.html
     <span class="text-small">3/11/21</span>
   </div>
   <div class="row">
-    <span><a href="https://drive.google.com/file/d/1kc9qexTS4ZKOo3jt4hej6FVZhtfF8WvC/view?usp=sharing" target="_blank">✭</a></span>
+    <span></span>
     <span><a href="https://drive.google.com/file/d/1kc9qexTS4ZKOo3jt4hej6FVZhtfF8WvC/view?usp=sharing" target="_blank">Sitting Still</a></span>
     <span><a href="https://drive.google.com/file/d/1kc9qexTS4ZKOo3jt4hej6FVZhtfF8WvC/view?usp=sharing" target="_blank">🎸</a></span>
     <span><a href="https://drive.google.com/file/d/1gTbVR5RPuw4G25cB_3w7RyZl8vocB6R_/view?usp=sharing" target="_blank">🎤</a></span>
     <span class="text-small">3/7/21</span>
   </div>
   <div class="row">
-    <span></span>
+    <span><a href="https://drive.google.com/file/d/1bQPnMSNsrWEmIMdrtdAzG22aBVvQXL-z/view?usp=sharing" target="_blank">✭</a></span>
     <span><a href="https://drive.google.com/file/d/1bQPnMSNsrWEmIMdrtdAzG22aBVvQXL-z/view?usp=sharing" target="_blank">I Believe</a></span>
     <span><a href="https://drive.google.com/file/d/1bQPnMSNsrWEmIMdrtdAzG22aBVvQXL-z/view?usp=sharing" target="_blank">🎸</a></span>
     <span> </span>
