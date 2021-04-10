@@ -45,10 +45,11 @@ To be honest, I'm most excited to get through these and see if I want to keep go
 
 I plan on using a random number generator to pick a new song each time. Soon as I pick the song, I'll start the blog post and figuring out what I want to do in terms of arrangement. I'm in a small apartment, so Drums and percussion will be mostly midi for now. I also have no good keyboard controller, so any piano / organ parts will also be a midi arrangement. I purposly stayed away from piano focused songs at first for that reaon. No "Nightswimming" or "At My Most Beautiful" for a while. Though I may take on "At My Most Beautiful" if I visit home and have access to my old piano.
 
-## Initial Song List
+## Song List
 
-##### Collapse Into Now 
-- Discoverer
+[Updated 10/7/20](intermission-1.html)
+
+Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect Circle" and "Don't Go Back To Rockville". This brings "Murmur" up to four songs - tied with "Up" for most represented album here. It also means that I won't be doing anything from "Collapse" or "Around the Sun". Just means I'll have to do another round someday.
 
 ##### Accelerate
 - ~~Living Well is the Best Revenge~~
@@ -110,6 +111,7 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 
 ##### Fables of the Reconstruction
 - Driver 8
+- Don't Go Back to Rockville
 
 ##### Reckoning
 - Harborcoat
@@ -123,6 +125,7 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 - ~~Shaking Through~~
   - *[Final Mix](https://drive.google.com/file/d/1bDK7eyMc3iloWywernigrHSnGvyKRCkq/view?usp=sharing){:target="_blank"}*
   - *[Chosen 4th on Feb 22, 2021](shaking-through-1.html)*
+- Perfect Circle
 
 ##### Chronic Town
 - Carnival of Sorts (Boxcar)

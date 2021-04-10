@@ -1,6 +1,4 @@
 const songs = [
-  "Discoverer",
-  "Supernatural Superserious",
   "Sad Professor",
   "Leave",
   "Sweetness Follows",
@@ -11,8 +9,10 @@ const songs = [
   "Begin the Begin",
   "These Days",
   "Driver 8",
+  "Don't Go Back To Rockville",
   "Harborcoat",
   "Pretty Persuasion",
   "Radio Free Europe",
+  "Perfect Circle",
   "Carnival of Sorts (Boxcar)"
 ]
