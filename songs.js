@@ -8,7 +8,6 @@ const songs = [
   "Exhuming McCarthy",
   "Begin the Begin",
   "These Days",
-  "Driver 8",
   "Don't Go Back To Rockville",
   "Harborcoat",
   "Pretty Persuasion",
