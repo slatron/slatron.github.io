@@ -117,7 +117,8 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 
 ##### Reckoning
 - Harborcoat
-- Pretty Persuasion
+- ~~Pretty Persuasion~~
+  - *[Chosen 13th on April 12, 2021](pretty-persuasion-1.html){:target="_blank"}*
 
 ##### Murmur
 - Radio Free Europe

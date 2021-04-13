@@ -10,7 +10,6 @@ const songs = [
   "These Days",
   "Don't Go Back To Rockville",
   "Harborcoat",
-  "Pretty Persuasion",
   "Radio Free Europe",
   "Perfect Circle",
   "Carnival of Sorts (Boxcar)"
