@@ -13,43 +13,9 @@ permalink: pretty-persuasion-1.html
 video: https://www.youtube.com/watch?v=FRUj8tIboF8
 ---
 
-### Pretty Persuasion
+### Rawrangement
 
-It's what I want
-Hurry and buy
-All has been tried
-Follow reason and buy
-Cannot shuffle in this heat
-It's all wrong
-Try to put that on your sleeve
-It's all wrong, it's all wrong
-He's got pretty persuasion
-She's got pretty persuasion
-Goddamn, pure confusion
-She's got pretty persuasion
-It's what I want
-Hurry and buy
-All has been tried
-Follow reasoning
-Cannot put that in this heat
-It's all wrong
-Try to wear that on my sleeve
-It's all wrong, all wrong
-He's got pretty persuasion
-She's got pretty persuasion
-Goddamn, pure confusion
-He's got pretty persuasion
-In the light, I saw
-Quite a scene in there
-It's what I want
-Hurry and buy
-All has been tried
-Follow reason and buy
-Try to put that in this heat
-It's all wrong
-Cannot wear that on your sleeve
-It's all wrong, all wrong
-He's got pretty persuasion
-She's got pretty persuasion
-Goddamn, pure confusion
-He's got pretty persua
+This one is almost intimidating from the simple arrangment. Drums + Bass. 2 Guitar Tracks. Vocals. Nothing else. I'll be practicing the parts and slowly recording through.
+
+Vocals and guitar are both obscured in reverb here. Backing vocals are near inmpossible to discern here, sot that will be fun to mumble through. I have much going in right now and will be releasing these slower, but I'm still moving forward.
+
