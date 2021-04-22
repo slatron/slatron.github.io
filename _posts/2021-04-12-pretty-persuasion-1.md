@@ -17,5 +17,4 @@ video: https://www.youtube.com/watch?v=FRUj8tIboF8
 
 This one is almost intimidating from the simple arrangment. Drums + Bass. 2 Guitar Tracks. Vocals. Nothing else. I'll be practicing the parts and slowly recording through.
 
-Vocals and guitar are both obscured in reverb here. Backing vocals are near inmpossible to discern here, sot that will be fun to mumble through. I have much going in right now and will be releasing these slower, but I'm still moving forward.
-
+Vocals and guitar are both obscured in reverb here. Backing vocals are near impossible to discern here, so that will be fun to mumble through. I have to take a break from recording every night, but I'll still be able to get these out when ready.
