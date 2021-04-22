@@ -55,7 +55,6 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 - ~~Living Well is the Best Revenge~~
   - *[Final Mix](https://drive.google.com/file/d/1kHsvHdhnuwMwMp9LrowSQnGxwGILe1Om/view?usp=sharing){:target="_blank"}*
   - *[Chosen 7th on March 8th, 2021](living-well-is-the-best-revenge-1.html){:target="_blank"}*
-- Supernatural Superserious
 
 ##### Reveal
 - ~~I’ll Take the Rain~~
