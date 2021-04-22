@@ -11,6 +11,7 @@ category: music
 desc: its what i want
 permalink: pretty-persuasion-1.html
 video: https://www.youtube.com/watch?v=FRUj8tIboF8
+final_mix: https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing
 ---
 
 ### Rawrangement

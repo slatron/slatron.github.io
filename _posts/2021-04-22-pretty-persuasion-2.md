@@ -11,6 +11,7 @@ category: music
 desc: all hands are tied
 permalink: pretty-persuasion-2.html
 video: https://www.youtube.com/watch?v=FRUj8tIboF8
+final_mix: https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing
 ---
 
 ### Tone Focus

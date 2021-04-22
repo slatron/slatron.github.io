@@ -116,6 +116,7 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 ##### Reckoning
 - Harborcoat
 - ~~Pretty Persuasion~~
+  - *[Final Mix](https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing){:target="_blank"}*
   - *[Chosen 13th on April 12, 2021](pretty-persuasion-1.html){:target="_blank"}*
 - Don't Go Back to Rockville
 

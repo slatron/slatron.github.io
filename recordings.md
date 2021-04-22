@@ -2,7 +2,7 @@
 layout: page
 permalink: recordings.html
 ---
-<iframe width="100%" height="305" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1207303108&color=%23d1c6c0&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
+<iframe width="100%" height="315" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1207303108&color=%23d1c6c0&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
 
 <h2 class="page-heading split-header">
   <span>Downloads</span>
@@ -18,6 +18,13 @@ permalink: recordings.html
     <span title="date">Date</span>
   </div>
 
+  <div class="row">
+    <span><a href="https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing" target="_blank">✭</a></span>
+    <span><a href="https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing" target="_blank">Pretty Persuasion</a></span>
+    <span><a href="https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing" target="_blank">🎸</a></span>
+    <span></span>
+    <span class="text-small">4/22/21</span>
+  </div>
   <div class="row">
     <span><a href="https://drive.google.com/file/d/1VZiclBYdeEq4ayBbnSituW5T2l726Lk2/view?usp=sharing" target="_blank">✭</a></span>
     <span><a href="https://drive.google.com/file/d/1VZiclBYdeEq4ayBbnSituW5T2l726Lk2/view?usp=sharing" target="_blank">Driver 8</a></span>
