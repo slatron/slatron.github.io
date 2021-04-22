@@ -5,7 +5,6 @@ const songs = [
   "You Are the Everything",
   "Turn You Inside Out",
   "Finest Worksong",
-  "Exhuming McCarthy",
   "Begin the Begin",
   "These Days",
   "Don't Go Back To Rockville",
