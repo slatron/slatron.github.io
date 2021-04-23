@@ -74,6 +74,7 @@
 
   .row {
     display: flex;
+    padding: 3px 0;
 
     span {
       text-align: center;
@@ -102,6 +103,10 @@
       }
     }
     span:nth-child(5) {
+      flex: 0 1 40px;
+      padding-left:  5px;
+    }
+    span:nth-child(6) {
       flex: 0 1 100px;
       text-align: right;
       padding-right: 3px;

@@ -31,7 +31,7 @@ Guitar (15)
 - Low Phaser Tone for Pre-Chorus muted (2)
 - Extra Jangle Control (2)
 
-Other (5)
+Other (4)
 - Full Kit
 - Reverb Snare
 - Bass (2)
