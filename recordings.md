@@ -20,6 +20,14 @@ permalink: recordings.html
   </div>
 
   <div class="row">
+    <span></span>
+    <span><a href="https://drive.google.com/file/d/1fdzJGO7KQvwzmp4JWt5rILEi_Om0wumM/view?usp=sharing" target="_blank">Exhuming McCarthy</a></span>
+    <span><a href="https://drive.google.com/file/d/1fdzJGO7KQvwzmp4JWt5rILEi_Om0wumM/view?usp=sharing" target="_blank">🎸</a></span>
+    <span></span>
+    <span><img loading="lazy" src="/ms_assets/images/albums/document.jpg" /></span>
+    <span class="text-small">4/29/21</span>
+  </div>
+  <div class="row">
     <span><a href="https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing" target="_blank">✭</a></span>
     <span><a href="https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing" target="_blank">Pretty Persuasion</a></span>
     <span><a href="https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing" target="_blank">🎸</a></span>

@@ -98,7 +98,8 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 
 ##### Document
 - Finest Worksong
-- Exhuming McCarthy
+- ~~Exhuming McCarthy~~
+  - *[Final Mix](https://drive.google.com/file/d/1fdzJGO7KQvwzmp4JWt5rILEi_Om0wumM/view?usp=sharing){:target="_blank"}*
   - *[Chosen 14th on April 22, 2021](exhuming-mccarthy-1.html){:target="_blank"}*
 
 ##### Life’s Rich Pageant
