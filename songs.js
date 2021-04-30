@@ -9,7 +9,6 @@ const songs = [
   "These Days",
   "Don't Go Back To Rockville",
   "Harborcoat",
-  "Radio Free Europe",
   "Perfect Circle",
   "Carnival of Sorts (Boxcar)"
 ]
