@@ -11,7 +11,7 @@ reddit_username: slatron11
 twitter_username: slatron
 github_username:  slatron
 plugins: [jekyll-paginate]
-paginate: 12
+paginate: 18
 port: 5000
 
 # Build settings
