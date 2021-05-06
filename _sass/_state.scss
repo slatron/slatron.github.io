@@ -55,6 +55,80 @@
   }
 }
 
+  // thead th {
+  //   display: none;
+  // }
+
+  // td {
+  //   display: block;
+  // }
+
+  // td[data-th]:before {
+  // content: attr(data-th);
+  // padding: 0 10px;
+  // font-weight: bold;
+  // width: 140px;
+  // display: inline-block;
+  // }
+
+  // .table-shrink tbody td:not(:first-child) {
+  //   display: none;
+  // }
+
+  // from td Ameritrade
+
+  .table-collapsible {
+    .toggle-link {
+        display: none;
+    }
+
+    @media only screen and (max-width: 500px) {
+        .toggle-link {
+            padding-left: 8px;
+            display: inline-block;
+            font-size: 11px;
+            color: blue;
+            cursor: pointer;
+            width: 23px;
+        }
+
+        thead {
+            background-color: blue;
+            color: #eeeeee;
+        }
+
+        thead tr.row th {
+            display: none;
+        }
+
+        tbody .row td:not(:first-child) {
+            display: none;
+        }
+
+        tbody .row.expand td {
+            display: block;
+            border-top: none;
+        }
+        // data-th attr matches column heading
+        tbody td[data-th]:before {
+            content: attr(data-th);
+            padding: 0 10px;
+            width: 140px;
+            display: inline-block;
+        }
+        // The First TD is Always Visible as the mobile heading
+        tbody td:first-child[data-th]:before {
+            font-weight: bold;
+        }
+        // Rest are indented for better separation
+        tbody td:not(:first-child)[data-th]:before {
+            padding-left: 25px;
+        }
+    }
+  }
+
+// replace below with collapsible table
+
 .flex-table {
   display: flex;
   flex-direction: column;

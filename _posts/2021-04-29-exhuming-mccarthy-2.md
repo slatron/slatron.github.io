@@ -45,7 +45,7 @@ Other (7)
 - McCarty Hearing Clip
 
 ### Faithful Cover?
-Np and I don't think this category matters much anymore. I don't know exactly how "faithful" I should be on these. Reeally I just have to make the base tracks I can do with what I got. No more of this.
+No and I don't think this category matters much anymore. I don't know exactly how "faithful" I should be on these. Reeally I just have to make the base tracks I can do with what I got. No more of this.
 
 ### Learnings
 - Can't do something with a motown beat without overtaiking that robot. I had to reprogram most of the drums on this one.

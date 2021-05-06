@@ -21,6 +21,14 @@ permalink: recordings.html
 
   <div class="row">
     <span></span>
+    <span><a href="https://drive.google.com/file/d/1nLyvx1lsOznYI2TTobgKJ6RquY_8f4pw/view?usp=sharing" target="_blank">Radio Free Europe</a></span>
+    <span><a href="https://drive.google.com/file/d/1nLyvx1lsOznYI2TTobgKJ6RquY_8f4pw/view?usp=sharing" target="_blank">🎸</a></span>
+    <span></span>
+    <span><img loading="lazy" src="/ms_assets/images/albums/murmur.jpg" /></span>
+    <span class="text-small">5/4/21</span>
+  </div>
+  <div class="row">
+    <span></span>
     <span><a href="https://drive.google.com/file/d/1fdzJGO7KQvwzmp4JWt5rILEi_Om0wumM/view?usp=sharing" target="_blank">Exhuming McCarthy</a></span>
     <span><a href="https://drive.google.com/file/d/1fdzJGO7KQvwzmp4JWt5rILEi_Om0wumM/view?usp=sharing" target="_blank">🎸</a></span>
     <span></span>
@@ -28,7 +36,7 @@ permalink: recordings.html
     <span class="text-small">4/29/21</span>
   </div>
   <div class="row">
-    <span><a href="https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing" target="_blank">✭</a></span>
+    <span></span>
     <span><a href="https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing" target="_blank">Pretty Persuasion</a></span>
     <span><a href="https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing" target="_blank">🎸</a></span>
     <span></span>
@@ -36,7 +44,7 @@ permalink: recordings.html
     <span class="text-small">4/22/21</span>
   </div>
   <div class="row">
-    <span></span>
+    <span><a href="https://drive.google.com/file/d/1VZiclBYdeEq4ayBbnSituW5T2l726Lk2/view?usp=sharing" target="_blank">✭</a></span>
     <span><a href="https://drive.google.com/file/d/1VZiclBYdeEq4ayBbnSituW5T2l726Lk2/view?usp=sharing" target="_blank">Driver 8</a></span>
     <span><a href="https://drive.google.com/file/d/1VZiclBYdeEq4ayBbnSituW5T2l726Lk2/view?usp=sharing" target="_blank">🎸</a></span>
     <span></span>
