@@ -1,25 +1,3 @@
-@mixin default-box-shadow() {
-  -webkit-box-shadow: 2px 2px 6px 2px rgba(121,121,121,0.65);
-  -moz-box-shadow: 2px 2px 6px 2px rgba(121,121,121,0.65);
-  box-shadow: 2px 2px 6px 2px rgba(121,121,121,0.65);
-}
-
-.floatleft {
-  float: left;
-}
-
-.hand {
-  cursor: pointer;
-}
-
-.flex-line {
-  display: flex;
-
-  > * {
-    margin-right: 1rem;
-  }
-}
-
 .link-icon {
   width: 20px;
   height: 20px;
@@ -54,174 +32,185 @@
     text-align: right;
   }
 }
-
-  // thead th {
-  //   display: none;
-  // }
-
-  // td {
-  //   display: block;
-  // }
-
-  // td[data-th]:before {
-  // content: attr(data-th);
-  // padding: 0 10px;
-  // font-weight: bold;
-  // width: 140px;
-  // display: inline-block;
-  // }
-
-  // .table-shrink tbody td:not(:first-child) {
-  //   display: none;
-  // }
-
-  // from td Ameritrade
-
-  .table-collapsible {
-    width: 100%;
-
-    .mobile-toggle {
-      display: none;
-    }
-
-    th:first-child{
-      text-align: left;       
-    }
-    th {
-      text-align: center;       
-    }
-    td:first-child {
-      text-align: left;
-    }
-    td {
-      text-align: center;
-    }
-    img {
-      width: 40px;
-    }
-    tbody tr:nth-child(even) {
-      background: #eeefff;
-   }
-    @media only screen and (max-width: 500px) {
-      .mobile-toggle {
-        padding-left: 5px;
-        padding-top: 5px;
-        position: relative;
-        right: 5px;
-        font-size: 11px;
-        color: blue;
-        cursor: pointer;
-        float: right;
-        width: 23px;
-      }
-      thead {
-          background-color: blue;
-          color: #eeeeee;
-      }
-
-      thead tr.row th {
-          display: none;
-      }
-
-      tbody .row td:not(:first-child) {
-          display: none;
-      }
-
-      td {
-        text-align: left;
-      }
-      td:not(:first-child) {
-        padding-left: 55px;
-      }
-
-      tbody .row.expand td {
-          display: block;
-          border-top: none;
-      }
-
-      tbody .row .icon-more {
-        display: block;
-      }
-      tbody .row .icon-less {
-        display: none;
-      }
-      tbody .row.expand .icon-more {
-        display: none;
-      }
-      tbody .row.expand .icon-less {
-        display: block;
-      }
-
-      // data-th attr matches column heading
-      tbody td[data-th]:before {
-          content: attr(data-th);
-          padding: 0 10px;
-          display: inline-block;
-          text-align: right;
-      }
-      // The First TD is Always Visible as the mobile heading
-      tbody td:first-child[data-th]:before {
-          font-weight: bold;
-      }
-    }
-  }
-
-// replace below with collapsible table
-.flex-table {
-  display: flex;
-  flex-direction: column;
+.table-collapsible {
   font-size: 14px;
-  a:hover{
+  width: 100%;
+  
+  a:hover {
     text-decoration: none;
   }
-
-  .head {
-    font-size: 12px;
-    font-weight: bold;
+  .mobile-toggle {
+    display: none;
   }
 
-  .row:nth-child(even)  {
+  th:first-child{
+    text-align: left;       
+  }
+  th {
+    text-align: center;       
+  }
+  td:first-child {
+    text-align: left;
+  }
+  td {
+    text-align: center;
+  }
+  img {
+    width: 35px;
+  }
+  tbody tr:nth-child(even) {
     background: #eeefff;
   }
-
-  .row {
-    display: flex;
-    padding: 3px 0;
-
-    span {
-      text-align: center;
-    }
-
-    span:nth-child(1) {
-      flex: 0 0 25px;
-      a {
-        font-size: 18px;
+  tr td:nth-child(2),
+  tr td:nth-child(3) {
+    a {
+      font-size: 24px;
+      &:hover {
+        text-decoration: none;
       }
-    }
-    span:nth-child(2) {
-      flex: 1 0 180px;
-      text-align: left;
-    }
-    span:nth-child(3) {
-      flex: 0 1 50px;
-      a {
-        font-size: 24px;
-      }
-    }
-    span:nth-child(4) {
-      flex: 0 1 50px;
-      a {
-        font-size: 24px;
-      }
-    }
-    span:nth-child(5) {
-      flex: 0 1 40px;
-      padding-left:  5px;
-    }
-    span:nth-child(6) {
-      flex: 0 1 100px;
-      text-align: right;
-      padding-right: 3px;
     }
   }
+  tr td:nth-child(5) {
+    font-size: 10px;
+  }
+
+  tr td a.star::before {
+    content: '✭ '
+  }
+  tr td a:not(.star) {
+    padding-left: 10px;
+  }
+  @media only screen and (max-width: 500px) {
+    .mobile-toggle {
+      padding-left: 5px;
+      padding-top: 5px;
+      position: relative;
+      right: 5px;
+      font-size: 11px;
+      color: blue;
+      cursor: pointer;
+      float: right;
+      width: 23px;
+    }
+    thead {
+        background-color: blue;
+        color: #eeeeee;
+    }
+
+    thead tr.row th {
+        display: none;
+    }
+
+    tbody .row td:not(:first-child) {
+        display: none;
+    }
+
+    td {
+      text-align: left;
+    }
+    td:not(:first-child) {
+      padding-left: 50px;
+    }
+
+    tbody .row.expand td {
+        display: block;
+        border-top: none;
+    }
+
+    tbody .row .icon-more {
+      display: block;
+    }
+    tbody .row .icon-less {
+      display: none;
+    }
+    tbody .row.expand .icon-more {
+      display: none;
+    }
+    tbody .row.expand .icon-less {
+      display: block;
+    }
+
+    // data-th attr matches column heading
+    tbody td[data-th]:before {
+        content: attr(data-th);
+        padding: 0 10px;
+        display: inline-block;
+        text-align: right;
+    }
+    // The First TD is Always Visible as the mobile heading
+    tbody td:first-child[data-th]:before {
+        font-weight: bold;
+    }
+    // Ovverride title positioning for starred headings
+    tr td a.star::before {
+      content: ''
+    }
+    tr td a.star::after {
+      content: ' ✭'
+    }
+    tr td a:not(.star) {
+      padding-left: 0;
+    }
+
+  }
 }
+
+// // replace below with collapsible table
+// .flex-table {
+//   display: flex;
+//   flex-direction: column;
+//   font-size: 14px;
+//   a:hover{
+//     text-decoration: none;
+//   }
+
+//   .head {
+//     font-size: 12px;
+//     font-weight: bold;
+//   }
+
+//   .row:nth-child(even)  {
+//     background: #eeefff;
+//   }
+
+//   .row {
+//     display: flex;
+//     padding: 3px 0;
+
+//     span {
+//       text-align: center;
+//     }
+
+//     span:nth-child(1) {
+//       flex: 0 0 25px;
+//       a {
+//         font-size: 18px;
+//       }
+//     }
+//     span:nth-child(2) {
+//       flex: 1 0 180px;
+//       text-align: left;
+//     }
+//     span:nth-child(3) {
+//       flex: 0 1 50px;
+//       a {
+//         font-size: 24px;
+//       }
+//     }
+//     span:nth-child(4) {
+//       flex: 0 1 50px;
+//       a {
+//         font-size: 24px;
+//       }
+//     }
+//     span:nth-child(5) {
+//       flex: 0 1 40px;
+//       padding-left:  5px;
+//     }
+//     span:nth-child(6) {
+//       flex: 0 1 100px;
+//       text-align: right;
+//       padding-right: 3px;
+//     }
+//   }
+// }
