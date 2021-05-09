@@ -74,7 +74,8 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
   - *[Chosen 10th on March 20th, 2021](at-my-most-beautiful-1.html){:target="_blank"}*
 
 ##### Hi-Fi
-- Leave
+- ~~Leave~~
+  - *[Chosen 16th on May 4, 2021](leave-1.html)*
 - ~~So Fast, So Numb~~ 
   - *[Final Mix](https://drive.google.com/file/d/12NVKLkgs17zyAAAiOf4Ry7WArQL7ITbf/view?usp=sharing){:target="_blank"}*
   - *[Chosen 1st on Feb 6, 2021](so-fast-so-numb-1.html){:target="_blank"}*
@@ -124,6 +125,7 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 
 ##### Murmur
 - ~~Radio Free Europe~~
+  - *[Final Mix](https://drive.google.com/file/d/1nLyvx1lsOznYI2TTobgKJ6RquY_8f4pw/view?usp=sharing){:target="_blank"}*
   - *[Chosen 15th on April 29, 2021](radio-free-1.html)*
 
 - ~~Sitting Still~~

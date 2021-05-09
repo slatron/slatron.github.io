@@ -78,57 +78,95 @@
   // from td Ameritrade
 
   .table-collapsible {
-    .toggle-link {
-        display: none;
+    width: 100%;
+
+    .mobile-toggle {
+      display: none;
     }
 
+    th:first-child{
+      text-align: left;       
+    }
+    th {
+      text-align: center;       
+    }
+    td:first-child {
+      text-align: left;
+    }
+    td {
+      text-align: center;
+    }
+    img {
+      width: 40px;
+    }
+    tbody tr:nth-child(even) {
+      background: #eeefff;
+   }
     @media only screen and (max-width: 500px) {
-        .toggle-link {
-            padding-left: 8px;
-            display: inline-block;
-            font-size: 11px;
-            color: blue;
-            cursor: pointer;
-            width: 23px;
-        }
+      .mobile-toggle {
+        padding-left: 5px;
+        padding-top: 5px;
+        position: relative;
+        right: 5px;
+        font-size: 11px;
+        color: blue;
+        cursor: pointer;
+        float: right;
+        width: 23px;
+      }
+      thead {
+          background-color: blue;
+          color: #eeeeee;
+      }
 
-        thead {
-            background-color: blue;
-            color: #eeeeee;
-        }
+      thead tr.row th {
+          display: none;
+      }
 
-        thead tr.row th {
-            display: none;
-        }
+      tbody .row td:not(:first-child) {
+          display: none;
+      }
 
-        tbody .row td:not(:first-child) {
-            display: none;
-        }
+      td {
+        text-align: left;
+      }
+      td:not(:first-child) {
+        padding-left: 55px;
+      }
 
-        tbody .row.expand td {
-            display: block;
-            border-top: none;
-        }
-        // data-th attr matches column heading
-        tbody td[data-th]:before {
-            content: attr(data-th);
-            padding: 0 10px;
-            width: 140px;
-            display: inline-block;
-        }
-        // The First TD is Always Visible as the mobile heading
-        tbody td:first-child[data-th]:before {
-            font-weight: bold;
-        }
-        // Rest are indented for better separation
-        tbody td:not(:first-child)[data-th]:before {
-            padding-left: 25px;
-        }
+      tbody .row.expand td {
+          display: block;
+          border-top: none;
+      }
+
+      tbody .row .icon-more {
+        display: block;
+      }
+      tbody .row .icon-less {
+        display: none;
+      }
+      tbody .row.expand .icon-more {
+        display: none;
+      }
+      tbody .row.expand .icon-less {
+        display: block;
+      }
+
+      // data-th attr matches column heading
+      tbody td[data-th]:before {
+          content: attr(data-th);
+          padding: 0 10px;
+          display: inline-block;
+          text-align: right;
+      }
+      // The First TD is Always Visible as the mobile heading
+      tbody td:first-child[data-th]:before {
+          font-weight: bold;
+      }
     }
   }
 
 // replace below with collapsible table
-
 .flex-table {
   display: flex;
   flex-direction: column;
