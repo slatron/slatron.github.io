@@ -35,7 +35,7 @@
 .table-collapsible {
   font-size: 14px;
   width: 100%;
-  
+
   a:hover {
     text-decoration: none;
   }
@@ -154,63 +154,3 @@
 
   }
 }
-
-// // replace below with collapsible table
-// .flex-table {
-//   display: flex;
-//   flex-direction: column;
-//   font-size: 14px;
-//   a:hover{
-//     text-decoration: none;
-//   }
-
-//   .head {
-//     font-size: 12px;
-//     font-weight: bold;
-//   }
-
-//   .row:nth-child(even)  {
-//     background: #eeefff;
-//   }
-
-//   .row {
-//     display: flex;
-//     padding: 3px 0;
-
-//     span {
-//       text-align: center;
-//     }
-
-//     span:nth-child(1) {
-//       flex: 0 0 25px;
-//       a {
-//         font-size: 18px;
-//       }
-//     }
-//     span:nth-child(2) {
-//       flex: 1 0 180px;
-//       text-align: left;
-//     }
-//     span:nth-child(3) {
-//       flex: 0 1 50px;
-//       a {
-//         font-size: 24px;
-//       }
-//     }
-//     span:nth-child(4) {
-//       flex: 0 1 50px;
-//       a {
-//         font-size: 24px;
-//       }
-//     }
-//     span:nth-child(5) {
-//       flex: 0 1 40px;
-//       padding-left:  5px;
-//     }
-//     span:nth-child(6) {
-//       flex: 0 1 100px;
-//       text-align: right;
-//       padding-right: 3px;
-//     }
-//   }
-// }
