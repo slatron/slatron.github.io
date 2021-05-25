@@ -76,6 +76,8 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 ##### Hi-Fi
 - ~~Leave~~
   - *[Chosen 16th on May 4, 2021](leave-1.html)*
+    - *[Final Mix](https://drive.google.com/file/d/1BWBTLfwOTaKjLU0f1nY9Bpk5wl8PGqY7/view?usp=sharing){:target="_blank"}*
+
 - ~~So Fast, So Numb~~ 
   - *[Final Mix](https://drive.google.com/file/d/12NVKLkgs17zyAAAiOf4Ry7WArQL7ITbf/view?usp=sharing){:target="_blank"}*
   - *[Chosen 1st on Feb 6, 2021](so-fast-so-numb-1.html){:target="_blank"}*

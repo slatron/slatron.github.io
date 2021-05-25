@@ -58,7 +58,7 @@
   img {
     width: 35px;
   }
-  tbody tr:nth-child(even) {
+  tbody tr:nth-child(odd) {
     background: #eeefff;
   }
   tr td:nth-child(2),
@@ -109,7 +109,7 @@
       text-align: left;
     }
     td:not(:first-child) {
-      padding-left: 50px;
+      padding-left: 30px;
     }
 
     tbody .row.expand td {
@@ -139,6 +139,7 @@
     }
     // The First TD is Always Visible as the mobile heading
     tbody td:first-child[data-th]:before {
+        content: '';
         font-weight: bold;
     }
     // Ovverride title positioning for starred headings
