@@ -3,7 +3,7 @@ layout: post
 title:  Finest Worksong I
 song: Finest Worksong
 album: Document
-image: hifi.jpg
+image: document.jpg
 year: "1987"
 date: 2021-05-28t12:00:01
 tags: rem-project
