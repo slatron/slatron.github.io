@@ -3,7 +3,6 @@ const songs = [
   "Sweetness Follows",
   "You Are the Everything",
   "Turn You Inside Out",
-  "Finest Worksong",
   "Begin the Begin",
   "These Days",
   "Don't Go Back To Rockville",
