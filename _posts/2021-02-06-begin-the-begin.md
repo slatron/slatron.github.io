@@ -65,7 +65,8 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 - ~~Hope~~
   - *[Final Mix](https://drive.google.com/file/d/1Et9QkM4rWoUPY-iKXSpv8W4Ne8U_J8OE/view?usp=sharing){:target="_blank"}*
   - *[Chosen 9th on March 20th, 2021](hope-1.html){:target="_blank"}*
-- Sad Professor
+- ~~Sad Professor~~
+  - *[Chosen 18th on June 4, 2021](sad-professor-1.html){:target="_blank"}*
 - ~~Walk Unafraid~~
   - *[Final Mix](https://drive.google.com/file/d/1WEyC_ld3Lq1_NO62ZJaOFveLWcI4PXN5/view?usp=sharing){:target="_blank"}*
   - *[Chosen 8th on March 12th, 2021](walk-unafraid-1.html){:target="_blank"}*

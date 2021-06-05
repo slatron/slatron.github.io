@@ -1,5 +1,4 @@
 const songs = [
-  "Sad Professor",
   "Sweetness Follows",
   "You Are the Everything",
   "Turn You Inside Out",

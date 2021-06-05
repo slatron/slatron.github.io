@@ -73,3 +73,4 @@ I was shooting for pretty close on this one. The guitar stacks used would be too
 - On that first pass mix, the vocals are always too loud. Take them down more than you think.
 
 ### Next Up
+Sad Professor
