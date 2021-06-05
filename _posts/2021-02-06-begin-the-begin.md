@@ -99,8 +99,9 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 - Turn You Inside Out
 
 ##### Document
-- Finest Worksong
+- ~~Finest Worksong~~
   - *[Chosen 17th on May 28, 2021](finest-worksong-1.html){:target="_blank"}*
+  - *[Final Mix](https://drive.google.com/file/d/1TZ8PGhhnwuNA1EIzsCWB-YjSpCxw0D0s/view?usp=sharing){:target="_blank"}*
 - ~~Exhuming McCarthy~~
   - *[Final Mix](https://drive.google.com/file/d/1fdzJGO7KQvwzmp4JWt5rILEi_Om0wumM/view?usp=sharing){:target="_blank"}*
   - *[Chosen 14th on April 22, 2021](exhuming-mccarthy-1.html){:target="_blank"}*

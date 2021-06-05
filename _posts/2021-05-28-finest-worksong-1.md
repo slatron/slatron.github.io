@@ -11,6 +11,7 @@ category: music
 desc: industrial music
 permalink: finest-worksong-1.html
 video: https://www.youtube.com/watch?v=bnLO8i5bdfg
+final_mix: https://drive.google.com/file/d/1TZ8PGhhnwuNA1EIzsCWB-YjSpCxw0D0s/view?usp=sharing
 ---
 
 ### Industrial Music
