@@ -10,7 +10,7 @@ tags: rem-project
 category: music
 desc: return to up
 permalink: sad-professor-1.html
-video: https://www.youtube.com/watch?v=bnLO8i5bdfg
+video: https://www.youtube.com/watch?v=8mYoVkX3Kso
 ---
 
 ### Apprapro
