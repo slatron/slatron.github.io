@@ -51,17 +51,17 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 
 Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect Circle" and "Don't Go Back To Rockville". This brings "Murmur" up to four songs - tied with "Up" for most represented album here. It also means that I won't be doing anything from "Collapse" or "Around the Sun". Just means I'll have to do another round someday.
 
-##### Accelerate
+##### ~~Accelerate~~
 - ~~Living Well is the Best Revenge~~
   - *[Final Mix](https://drive.google.com/file/d/1kHsvHdhnuwMwMp9LrowSQnGxwGILe1Om/view?usp=sharing){:target="_blank"}*
   - *[Chosen 7th on March 8th, 2021](living-well-is-the-best-revenge-1.html){:target="_blank"}*
 
-##### Reveal
+##### ~~Reveal~~
 - ~~I’ll Take the Rain~~
   - *[Final Mix](https://drive.google.com/file/d/1v6JiyRs829CqiLvXj3pckZyr5fR6vKn9/view?usp=sharing){:target="_blank"}*
   - *[Chosen 3rd on Feb 18, 2021](ill-take-the-rain-1.html){:target="_blank"}*
 
-##### Up
+##### ~~Up~~
 - ~~Hope~~
   - *[Final Mix](https://drive.google.com/file/d/1Et9QkM4rWoUPY-iKXSpv8W4Ne8U_J8OE/view?usp=sharing){:target="_blank"}*
   - *[Chosen 9th on March 20th, 2021](hope-1.html){:target="_blank"}*
@@ -75,7 +75,7 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
   - *[Final Mix](https://drive.google.com/file/d/11FSFyQuDRLX2h5qGmjypCDa1i0-3fgz1/view?usp=sharing){:target="_blank"}*
   - *[Chosen 10th on March 20th, 2021](at-my-most-beautiful-1.html){:target="_blank"}*
 
-##### Hi-Fi
+##### ~~Hi-Fi~~
 - ~~Leave~~
   - *[Chosen 16th on May 4, 2021](leave-1.html)*
     - *[Final Mix](https://drive.google.com/file/d/1BWBTLfwOTaKjLU0f1nY9Bpk5wl8PGqY7/view?usp=sharing){:target="_blank"}*
@@ -83,7 +83,7 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
   - *[Final Mix](https://drive.google.com/file/d/12NVKLkgs17zyAAAiOf4Ry7WArQL7ITbf/view?usp=sharing){:target="_blank"}*
   - *[Chosen 1st on Feb 6, 2021](so-fast-so-numb-1.html){:target="_blank"}*
 
-##### Monster
+##### ~~Monster~~
 - ~~What’s the Frequency, Kenneth?~~
   - *[Final Mix](https://drive.google.com/file/d/1cZ0RDxEdf8dpr93axawJ0i0_k9d8qiZm/view?usp=sharing){:target="_blank"}*
   - *[Chosen 11th on March 29th, 2021](frequency-1.html){:target="_blank"}*
@@ -91,7 +91,7 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 ##### Automatic for the People
 - Sweetness Follows
 
-##### Out of Time
+##### ~~Out of Time~~
 - ~~Near Wild Heaven~~
   - *[Final Mix](https://drive.google.com/file/d/1UD8Cs8dT7eKY13vEK2SkVW_mWLGNLS5J/view?usp=sharing){:target="_blank"}*
   - *[Chosen 2nd on Feb 13, 2021](near-wild-heaven-1.html){:target="_blank"}*
@@ -100,7 +100,7 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 - You Are the Everything
 - Turn You Inside Out
 
-##### Document
+##### ~~Document~~
 - ~~Finest Worksong~~
   - *[Chosen 17th on May 28, 2021](finest-worksong-1.html){:target="_blank"}*
   - *[Final Mix](https://drive.google.com/file/d/1TZ8PGhhnwuNA1EIzsCWB-YjSpCxw0D0s/view?usp=sharing){:target="_blank"}*
@@ -110,12 +110,13 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 
 ##### Life’s Rich Pageant
 - Begin the Begin
-- These Days
+- ~~These Days~~
+  - *Chosen 19th on July 19, 2021*
 - ~~I Believe~~
   - *[Final Mix](https://drive.google.com/file/d/1bQPnMSNsrWEmIMdrtdAzG22aBVvQXL-z/view?usp=sharing){:target="_blank"}*
   - *[Chosen 5th on Feb 27, 2021](i-believe-1.html){:target="_blank"}*
 
-##### Fables of the Reconstruction
+##### ~~Fables of the Reconstruction~~
 - ~~Driver 8~~
   - *[Final Mix](https://drive.google.com/file/d/1VZiclBYdeEq4ayBbnSituW5T2l726Lk2/view?usp=sharing){:target="_blank"}*
   - *[Chosen 12th on April 10, 2021](driver8-1.html){:target="_blank"}*
