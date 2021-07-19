@@ -9,8 +9,9 @@ date: 2021-07-17t12:00:01
 tags: rem-project
 category: music
 desc: new house, new studio
-permalink: sad-professor-1.html
+permalink: sad-professor-2.html
 video: https://www.youtube.com/watch?v=8mYoVkX3Kso
+final_mix: https://drive.google.com/file/d/1AcJcnMfI_gaS7s-6DTUgQNDMolrXvvTi/view?usp=sharing
 ---
 
 ### Home Studio
@@ -31,7 +32,32 @@ Keyboard
 Desk
 <img src="/ms_assets/images/office/office2.jpg" /><br>
 
-Lap Steel
+Lap-Steel
 <img src="/ms_assets/images/office/office3.jpg" /><br>
 
+### Timing
 
+Lots of small surpises in this one. The chorus alternates between seven and six beat meters. 
+
+```
+Late afternoon... house is hot
+3 beats         + 4 beats
+```
+```
+I started...      jumped up
+3 beats         + 3 beats
+```
+```
+Everyone...       bore
+3 beats         + 4 beats
+```
+```
+Everybody...      drunk
+3 beats         + 4 beats
+```
+
+This was a case in which using Garageband foces me into creative decisions. Mainly that it cannot handle meter changes in a song. Only tempo.
+
+I first tried to use 1/1 and ignore meter changes. That was way too hard to follow as I was building the initial bass and acoustic tracks. I ended up scrapping the click track altogether and doing everything by feel for this one.
+
+I was very tempted to go back and nudge / fix all the rhythm tracks to be on the beat. But in the end, this is still an experiment to improve. And I'd like to hear this knowing where my timingwas off on which instrument.

@@ -67,6 +67,7 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
   - *[Chosen 9th on March 20th, 2021](hope-1.html){:target="_blank"}*
 - ~~Sad Professor~~
   - *[Chosen 18th on June 4, 2021](sad-professor-1.html){:target="_blank"}*
+  - *[Final Mix](https://drive.google.com/file/d/1AcJcnMfI_gaS7s-6DTUgQNDMolrXvvTi/view?usp=sharing){:target="_blank"}*
 - ~~Walk Unafraid~~
   - *[Final Mix](https://drive.google.com/file/d/1WEyC_ld3Lq1_NO62ZJaOFveLWcI4PXN5/view?usp=sharing){:target="_blank"}*
   - *[Chosen 8th on March 12th, 2021](walk-unafraid-1.html){:target="_blank"}*
@@ -113,7 +114,6 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 - ~~I Believe~~
   - *[Final Mix](https://drive.google.com/file/d/1bQPnMSNsrWEmIMdrtdAzG22aBVvQXL-z/view?usp=sharing){:target="_blank"}*
   - *[Chosen 5th on Feb 27, 2021](i-believe-1.html){:target="_blank"}*
-
 
 ##### Fables of the Reconstruction
 - ~~Driver 8~~
