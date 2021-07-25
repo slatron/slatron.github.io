@@ -111,7 +111,7 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 ##### Life’s Rich Pageant
 - Begin the Begin
 - ~~These Days~~
-  - *Chosen 19th on July 19, 2021*
+  - *[Chosen 19th on July 19, 2021](these-days-1.html){:target="_blank"}*
 - ~~I Believe~~
   - *[Final Mix](https://drive.google.com/file/d/1bQPnMSNsrWEmIMdrtdAzG22aBVvQXL-z/view?usp=sharing){:target="_blank"}*
   - *[Chosen 5th on Feb 27, 2021](i-believe-1.html){:target="_blank"}*
