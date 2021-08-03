@@ -97,7 +97,9 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
   - *[Chosen 2nd on Feb 13, 2021](near-wild-heaven-1.html){:target="_blank"}*
 
 ##### Green
-- You Are the Everything
+- ~~You Are the Everything~~
+  - *Chosen 20th on Aug 3, 2021*
+
 - Turn You Inside Out
 
 ##### ~~Document~~
@@ -112,6 +114,7 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 - Begin the Begin
 - ~~These Days~~
   - *[Chosen 19th on July 19, 2021](these-days-1.html){:target="_blank"}*
+  - *[Final Mix](https://drive.google.com/file/d/1_HlHexpogySa7X26f6i8deA2uArlMNUM/view?usp=sharing){:target="_blank"}*
 - ~~I Believe~~
   - *[Final Mix](https://drive.google.com/file/d/1bQPnMSNsrWEmIMdrtdAzG22aBVvQXL-z/view?usp=sharing){:target="_blank"}*
   - *[Chosen 5th on Feb 27, 2021](i-believe-1.html){:target="_blank"}*
