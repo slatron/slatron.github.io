@@ -66,8 +66,8 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
   - *[Final Mix](https://drive.google.com/file/d/1Et9QkM4rWoUPY-iKXSpv8W4Ne8U_J8OE/view?usp=sharing){:target="_blank"}*
   - *[Chosen 9th on March 20th, 2021](hope-1.html){:target="_blank"}*
 - ~~Sad Professor~~
-  - *[Chosen 18th on June 4, 2021](sad-professor-1.html){:target="_blank"}*
   - *[Final Mix](https://drive.google.com/file/d/1AcJcnMfI_gaS7s-6DTUgQNDMolrXvvTi/view?usp=sharing){:target="_blank"}*
+  - *[Chosen 18th on June 4, 2021](sad-professor-1.html){:target="_blank"}*
 - ~~Walk Unafraid~~
   - *[Final Mix](https://drive.google.com/file/d/1WEyC_ld3Lq1_NO62ZJaOFveLWcI4PXN5/view?usp=sharing){:target="_blank"}*
   - *[Chosen 8th on March 12th, 2021](walk-unafraid-1.html){:target="_blank"}*
@@ -77,8 +77,8 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 
 ##### ~~Hi-Fi~~
 - ~~Leave~~
+  - *[Final Mix](https://drive.google.com/file/d/1BWBTLfwOTaKjLU0f1nY9Bpk5wl8PGqY7/view?usp=sharing){:target="_blank"}*
   - *[Chosen 16th on May 4, 2021](leave-1.html)*
-    - *[Final Mix](https://drive.google.com/file/d/1BWBTLfwOTaKjLU0f1nY9Bpk5wl8PGqY7/view?usp=sharing){:target="_blank"}*
 - ~~So Fast, So Numb~~ 
   - *[Final Mix](https://drive.google.com/file/d/12NVKLkgs17zyAAAiOf4Ry7WArQL7ITbf/view?usp=sharing){:target="_blank"}*
   - *[Chosen 1st on Feb 6, 2021](so-fast-so-numb-1.html){:target="_blank"}*
@@ -98,14 +98,14 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 
 ##### Green
 - ~~You Are the Everything~~
-  - *Chosen 20th on Aug 3, 2021*
-
-- Turn You Inside Out
+  - *[Final Mix](https://drive.google.com/file/d/1UxHve8eBZOvQdFIm3e62gYvF3Kdu1eZC/view?usp=sharing){:target="_blank"}*
+  - *[Chosen 20th on Aug 3, 2021](you-are-the-everything-1.html){:target="_blank"}*
+- Turn You Inside Outß
 
 ##### ~~Document~~
 - ~~Finest Worksong~~
-  - *[Chosen 17th on May 28, 2021](finest-worksong-1.html){:target="_blank"}*
   - *[Final Mix](https://drive.google.com/file/d/1TZ8PGhhnwuNA1EIzsCWB-YjSpCxw0D0s/view?usp=sharing){:target="_blank"}*
+  - *[Chosen 17th on May 28, 2021](finest-worksong-1.html){:target="_blank"}*
 - ~~Exhuming McCarthy~~
   - *[Final Mix](https://drive.google.com/file/d/1fdzJGO7KQvwzmp4JWt5rILEi_Om0wumM/view?usp=sharing){:target="_blank"}*
   - *[Chosen 14th on April 22, 2021](exhuming-mccarthy-1.html){:target="_blank"}*
@@ -113,8 +113,8 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 ##### Life’s Rich Pageant
 - Begin the Begin
 - ~~These Days~~
-  - *[Chosen 19th on July 19, 2021](these-days-1.html){:target="_blank"}*
   - *[Final Mix](https://drive.google.com/file/d/1_HlHexpogySa7X26f6i8deA2uArlMNUM/view?usp=sharing){:target="_blank"}*
+  - *[Chosen 19th on July 19, 2021](these-days-1.html){:target="_blank"}*
 - ~~I Believe~~
   - *[Final Mix](https://drive.google.com/file/d/1bQPnMSNsrWEmIMdrtdAzG22aBVvQXL-z/view?usp=sharing){:target="_blank"}*
   - *[Chosen 5th on Feb 27, 2021](i-believe-1.html){:target="_blank"}*
@@ -129,7 +129,8 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 - ~~Pretty Persuasion~~
   - *[Final Mix](https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing){:target="_blank"}*
   - *[Chosen 13th on April 12, 2021](pretty-persuasion-1.html){:target="_blank"}*
-- Don't Go Back to Rockville
+- ~~Don't Go Back to Rockville~~
+  - *Chosen 21st on August 8, 2021*
 
 ##### Murmur
 - ~~Radio Free Europe~~

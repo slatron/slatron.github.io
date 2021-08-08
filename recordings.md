@@ -28,6 +28,33 @@ permalink: recordings.html
 
     <tbody>
 
+      <tr class="row" id="the_everything">
+        <td data-th="Song">
+          <a class="star" href="https://drive.google.com/file/d/1UxHve8eBZOvQdFIm3e62gYvF3Kdu1eZC/view?usp=sharing" target="_blank">You Are The Everything</a>
+          <svg x="0" y="0" viewBox="0 0 300.003 300.003" class="mobile-toggle icon-less" onClick="toggleRow('the_everything')">
+            <g>
+              <path fill="#0e9aef" d="M150.001,0c-82.843,0-150,67.159-150,150c0,82.838,67.157,150.003,150,150.003c82.838,0,150-67.165,150-150.003C300.001,67.159,232.838,0,150.001,0z M197.218,166.283H92.41c-8.416,0-15.238-6.821-15.238-15.238s6.821-15.238,15.238-15.238H197.22c8.416,0,15.238,6.821,15.238,15.238S205.634,166.283,197.218,166.283z" />
+            </g>
+          </svg>
+          <svg x="0" y="0" viewBox="0 0 300.003 300.003" class="mobile-toggle icon-more" onClick="toggleRow('the_everything')">
+            <g>
+              <path fill="#0e9aef" d="M150,0C67.159,0,0.001,67.159,0.001,150c0,82.838,67.157,150.003,149.997,150.003S300.002,232.838,300.002,150C300.002,67.159,232.839,0,150,0z M213.281,166.501h-48.27v50.469c-0.003,8.463-6.863,15.323-15.328,15.323c-8.468,0-15.328-6.86-15.328-15.328v-50.464H87.37c-8.466-0.003-15.323-6.863-15.328-15.328c0-8.463,6.863-15.326,15.328-15.328l46.984,0.003V91.057c0-8.466,6.863-15.328,15.326-15.328c8.468,0,15.331,6.863,15.328,15.328l0.003,44.787l48.265,0.005c8.466-0.005,15.331,6.86,15.328,15.328C228.607,159.643,221.742,166.501,213.281,166.501z"/>
+            </g>
+          </svg> 
+        </td>
+        <td data-th="Final">
+          <a href="https://drive.google.com/file/d/1UxHve8eBZOvQdFIm3e62gYvF3Kdu1eZC/view?usp=sharing" target="_blank">🎸</a>
+        </td>
+        <td data-th="Acoustic">
+        </td>
+        <td data-th="Album">
+          <img loading="lazy" alt="Green" src="/ms_assets/images/albums/green.jpg" />
+        </td>
+        <td data-th="Date">
+          8/08/21
+        </td>
+      </tr>
+
       <tr class="row" id="these_days">
         <td data-th="Song">
           <a href="https://drive.google.com/file/d/1_HlHexpogySa7X26f6i8deA2uArlMNUM/view?usp=sharing" target="_blank">These Days</a>
@@ -48,7 +75,7 @@ permalink: recordings.html
         <td data-th="Acoustic">
         </td>
         <td data-th="Album">
-          <img loading="lazy" alt="Up" src="/ms_assets/images/albums/pageant.jpg" />
+          <img loading="lazy" alt="Lifes Righ Pageant" src="/ms_assets/images/albums/pageant.jpg" />
         </td>
         <td data-th="Date">
           8/03/21
@@ -188,7 +215,7 @@ permalink: recordings.html
     </tr>
     <tr class="row" id="pretty-persuasion">
       <td data-th="Song">
-        <a href="https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing" target="_blank">Pretty Persuasion</a>
+        <a class="star" href="https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing" target="_blank">Pretty Persuasion</a>
         <svg x="0" y="0" viewBox="0 0 300.003 300.003" class="mobile-toggle icon-less" onClick="toggleRow('pretty-persuasion')">
           <g>
             <path fill="#0e9aef" d="M150.001,0c-82.843,0-150,67.159-150,150c0,82.838,67.157,150.003,150,150.003c82.838,0,150-67.165,150-150.003C300.001,67.159,232.838,0,150.001,0z M197.218,166.283H92.41c-8.416,0-15.238-6.821-15.238-15.238s6.821-15.238,15.238-15.238H197.22c8.416,0,15.238,6.821,15.238,15.238S205.634,166.283,197.218,166.283z" />
@@ -213,7 +240,7 @@ permalink: recordings.html
     </tr>
     <tr class="row" id="driver-8">
       <td data-th="Song">
-        <a href="https://drive.google.com/file/d/1VZiclBYdeEq4ayBbnSituW5T2l726Lk2/view?usp=sharing" target="_blank" class="star">Driver 8</a>
+        <a href="https://drive.google.com/file/d/1VZiclBYdeEq4ayBbnSituW5T2l726Lk2/view?usp=sharing" target="_blank" >Driver 8</a>
         <svg x="0" y="0" viewBox="0 0 300.003 300.003" class="mobile-toggle icon-less" onClick="toggleRow('driver-8')">
           <g>
             <path fill="#0e9aef" d="M150.001,0c-82.843,0-150,67.159-150,150c0,82.838,67.157,150.003,150,150.003c82.838,0,150-67.165,150-150.003C300.001,67.159,232.838,0,150.001,0z M197.218,166.283H92.41c-8.416,0-15.238-6.821-15.238-15.238s6.821-15.238,15.238-15.238H197.22c8.416,0,15.238,6.821,15.238,15.238S205.634,166.283,197.218,166.283z" />
