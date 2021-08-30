@@ -12,7 +12,6 @@ desc: all in one
 permalink: you-are-the-everything-1.html
 video: https://www.youtube.com/watch?v=c9HNjW2Rx60
 final_mix: https://drive.google.com/file/d/1UxHve8eBZOvQdFIm3e62gYvF3Kdu1eZC/view?usp=sharing
-download_link: https://drive.google.com/file/d/1UxHve8eBZOvQdFIm3e62gYvF3Kdu1eZC/view?usp=sharing
 ---
 
 ### Green Thoughts

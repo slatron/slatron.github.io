@@ -155,3 +155,15 @@
 
   }
 }
+
+.numbered-table {
+  tbody {
+    counter-reset: number;
+  }
+  tr td:first-child a {
+    counter-increment: number;
+  }
+  tr td:first-child a::before {
+    content: " "counter(number)" ";
+  }
+}
