@@ -143,7 +143,8 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 - ~~Shaking Through~~
   - *[Final Mix](https://drive.google.com/file/d/1bDK7eyMc3iloWywernigrHSnGvyKRCkq/view?usp=sharing){:target="_blank"}*
   - *[Chosen 4th on Feb 22, 2021](shaking-through-1.html)*
-- Perfect Circle
+- ~~Perfect Circle~~
+  - *[Chosen 22nd on Aug 31, 2021](perfect-circle-1.html)*
 
 ##### Chronic Town
 - Carnival of Sorts (Boxcar)
