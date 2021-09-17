@@ -124,8 +124,9 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
   - *[Final Mix](https://drive.google.com/file/d/1VZiclBYdeEq4ayBbnSituW5T2l726Lk2/view?usp=sharing){:target="_blank"}*
   - *[Chosen 12th on April 10, 2021](driver8-1.html){:target="_blank"}*
 
-##### Reckoning
-- Harborcoat
+##### ~~Reckoning~~
+- ~~Harborcoat~~
+  - *[Chosen 23rd on Sep 16, 2021](harborcoat-1.html)*
 - ~~Pretty Persuasion~~
   - *[Final Mix](https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing){:target="_blank"}*
   - *[Chosen 13th on April 12, 2021](pretty-persuasion-1.html){:target="_blank"}*
