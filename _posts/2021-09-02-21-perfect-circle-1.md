@@ -6,7 +6,7 @@ album: Murmur
 image: murmur.jpg
 year: "1982"
 date: 2021-09-02t12:00:01
-tags: rem-projectß
+tags: rem-project
 category: music
 desc: almost full circle
 permalink: prefect-circle-1.html
