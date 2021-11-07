@@ -88,8 +88,11 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
   - *[Final Mix](https://drive.google.com/file/d/1cZ0RDxEdf8dpr93axawJ0i0_k9d8qiZm/view?usp=sharing){:target="_blank"}*
   - *[Chosen 11th on March 29th, 2021](frequency-1.html){:target="_blank"}*
 
-##### Automatic for the People
-- Sweetness Follows
+##### ~~Automatic for the People~~
+
+- ~~Sweetness Follows~~
+  - *[Chosen 24th on November 6th, 2021](sweetness-1.html){:target="_blank"}*
+
 
 ##### ~~Out of Time~~
 - ~~Near Wild Heaven~~
