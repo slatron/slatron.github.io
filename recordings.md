@@ -29,7 +29,7 @@ permalink: recordings.html
   <tbody>
     <tr class="row" id="harborcoat">
       <td data-th="Song">
-        <a href="https://drive.google.com/file/d/1dsF_QhiYqFhHDiMewCXub5R17EghCCtg/view?usp=sharing" target="_blank">Harborcoat</a>
+        <a class="star" href="https://drive.google.com/file/d/1dsF_QhiYqFhHDiMewCXub5R17EghCCtg/view?usp=sharing" target="_blank">Harborcoat</a>
         <svg x="0" y="0" viewBox="0 0 300.003 300.003" class="mobile-toggle icon-less" onClick="toggleRow('harborcoat')">
           <g>
             <path fill="#0e9aef" d="M150.001,0c-82.843,0-150,67.159-150,150c0,82.838,67.157,150.003,150,150.003c82.838,0,150-67.165,150-150.003C300.001,67.159,232.838,0,150.001,0z M197.218,166.283H92.41c-8.416,0-15.238-6.821-15.238-15.238s6.821-15.238,15.238-15.238H197.22c8.416,0,15.238,6.821,15.238,15.238S205.634,166.283,197.218,166.283z" />
