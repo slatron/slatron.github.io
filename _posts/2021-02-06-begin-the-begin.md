@@ -91,6 +91,7 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 ##### ~~Automatic for the People~~
 
 - ~~Sweetness Follows~~
+  - *[Final Mix](https://drive.google.com/file/d/1SJv7ySMuFNbnMGsaC30egYQTyp3zt8i0/view?usp=sharing){:target="_blank"}*
   - *[Chosen 24th on November 6th, 2021](sweetness-1.html){:target="_blank"}*
 
 
@@ -152,5 +153,6 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
   - *[Final Mix](https://drive.google.com/file/d/19sITux5-p49gxXpotQvICd9pxftRBd0V/view?usp=sharing)*{:target="_blank"}*
   - *[Chosen 22nd on Aug 31, 2021](perfect-circle-1.html)*
 
-##### Chronic Town
-- Carnival of Sorts (Boxcar)
+##### ~Chronic Town~
+   - ~~Carnival of Sorts (Boxcar)~~
+   - *[Chosen 25th on Nov 12, 2021](boxcar-1.html)*
