@@ -1,7 +1,8 @@
 const songs = [
-  "Turn You Inside Out",
   "Begin the Begin",
-  "Carnival of Sorts (Boxcar)"
+  "Carnival of Sorts (Boxcar)",
+  "Turn You Inside Out"
 ]
 
-// Bonus - Electrolite
+// Bonus - Electrolite piano solo
+// Bonus hidden - acoustic shiny happy one take
