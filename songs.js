@@ -1,6 +1,5 @@
 const songs = [
   "Begin the Begin",
-  "Carnival of Sorts (Boxcar)",
   "Turn You Inside Out"
 ]
 
