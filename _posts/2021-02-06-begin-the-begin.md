@@ -88,8 +88,12 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
   - *[Final Mix](https://drive.google.com/file/d/1cZ0RDxEdf8dpr93axawJ0i0_k9d8qiZm/view?usp=sharing){:target="_blank"}*
   - *[Chosen 11th on March 29th, 2021](frequency-1.html){:target="_blank"}*
 
-##### Automatic for the People
-- Sweetness Follows
+##### ~~Automatic for the People~~
+
+- ~~Sweetness Follows~~
+  - *[Final Mix](https://drive.google.com/file/d/1SJv7ySMuFNbnMGsaC30egYQTyp3zt8i0/view?usp=sharing){:target="_blank"}*
+  - *[Chosen 24th on November 6th, 2021](sweetness-1.html){:target="_blank"}*
+
 
 ##### ~~Out of Time~~
 - ~~Near Wild Heaven~~
@@ -100,7 +104,7 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 - ~~You Are the Everything~~
   - *[Final Mix](https://drive.google.com/file/d/1UxHve8eBZOvQdFIm3e62gYvF3Kdu1eZC/view?usp=sharing){:target="_blank"}*
   - *[Chosen 20th on Aug 3, 2021](you-are-the-everything-1.html){:target="_blank"}*
-- Turn You Inside Outß
+- Turn You Inside Out
 
 ##### ~~Document~~
 - ~~Finest Worksong~~
@@ -127,6 +131,7 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
 ##### ~~Reckoning~~
 - ~~Harborcoat~~
   - *[Chosen 23rd on Sep 16, 2021](harborcoat-1.html)*
+  - *[Final Mix](https://drive.google.com/file/d/1dsF_QhiYqFhHDiMewCXub5R17EghCCtg/view?usp=sharing){:target="_blank"}*
 - ~~Pretty Persuasion~~
   - *[Final Mix](https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing){:target="_blank"}*
   - *[Chosen 13th on April 12, 2021](pretty-persuasion-1.html){:target="_blank"}*
@@ -148,5 +153,7 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
   - *[Final Mix](https://drive.google.com/file/d/19sITux5-p49gxXpotQvICd9pxftRBd0V/view?usp=sharing)*{:target="_blank"}*
   - *[Chosen 22nd on Aug 31, 2021](perfect-circle-1.html)*
 
-##### Chronic Town
-- Carnival of Sorts (Boxcar)
+##### ~Chronic Town~
+   - ~~Carnival of Sorts (Boxcar)~~
+   - *[Final Mix](https://drive.google.com/file/d/1NZY4rqSQykZGCzpDIiFzFC_RGpCnK6vb/view?usp=sharing)*{:target="_blank"}*
+   - *[Chosen 25th on Nov 12, 2021](boxcar-1.html)*
