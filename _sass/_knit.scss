@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(7, 65, 99);
+  color: #eee;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: #fff;
+  color: #000;
+}
+
+.knitclub {
+  padding-top: 80px;
+}
+
+.knit-img {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  column-gap: $base-unit;
+
+  img {
+    margin-bottom: $base-unit;
+  }
+}
+
+h1 {
+  font-size: 1.1rem;
+  margin-bottom: 0;
+  line-height: 1.5rem;
+  max-width: -webkit-calc(1000px - (#{$base-unit} * 2));
+  max-width:         calc(1000px - (#{$base-unit} * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0.5rem $base-unit;
+
+  @include media-query($laptop) {
+      max-width: -webkit-calc(800px - (#{$base-unit}));
+      max-width:         calc(800px - (#{$base-unit}));
+      padding-right: $base-unit / 2;
+      padding-left: $base-unit / 2;
+  }
+}
+
+h2 {
+  font-size: 1.4rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: normal;
+}
+
+p {
+  font-size: 1.05rem;
+}
+
+hr {
+  margin: $base-unit * 4;
+}
