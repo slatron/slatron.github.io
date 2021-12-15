@@ -89,7 +89,6 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
   - *[Chosen 11th on March 29th, 2021](frequency-1.html){:target="_blank"}*
 
 ##### ~~Automatic for the People~~
-
 - ~~Sweetness Follows~~
   - *[Final Mix](https://drive.google.com/file/d/1SJv7ySMuFNbnMGsaC30egYQTyp3zt8i0/view?usp=sharing){:target="_blank"}*
   - *[Chosen 24th on November 6th, 2021](sweetness-1.html){:target="_blank"}*
@@ -100,11 +99,13 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
   - *[Final Mix](https://drive.google.com/file/d/1UD8Cs8dT7eKY13vEK2SkVW_mWLGNLS5J/view?usp=sharing){:target="_blank"}*
   - *[Chosen 2nd on Feb 13, 2021](near-wild-heaven-1.html){:target="_blank"}*
 
-##### Green
+##### ~~Green~~
 - ~~You Are the Everything~~
   - *[Final Mix](https://drive.google.com/file/d/1UxHve8eBZOvQdFIm3e62gYvF3Kdu1eZC/view?usp=sharing){:target="_blank"}*
   - *[Chosen 20th on Aug 3, 2021](you-are-the-everything-1.html){:target="_blank"}*
-- Turn You Inside Out
+- ~~Turn You Inside Out~~
+  - *[Final Mix](https://drive.google.com/file/d/1q8BYYVMicYIX-EBycBrHA0I5wYeSAlKQ/view?usp=sharing){:target="_blank"}*
+  - *[Chosen 26th on Dec 5, 2021](inside-out-1.html){:target="_blank"}*
 
 ##### ~~Document~~
 - ~~Finest Worksong~~
@@ -114,8 +115,10 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
   - *[Final Mix](https://drive.google.com/file/d/1fdzJGO7KQvwzmp4JWt5rILEi_Om0wumM/view?usp=sharing){:target="_blank"}*
   - *[Chosen 14th on April 22, 2021](exhuming-mccarthy-1.html){:target="_blank"}*
 
-##### Life’s Rich Pageant
-- Begin the Begin
+##### ~~Life’s Rich Pageant~~
+- ~~Begin the Begin~~
+  - *[Chosen 27th on Dec 14, 2021](begin-1.html){:target="_blank"}*
+
 - ~~These Days~~
   - *[Final Mix](https://drive.google.com/file/d/1_HlHexpogySa7X26f6i8deA2uArlMNUM/view?usp=sharing){:target="_blank"}*
   - *[Chosen 19th on July 19, 2021](these-days-1.html){:target="_blank"}*
@@ -153,7 +156,7 @@ Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect 
   - *[Final Mix](https://drive.google.com/file/d/19sITux5-p49gxXpotQvICd9pxftRBd0V/view?usp=sharing)*{:target="_blank"}*
   - *[Chosen 22nd on Aug 31, 2021](perfect-circle-1.html)*
 
-##### ~Chronic Town~
-   - ~~Carnival of Sorts (Boxcar)~~
-   - *[Final Mix](https://drive.google.com/file/d/1NZY4rqSQykZGCzpDIiFzFC_RGpCnK6vb/view?usp=sharing)*{:target="_blank"}*
-   - *[Chosen 25th on Nov 12, 2021](boxcar-1.html)*
+##### ~~Chronic Town~~
+- ~~Carnival of Sorts (Boxcar)~~
+  - *[Final Mix](https://drive.google.com/file/d/1NZY4rqSQykZGCzpDIiFzFC_RGpCnK6vb/view?usp=sharing)*{:target="_blank"}*
+  - *[Chosen 25th on Nov 18, 2021](boxcar-1.html)*
