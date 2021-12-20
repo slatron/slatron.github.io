@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  You Are The Everything I
+title:  You Are The Everything
 song: You Are The Everything
 album: Green
 image: green.jpg

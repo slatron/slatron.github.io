@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Pretty Persuasion I
+title:  Pretty Persuasion
 song: Pretty Persuasion
 album: Reckoning
 image: reckoning.jpg

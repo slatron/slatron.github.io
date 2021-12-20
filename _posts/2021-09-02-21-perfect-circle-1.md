@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Perfect Circle I
+title:  Perfect Circle
 song: Perfect Circle
 album: Murmur
 image: murmur.jpg

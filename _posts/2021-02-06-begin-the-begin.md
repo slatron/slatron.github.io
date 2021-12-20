@@ -12,7 +12,7 @@ permalink: rem-begin-the-begin.html
 ### Returning to Music
 I recently got a focusrite audio interface and a used lap steel guitar. In the month since, I've leared some lap steel and set up a small recording... thing. I hesitate to call it a studio when I have to find a place to put down tracks whenever the kids are occupied.
 
-I've managed enough ambition to [finish two songs](https://soundcloud.com/slatron/sets/home-recordings) this past month. And I really want to keep up with more of this. My band has been on hiatus for most of the lockdown. We put out [two](https://www.youtube.com/watch?v=PnaB-C-Chgw) [livestreams](https://www.youtube.com/watch?v=JRWzDKeiCcQ) before the cold weather set in. Right before this started, we put down some initiail tracks for an EP. But without being able to work close together, that's fallen by the wayside. I have enough foundational parts to move that a bit forward - but I'll need another source of songs to record while I re-learn audio engineering.
+I've managed enough ambition to finish two songs this past month. And I really want to keep up with more of this. My band has been on hiatus for most of the lockdown. We put out [two](https://www.youtube.com/watch?v=PnaB-C-Chgw) [livestreams](https://www.youtube.com/watch?v=JRWzDKeiCcQ) before the cold weather set in. Right before this started, we put down some initiail tracks for an EP. But without being able to work close together, that's fallen by the wayside. I have enough foundational parts to move that a bit forward - but I'll need another source of songs to record while I re-learn audio engineering.
 
 ### So... REM?
 Yeah, The 90's band that stopped making music 10 years ago. Always been my favorite band. I was around eleven years old when Green was released. It was one of the first cds I remember my dad getting along with Eponymous.  All of my early mucis tastes were from my parents. Beatles, Paul Simon, Neil Young. But REM was one of the first bands that I really loved and made mine.
@@ -24,11 +24,9 @@ I get so much of my approach to the bass and background vocals from Mills' inter
 In all honesty, aside from Around the Sun.
 
 ### The Project
-That brings me to this project. Its been in the back of my mind to start something like this since I read an [REM blog by Barnaby Wilde](http://remprojectblog.blogspot.com/2010/09/brief-introduction.html). In it, he recorded a version of every REM song and wrote a post about each one.
+My goal is to avoid thinking of what I should record next and just do a buncha REM songs.
 
-I don't think I'd get as far as Barnaby did by starting from the beginning. But I could do something similar with the purpose of just recording the REM songs I want to start with. This feels like the right carrot to get me to not think of what I should record next and just do a buncha REM songs.
-
-So instead of chronologically through each album, I went through their discography and picked 0-3 songs from each album that will motivate me to record. I considered just randomly assigning myself a song from the entire catalog each time, but I'd rather start small. I can always go on to something like that after prioving to myself that I can commit to an intiail batch of my favorite REM songs.
+I went through their discography and picked 0-3 songs from each album that will motivate me to record. I considered just randomly assigning myself a song from the entire catalog each time, but I'd rather start small. I can always go on to something like that after proving to myself that I can commit to an initial batch of my favorite REM songs.
 
 Below is the list of 27 songs I intend to cover. I'm hoping to average one a week. I might do a very straight-forward cover - or do something outside the box to challenge myself. If nothing else, I'll at least strum some chords and sing.
 
@@ -51,112 +49,84 @@ I plan on using a random number generator to pick a new song each time. Soon as 
 
 Since acoustic piano worked so well on "At My Most Beautiful", I added "Perfect Circle" and "Don't Go Back To Rockville". This brings "Murmur" up to four songs - tied with "Up" for most represented album here. It also means that I won't be doing anything from "Collapse" or "Around the Sun". Just means I'll have to do another round someday.
 
-##### ~~Accelerate~~
-- ~~Living Well is the Best Revenge~~
-  - *[Final Mix](https://drive.google.com/file/d/1kHsvHdhnuwMwMp9LrowSQnGxwGILe1Om/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 7th on March 8th, 2021](living-well-is-the-best-revenge-1.html){:target="_blank"}*
+##### Accelerate
+- [Living Well is the Best Revenge](https://drive.google.com/file/d/1kHsvHdhnuwMwMp9LrowSQnGxwGILe1Om/view?usp=sharing){:target="_blank"}
+  - *[Chosen 7th on March 8th, 2021](living-well-is-the-best-revenge-1.html){:target="_blank"}
 
-##### ~~Reveal~~
-- ~~I’ll Take the Rain~~
-  - *[Final Mix](https://drive.google.com/file/d/1v6JiyRs829CqiLvXj3pckZyr5fR6vKn9/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 3rd on Feb 18, 2021](ill-take-the-rain-1.html){:target="_blank"}*
+##### Reveal
+- [I’ll Take the Rain](https://drive.google.com/file/d/1v6JiyRs829CqiLvXj3pckZyr5fR6vKn9/view?usp=sharing){:target="_blank"}
+  - *[Chosen 3rd on Feb 18, 2021](ill-take-the-rain-1.html){:target="_blank"}
 
-##### ~~Up~~
-- ~~Hope~~
-  - *[Final Mix](https://drive.google.com/file/d/1Et9QkM4rWoUPY-iKXSpv8W4Ne8U_J8OE/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 9th on March 20th, 2021](hope-1.html){:target="_blank"}*
-- ~~Sad Professor~~
-  - *[Final Mix](https://drive.google.com/file/d/1AcJcnMfI_gaS7s-6DTUgQNDMolrXvvTi/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 18th on June 4, 2021](sad-professor-1.html){:target="_blank"}*
-- ~~Walk Unafraid~~
-  - *[Final Mix](https://drive.google.com/file/d/1WEyC_ld3Lq1_NO62ZJaOFveLWcI4PXN5/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 8th on March 12th, 2021](walk-unafraid-1.html){:target="_blank"}*
-- ~~At My Most Beautiful~~
-  - *[Final Mix](https://drive.google.com/file/d/11FSFyQuDRLX2h5qGmjypCDa1i0-3fgz1/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 10th on March 20th, 2021](at-my-most-beautiful-1.html){:target="_blank"}*
+##### Up
+- [Hope](https://drive.google.com/file/d/1Et9QkM4rWoUPY-iKXSpv8W4Ne8U_J8OE/view?usp=sharing){:target="_blank"}
+  - *[Chosen 9th on March 20th, 2021](hope-1.html){:target="_blank"}
+- [Sad Professor](https://drive.google.com/file/d/1AcJcnMfI_gaS7s-6DTUgQNDMolrXvvTi/view?usp=sharing){:target="_blank"}
+  - *[Chosen 18th on June 4, 2021](sad-professor-1.html){:target="_blank"}
+- [Walk Unafraid](https://drive.google.com/file/d/1WEyC_ld3Lq1_NO62ZJaOFveLWcI4PXN5/view?usp=sharing){:target="_blank"}
+  - *[Chosen 8th on March 12th, 2021](walk-unafraid-1.html){:target="_blank"}
+- [At My Most Beautiful](https://drive.google.com/file/d/11FSFyQuDRLX2h5qGmjypCDa1i0-3fgz1/view?usp=sharing){:target="_blank"}
+  - *[Chosen 10th on March 20th, 2021](at-my-most-beautiful-1.html){:target="_blank"}
 
-##### ~~Hi-Fi~~
-- ~~Leave~~
-  - *[Final Mix](https://drive.google.com/file/d/1BWBTLfwOTaKjLU0f1nY9Bpk5wl8PGqY7/view?usp=sharing){:target="_blank"}*
+##### Hi-Fi
+- [Leave](https://drive.google.com/file/d/1BWBTLfwOTaKjLU0f1nY9Bpk5wl8PGqY7/view?usp=sharing){:target="_blank"}
   - *[Chosen 16th on May 4, 2021](leave-1.html)*
-- ~~So Fast, So Numb~~ 
-  - *[Final Mix](https://drive.google.com/file/d/12NVKLkgs17zyAAAiOf4Ry7WArQL7ITbf/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 1st on Feb 6, 2021](so-fast-so-numb-1.html){:target="_blank"}*
+- [So Fast, So Numb](https://drive.google.com/file/d/12NVKLkgs17zyAAAiOf4Ry7WArQL7ITbf/view?usp=sharing){:target="_blank"}
+  - *[Chosen 1st on Feb 6, 2021](so-fast-so-numb-1.html){:target="_blank"}
 
-##### ~~Monster~~
-- ~~What’s the Frequency, Kenneth?~~
-  - *[Final Mix](https://drive.google.com/file/d/1cZ0RDxEdf8dpr93axawJ0i0_k9d8qiZm/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 11th on March 29th, 2021](frequency-1.html){:target="_blank"}*
+##### Monster
+- [What’s the Frequency, Kenneth?](https://drive.google.com/file/d/1cZ0RDxEdf8dpr93axawJ0i0_k9d8qiZm/view?usp=sharing){:target="_blank"}
+  - *[Chosen 11th on March 29th, 2021](frequency-1.html){:target="_blank"}
 
-##### ~~Automatic for the People~~
-- ~~Sweetness Follows~~
-  - *[Final Mix](https://drive.google.com/file/d/1SJv7ySMuFNbnMGsaC30egYQTyp3zt8i0/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 24th on November 6th, 2021](sweetness-1.html){:target="_blank"}*
+##### Automatic for the People
+- [Sweetness Follows](https://drive.google.com/file/d/1SJv7ySMuFNbnMGsaC30egYQTyp3zt8i0/view?usp=sharing){:target="_blank"}
+  - *[Chosen 24th on November 6th, 2021](sweetness-1.html){:target="_blank"}
 
+##### Out of Time
+- [Near Wild Heaven](https://drive.google.com/file/d/1UD8Cs8dT7eKY13vEK2SkVW_mWLGNLS5J/view?usp=sharing){:target="_blank"}
+  - *[Chosen 2nd on Feb 13, 2021](near-wild-heaven-1.html){:target="_blank"}
 
-##### ~~Out of Time~~
-- ~~Near Wild Heaven~~
-  - *[Final Mix](https://drive.google.com/file/d/1UD8Cs8dT7eKY13vEK2SkVW_mWLGNLS5J/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 2nd on Feb 13, 2021](near-wild-heaven-1.html){:target="_blank"}*
+##### Green
+- [You Are the Everything](https://drive.google.com/file/d/1UxHve8eBZOvQdFIm3e62gYvF3Kdu1eZC/view?usp=sharing){:target="_blank"}
+  - *[Chosen 20th on Aug 3, 2021](you-are-the-everything-1.html){:target="_blank"}
+- [Turn You Inside Out](https://drive.google.com/file/d/1q8BYYVMicYIX-EBycBrHA0I5wYeSAlKQ/view?usp=sharing){:target="_blank"}
+  - *[Chosen 26th on Dec 5, 2021](inside-out-1.html){:target="_blank"}
 
-##### ~~Green~~
-- ~~You Are the Everything~~
-  - *[Final Mix](https://drive.google.com/file/d/1UxHve8eBZOvQdFIm3e62gYvF3Kdu1eZC/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 20th on Aug 3, 2021](you-are-the-everything-1.html){:target="_blank"}*
-- ~~Turn You Inside Out~~
-  - *[Final Mix](https://drive.google.com/file/d/1q8BYYVMicYIX-EBycBrHA0I5wYeSAlKQ/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 26th on Dec 5, 2021](inside-out-1.html){:target="_blank"}*
+##### Document
+- [Finest Worksong](https://drive.google.com/file/d/1TZ8PGhhnwuNA1EIzsCWB-YjSpCxw0D0s/view?usp=sharing){:target="_blank"}
+  - *[Chosen 17th on May 28, 2021](finest-worksong-1.html){:target="_blank"}
+- [Exhuming McCarthy](https://drive.google.com/file/d/1fdzJGO7KQvwzmp4JWt5rILEi_Om0wumM/view?usp=sharing){:target="_blank"}
+  - *[Chosen 14th on April 22, 2021](exhuming-mccarthy-1.html){:target="_blank"}
 
-##### ~~Document~~
-- ~~Finest Worksong~~
-  - *[Final Mix](https://drive.google.com/file/d/1TZ8PGhhnwuNA1EIzsCWB-YjSpCxw0D0s/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 17th on May 28, 2021](finest-worksong-1.html){:target="_blank"}*
-- ~~Exhuming McCarthy~~
-  - *[Final Mix](https://drive.google.com/file/d/1fdzJGO7KQvwzmp4JWt5rILEi_Om0wumM/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 14th on April 22, 2021](exhuming-mccarthy-1.html){:target="_blank"}*
+##### Life’s Rich Pageant
+- [Begin the Begin](https://drive.google.com/file/d/1ATdhon24kjF1Qsmds2fe2zhV3ePGnMZu/view?usp=sharing){:target="_blank"}
+  - *[Chosen 27th on Dec 14, 2021](begin-1.html){:target="_blank"}
+- [These Days](https://drive.google.com/file/d/1_HlHexpogySa7X26f6i8deA2uArlMNUM/view?usp=sharing){:target="_blank"}
+  - *[Chosen 19th on July 19, 2021](these-days-1.html){:target="_blank"}
+- [I Believe](https://drive.google.com/file/d/1bQPnMSNsrWEmIMdrtdAzG22aBVvQXL-z/view?usp=sharing){:target="_blank"}
+  - *[Chosen 5th on Feb 27, 2021](i-believe-1.html){:target="_blank"}
 
-##### ~~Life’s Rich Pageant~~
-- ~~Begin the Begin~~
-  - *[Chosen 27th on Dec 14, 2021](begin-1.html){:target="_blank"}*
+##### Fables of the Reconstruction
+- [Driver 8](https://drive.google.com/file/d/1VZiclBYdeEq4ayBbnSituW5T2l726Lk2/view?usp=sharing){:target="_blank"}
+  - *[Chosen 12th on April 10, 2021](driver8-1.html){:target="_blank"}
 
-- ~~These Days~~
-  - *[Final Mix](https://drive.google.com/file/d/1_HlHexpogySa7X26f6i8deA2uArlMNUM/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 19th on July 19, 2021](these-days-1.html){:target="_blank"}*
-- ~~I Believe~~
-  - *[Final Mix](https://drive.google.com/file/d/1bQPnMSNsrWEmIMdrtdAzG22aBVvQXL-z/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 5th on Feb 27, 2021](i-believe-1.html){:target="_blank"}*
-
-##### ~~Fables of the Reconstruction~~
-- ~~Driver 8~~
-  - *[Final Mix](https://drive.google.com/file/d/1VZiclBYdeEq4ayBbnSituW5T2l726Lk2/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 12th on April 10, 2021](driver8-1.html){:target="_blank"}*
-
-##### ~~Reckoning~~
-- ~~Harborcoat~~
+##### Reckoning
+- [Harborcoat](https://drive.google.com/file/d/1dsF_QhiYqFhHDiMewCXub5R17EghCCtg/view?usp=sharing){:target="_blank"}
   - *[Chosen 23rd on Sep 16, 2021](harborcoat-1.html)*
-  - *[Final Mix](https://drive.google.com/file/d/1dsF_QhiYqFhHDiMewCXub5R17EghCCtg/view?usp=sharing){:target="_blank"}*
-- ~~Pretty Persuasion~~
-  - *[Final Mix](https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 13th on April 12, 2021](pretty-persuasion-1.html){:target="_blank"}*
-- ~~Don't Go Back to Rockville~~
-  - *[Final Mix](https://drive.google.com/file/d/1hHfFeEZ7KcReU3bFO_7epP1I2iSophV8/view?usp=sharing){:target="_blank"}*
-  - *[Chosen 21st on August 8, 2021](rockville-1.html){:target="_blank"}*
+- [Pretty Persuasion](https://drive.google.com/file/d/1kLQl7l_F7bLVgn8n3TWoZhyIlSBD78Ut/view?usp=sharing){:target="_blank"}
+  - *[Chosen 13th on April 12, 2021](pretty-persuasion-1.html){:target="_blank"}
+- [Don't Go Back to Rockville](https://drive.google.com/file/d/1hHfFeEZ7KcReU3bFO_7epP1I2iSophV8/view?usp=sharing){:target="_blank"}
+  - *[Chosen 21st on August 8, 2021](rockville-1.html){:target="_blank"}
 
-##### ~~Murmur~~
-- ~~Radio Free Europe~~
-  - *[Final Mix](https://drive.google.com/file/d/1nLyvx1lsOznYI2TTobgKJ6RquY_8f4pw/view?usp=sharing){:target="_blank"}*
+##### Murmur
+- [Radio Free Europe](https://drive.google.com/file/d/1nLyvx1lsOznYI2TTobgKJ6RquY_8f4pw/view?usp=sharing){:target="_blank"}
   - *[Chosen 15th on April 29, 2021](radio-free-1.html)*
-- ~~Sitting Still~~
-  - *[Final Mix](https://drive.google.com/file/d/1kc9qexTS4ZKOo3jt4hej6FVZhtfF8WvC/view?usp=sharing){:target="_blank"}*
+- [Sitting Still](https://drive.google.com/file/d/1kc9qexTS4ZKOo3jt4hej6FVZhtfF8WvC/view?usp=sharing){:target="_blank"}
   - *[Chosen 6th on March 6, 2021](sitting-still-1.html)*
-- ~~Shaking Through~~
-  - *[Final Mix](https://drive.google.com/file/d/1bDK7eyMc3iloWywernigrHSnGvyKRCkq/view?usp=sharing){:target="_blank"}*
+- [Shaking Through](https://drive.google.com/file/d/1bDK7eyMc3iloWywernigrHSnGvyKRCkq/view?usp=sharing){:target="_blank"}
   - *[Chosen 4th on Feb 22, 2021](shaking-through-1.html)*
-- ~~Perfect Circle~~
-  - *[Final Mix](https://drive.google.com/file/d/19sITux5-p49gxXpotQvICd9pxftRBd0V/view?usp=sharing)*{:target="_blank"}*
+- [Perfect Circle](https://drive.google.com/file/d/19sITux5-p49gxXpotQvICd9pxftRBd0V/view?usp=sharing){:target="_blank"}
   - *[Chosen 22nd on Aug 31, 2021](perfect-circle-1.html)*
 
-##### ~~Chronic Town~~
-- ~~Carnival of Sorts (Boxcar)~~
-  - *[Final Mix](https://drive.google.com/file/d/1NZY4rqSQykZGCzpDIiFzFC_RGpCnK6vb/view?usp=sharing)*{:target="_blank"}*
+##### Chronic Town
+- [Carnival of Sorts (Boxcar)](https://drive.google.com/file/d/1NZY4rqSQykZGCzpDIiFzFC_RGpCnK6vb/view?usp=sharing){:target="_blank"}
   - *[Chosen 25th on Nov 18, 2021](boxcar-1.html)*
