@@ -55,7 +55,7 @@ permalink: recordings.html
     </tr>
     <tr class="row" id="turn">
       <td data-th="Song">
-        <a class="star" href="https://drive.google.com/file/d/1q8BYYVMicYIX-EBycBrHA0I5wYeSAlKQ/view?usp=sharing" target="_blank">Turn You Inside-Out</a>
+        <a href="https://drive.google.com/file/d/1q8BYYVMicYIX-EBycBrHA0I5wYeSAlKQ/view?usp=sharing" target="_blank">Turn You Inside-Out</a>
         <svg x="0" y="0" viewBox="0 0 300.003 300.003" class="mobile-toggle icon-less" onClick="toggleRow('turn')">
           <g>
             <path fill="#0e9aef" d="M150.001,0c-82.843,0-150,67.159-150,150c0,82.838,67.157,150.003,150,150.003c82.838,0,150-67.165,150-150.003C300.001,67.159,232.838,0,150.001,0z M197.218,166.283H92.41c-8.416,0-15.238-6.821-15.238-15.238s6.821-15.238,15.238-15.238H197.22c8.416,0,15.238,6.821,15.238,15.238S205.634,166.283,197.218,166.283z" />
@@ -237,7 +237,7 @@ permalink: recordings.html
       </tr>
       <tr class="row" id="these_days">
         <td data-th="Song">
-          <a href="https://drive.google.com/file/d/1_HlHexpogySa7X26f6i8deA2uArlMNUM/view?usp=sharing" target="_blank">These Days</a>
+          <a class="star" href="https://drive.google.com/file/d/1_HlHexpogySa7X26f6i8deA2uArlMNUM/view?usp=sharing" target="_blank">These Days</a>
           <svg x="0" y="0" viewBox="0 0 300.003 300.003" class="mobile-toggle icon-less" onClick="toggleRow('these_days')">
             <g>
               <path fill="#0e9aef" d="M150.001,0c-82.843,0-150,67.159-150,150c0,82.838,67.157,150.003,150,150.003c82.838,0,150-67.165,150-150.003C300.001,67.159,232.838,0,150.001,0z M197.218,166.283H92.41c-8.416,0-15.238-6.821-15.238-15.238s6.821-15.238,15.238-15.238H197.22c8.416,0,15.238,6.821,15.238,15.238S205.634,166.283,197.218,166.283z" />
@@ -289,7 +289,7 @@ permalink: recordings.html
       </tr>
       <tr class="row" id="finest_worksong">
         <td data-th="Song">
-          <a href="https://drive.google.com/file/d/1TZ8PGhhnwuNA1EIzsCWB-YjSpCxw0D0s/view?usp=sharing" target="_blank">Finest Worksong</a>
+          <a class="star" href="https://drive.google.com/file/d/1TZ8PGhhnwuNA1EIzsCWB-YjSpCxw0D0s/view?usp=sharing" target="_blank">Finest Worksong</a>
           <svg x="0" y="0" viewBox="0 0 300.003 300.003" class="mobile-toggle icon-less" onClick="toggleRow('finest_worksong')">
             <g>
               <path fill="#0e9aef" d="M150.001,0c-82.843,0-150,67.159-150,150c0,82.838,67.157,150.003,150,150.003c82.838,0,150-67.165,150-150.003C300.001,67.159,232.838,0,150.001,0z M197.218,166.283H92.41c-8.416,0-15.238-6.821-15.238-15.238s6.821-15.238,15.238-15.238H197.22c8.416,0,15.238,6.821,15.238,15.238S205.634,166.283,197.218,166.283z" />
@@ -417,7 +417,7 @@ permalink: recordings.html
     </tr>
     <tr class="row" id="driver-8">
       <td data-th="Song">
-        <a href="https://drive.google.com/file/d/1VZiclBYdeEq4ayBbnSituW5T2l726Lk2/view?usp=sharing" target="_blank" >Driver 8</a>
+        <a class="star" href="https://drive.google.com/file/d/1VZiclBYdeEq4ayBbnSituW5T2l726Lk2/view?usp=sharing" target="_blank" >Driver 8</a>
         <svg x="0" y="0" viewBox="0 0 300.003 300.003" class="mobile-toggle icon-less" onClick="toggleRow('driver-8')">
           <g>
             <path fill="#0e9aef" d="M150.001,0c-82.843,0-150,67.159-150,150c0,82.838,67.157,150.003,150,150.003c82.838,0,150-67.165,150-150.003C300.001,67.159,232.838,0,150.001,0z M197.218,166.283H92.41c-8.416,0-15.238-6.821-15.238-15.238s6.821-15.238,15.238-15.238H197.22c8.416,0,15.238,6.821,15.238,15.238S205.634,166.283,197.218,166.283z" />
@@ -596,7 +596,7 @@ permalink: recordings.html
     </tr>
     <tr class="row" id="believe">
       <td data-th="Song">
-        <a class="star" href="https://drive.google.com/file/d/1bQPnMSNsrWEmIMdrtdAzG22aBVvQXL-z/view?usp=sharing" target="_blank">I Believe</a>
+        <a href="https://drive.google.com/file/d/1bQPnMSNsrWEmIMdrtdAzG22aBVvQXL-z/view?usp=sharing" target="_blank">I Believe</a>
         <svg x="0" y="0" viewBox="0 0 300.003 300.003" class="mobile-toggle icon-less" onClick="toggleRow('believe')">
           <g>
             <path fill="#0e9aef" d="M150.001,0c-82.843,0-150,67.159-150,150c0,82.838,67.157,150.003,150,150.003c82.838,0,150-67.165,150-150.003C300.001,67.159,232.838,0,150.001,0z M197.218,166.283H92.41c-8.416,0-15.238-6.821-15.238-15.238s6.821-15.238,15.238-15.238H197.22c8.416,0,15.238,6.821,15.238,15.238S205.634,166.283,197.218,166.283z" />
