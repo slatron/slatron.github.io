@@ -1,10 +1,8 @@
 # Site settings
-title: Mastering the Art of American Rock Music
-subtitle: with R.E.M.
+title: slatronica music
+subtitle: music by mike slater
 description: >
-  I am returning to music after taking a break for
-  several years. As an initial excercise in my home
-  studio, I'm covering 27 REM songs
+  this is mike slater's music recording blog
 baseurl: ""
 url: "http://slatron.github.io"
 reddit_username: slatron11
