@@ -4,7 +4,7 @@ title:  Criminal Karaoke
 image: tidal.jpg
 year: "2022"
 date: 2022-03-26t12:00:01
-tags: laurie
+tags: laurie covers
 category: music
 desc: New Year Start
 permalink: criminal-karaoke.html
