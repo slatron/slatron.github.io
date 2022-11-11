@@ -4,8 +4,8 @@ title:  One Eyed Dog
 image: nate.jpg
 year: "2022"
 date: 2022-10-08t12:00:01
-tags: madbread
 tags: mad-bread
+category: music
 desc: alternate next album
 permalink: one-eyed-dog.html
 final_mix: https://drive.google.com/file/d/1SkicURvc-fZ8XxeWs9pgDjQXwiF42CSS/view?usp=sharing

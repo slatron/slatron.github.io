@@ -4,7 +4,7 @@ title:  Sail Dancing
 image: watermark.jpg
 year: "2022"
 date: 2022-10-10t12:00:01
-tags: mad-bread
+tags: covers
 category: music
 desc: mashup time
 permalink: sail-dancing.html
