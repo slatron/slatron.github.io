@@ -25,3 +25,4 @@ I moved the droning guitar to a fuzz bass. Using my upright NS to add some quick
 
 This was originally an anti Regan era Star Wars weapons programs. Snide references to big hair and big houses of the time as a load of shit. The message gets pretty lost despite the lyrics being so straight-forward. The overdose of machismo seems to serve the opposite purpose of skewering the 80's astetic.
 
+Next Up: You are the Sunshine of my Life
