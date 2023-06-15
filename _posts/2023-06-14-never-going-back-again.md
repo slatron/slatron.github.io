@@ -12,6 +12,8 @@ video: https://www.youtube.com/watch?v=UHJiPVPXEAw
 final_mix: https://drive.google.com/file/d/13rneu41fmV4bsWpbnlu9nCTEb0DjvDYR/view?usp=sharing
 ---
 
+<iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://drive.google.com/file/d/13rneu41fmV4bsWpbnlu9nCTEb0DjvDYR/preview"></iframe>
+
 ### Year of Change
 
 2023 has ended up being a year of even more changes. The band lost another member just as we were getting shows started again as a trio. Adam is moving to Florida in a week, so no more banjo and one less singer.
