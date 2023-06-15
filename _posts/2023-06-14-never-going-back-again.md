@@ -12,7 +12,7 @@ video: https://www.youtube.com/watch?v=UHJiPVPXEAw
 final_mix: https://drive.google.com/file/d/13rneu41fmV4bsWpbnlu9nCTEb0DjvDYR/view?usp=sharing
 ---
 
-<iframe width="100%" scrolling="no" frameborder="no" allow="autoplay" src="https://drive.google.com/file/d/13rneu41fmV4bsWpbnlu9nCTEb0DjvDYR/preview"></iframe>
+<iframe width="100%" height="50px" scrolling="no" frameborder="no" allow="autoplay" src="https://drive.google.com/file/d/13rneu41fmV4bsWpbnlu9nCTEb0DjvDYR/preview"></iframe>
 
 ### Year of Change
 
