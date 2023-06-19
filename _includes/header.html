@@ -1,14 +1,43 @@
-<header class="site-header">
-  <div class="wrapper">
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-    <div class="header-lower">
-      <p class="site-subtitle">{{ site.subtitle }}</p>
-      <nav>
-        <a class="btn" href="/recordings.html">
-          listen here <img class="link-icon" src="/ms_assets/images/listen.svg" />
-        </a>
-      </nav>
-    </div>
-
+<header class="header-bar" id="header-bar">
+  <div class="flex-left vertical-align-container">
+    <div
+        class=hamburger
+        onclick="toggleActive()"
+    > 
+      <span class="line"></span>
+      <span class="line"></span>
+      <span class="line"></span>
+    </div>  
   </div>
+  <a class="flex-right vertical-align-container" href="{{ site.baseurl }}/">
+      <span class="logo">MIKE</span>
+      <span class="logo logo2">SLATER</span>
+  </a>
 </header>
+
+<nav id="drawer"> 
+  <ul>
+    <li>
+      <a href="{{ site.baseurl }}/">Home</a>
+    </li>
+    <li>
+      <a target="_blank" href="https://slatron.github.io/responsive-table-demo/">Responsive Table Demo</a>
+    </li>
+    <li>
+      <a href="https://slatron.github.io/life-tracker/">Lfetracker App Demo</a>
+    </li>
+    <li>
+      <a href="/recordings.html">Recordings</a>
+    </li>
+    <li>
+      <a href="https://slatron.github.io/comics/">Comics</a>
+    </li>
+  </ul>
+</nav>
+
+<script>
+  const toggleActive = () => {
+    document.getElementById('header-bar').classList.toggle('active');
+    document.getElementById('drawer').classList.toggle('active');    
+  };
+</script>

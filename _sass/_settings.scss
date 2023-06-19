@@ -5,24 +5,49 @@ $small-font-size:  0.75rem;
 $base-line-height: 2rem;
 $base-line-height-paragraph: 2.75rem;
 
-$header-height:    96px;
+$header-height:    44px;
 $header-color:     #e6e4e4;
 
-$base-unit:        1rem;
+$base-unit:         1rem;
+$base-unit-half:    0.5rem;
+$base-unit-quarter: 0.25rem;
 
 $text-color:       #111;
 $background-color: #ecebeb;
-$brand-color:      #5745e4;
+$brand-color:      #0b9afb;
 
 $grey-color:       #828282;
 $grey-color-dark:  darken($grey-color, 25%);
 $grey-color-med:   lighten($grey-color, 20%);
 $grey-color-light: lighten($grey-color, 45%);
 
+$color-white:      #e3e3e3;
+$color-black:      #000;
+
 $laptop:        800px;
 
 @mixin media-query($device) {
     @media screen and (min-width: $device) {
         @content;
+    }
+}
+
+$layer-main-body: 1;
+$layer-top-elements: 1000;
+
+// Drawer Settings:
+$drawer-width: 175px;
+$drawer-max-height: 500px;
+
+$transtion-drawer: all 0.3s ease-in-out;
+$base-rounded-corners: 3px;
+
+// =========== Breakpoint mixins
+@mixin breakpoint($point) {
+    @if $point == laptop {
+        @media (min-width: 1240px) { @content ; }
+    }
+    @else if $point == tablet {
+        @media (min-width: 768px) { @content ; }
     }
 }
