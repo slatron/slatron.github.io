@@ -24,13 +24,9 @@ $grey-color-light: lighten($grey-color, 45%);
 $color-white:      #e3e3e3;
 $color-black:      #000;
 
-$laptop:        800px;
-
-@mixin media-query($device) {
-    @media screen and (min-width: $device) {
-        @content;
-    }
-}
+$laptop:        1240px;
+$tablet:        768px;
+$mobile:        475px;
 
 $layer-main-body: 1;
 $layer-top-elements: 1000;
@@ -42,12 +38,21 @@ $drawer-max-height: 500px;
 $transtion-drawer: all 0.3s ease-in-out;
 $base-rounded-corners: 3px;
 
-// =========== Breakpoint mixins
+// =========== Responsive mixins
+@mixin media-query($device) {
+    @media screen and (min-width: $device) {
+        @content;
+    }
+}
+
 @mixin breakpoint($point) {
     @if $point == laptop {
-        @media (min-width: 1240px) { @content ; }
+        @media (min-width: $laptop) { @content ; }
     }
     @else if $point == tablet {
-        @media (min-width: 768px) { @content ; }
+        @media (min-width: $tablet) { @content ; }
+    }
+    @else if $point == mobile {
+        @media (min-width: $mobile) { @content ; }
     }
 }

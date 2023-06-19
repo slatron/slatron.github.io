@@ -36,7 +36,7 @@ h1 {
   margin-left: auto;
   padding: 0.5rem $base-unit;
 
-  @include media-query($laptop) {
+  @include media-query($tablet) {
       max-width: -webkit-calc(800px - (#{$base-unit}));
       max-width:         calc(800px - (#{$base-unit}));
       padding-right: $base-unit / 2;

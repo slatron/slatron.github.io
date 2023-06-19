@@ -1,9 +1,14 @@
+@import 'settings';
+
 // /**
 //  * Page content
 //  */
 .page-heading,
 .post-title  {
-  font-size: 1.65rem;
+  font-size: 1.2rem;
+  @include breakpoint(tablet) {
+    font-size: 1.65rem;
+  }
 } 
 
 .page-content {
@@ -44,12 +49,16 @@ li > ul > li {
     display: flex;
     flex-direction: column;
     transition: all 1s;
+    width: 100%;
 
     &:hover {
       border: 1px solid #292929;
       background: #ebece1;
     }
 
+    a {
+      text-align: center;
+    }
   }
   h2 {
     font-size: 0.85rem;
@@ -75,7 +84,7 @@ li > ul > li {
   }
 }
 
-@include media-query($laptop) {
+@include media-query($mobile) {
   .slug-list {
     li {
       flex: 0 0 30%;
