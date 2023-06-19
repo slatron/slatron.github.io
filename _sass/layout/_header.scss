@@ -141,3 +141,21 @@
     left: -$drawer-width * 2;
   }
 }
+
+.window-shade {
+  transition: $transtion-drawer;
+  opacity: 0.75;
+  z-index: 20;
+  top: $header-height;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  overflow: hidden;
+  position: fixed;
+  background: $color-black;
+  display: none;
+
+  &.active {
+    display: block;
+  }
+}

@@ -1,9 +1,6 @@
 <header class="header-bar" id="header-bar">
   <div class="flex-left vertical-align-container">
-    <div
-        class=hamburger
-        onclick="toggleActive()"
-    > 
+    <div class=hamburger onclick="toggleActive()"> 
       <span class="line"></span>
       <span class="line"></span>
       <span class="line"></span>
@@ -35,9 +32,12 @@
   </ul>
 </nav>
 
+<div id="window-shade" class="window-shade" onclick="toggleActive()"></div>
+
 <script>
   const toggleActive = () => {
     document.getElementById('header-bar').classList.toggle('active');
     document.getElementById('drawer').classList.toggle('active');    
+    document.getElementById('window-shade').classList.toggle('active');    
   };
 </script>
