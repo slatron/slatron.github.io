@@ -37,7 +37,7 @@ li > ul > li {
 
   li {
     margin-bottom: 0.5rem;
-    flex: 0 0 46%;
+    max-width: 30%;
     border: 1px solid #a7a7a7;
     border-radius: 3px;
     background: #fbfbfb;
@@ -59,6 +59,15 @@ li > ul > li {
     display: flex;
     justify-content: space-between;
     align-items: center;
+
+    a {
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      &:hover {
+        text-decoration: none;
+      } 
+    }
   }
 
   .desc {

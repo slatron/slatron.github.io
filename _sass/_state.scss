@@ -1,3 +1,6 @@
+
+@import "settings";
+
 .link-icon {
   width: 20px;
   height: 20px;
@@ -19,6 +22,7 @@
 .floated-img-left {
   float: left;
   width: 25%;
+  max-width: 150px;
   margin: 0 0.5rem 0.5rem 0;
   padding: 0.25rem;
   border: 1px solid #666;
@@ -28,6 +32,7 @@
 .floated-img-right {
   float: right;
   width: 25%;
+  max-width: 150px;
   margin: 0 0 0.5rem 0.5rem;
   padding: 0.15rem;
   border: 1px solid #666;
@@ -226,13 +231,30 @@
 
   h3 {
     margin: 0;
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    @include breakpoint(tablet) {
+      font-size: 1.25rem;
+      line-height: 1.8rem;      
+    }
   }
 
   h4 {
     margin: 0;
-    font-size: 14px;
-    line-height: 21px;
+    font-size: 0.75rem;
+    line-height: 1.2rem;
+    @include breakpoint(tablet) {
+      font-size: 0.85rem;
+      line-height: 1.3srem;
+    }
+  }
+
+  p {
+    font-size: 0.75rem;
+    line-height: 1.2rem;
+    @include breakpoint(tablet) {
+      font-size: 1rem;
+      line-height: 1.4rem;
+    }
   }
 }
