@@ -121,6 +121,7 @@
     }
 
     a {
+      font-size: 0.75rem;
       display: block;
       padding: $base-unit-quarter;
       color: #fff;
@@ -128,6 +129,9 @@
       text-decoration: none;
       &:hover {
         color: #fff;
+      }
+      @include breakpoint(tablet) {
+        font-size: 1rem;
       }
     }
   }
