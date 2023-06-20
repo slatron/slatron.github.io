@@ -207,12 +207,13 @@
 .tag {
   display: inline-block;
   background: #1874af;
-  padding: 0 7px;
+  padding: 0 0.5rem;
   white-space: nowrap;
   border: 1px solid #65afdd;
   color: #fff;
-  border-radius: 2rem;
-  line-height: 22px;
+  border-radius: 1rem;
+  line-height: 1rem;
+  font-size: 0.65rem;
 }
 
 .demo {

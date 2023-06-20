@@ -2,7 +2,7 @@
 title: mike slater - web developer and musician
 subtitle: web dev demos and music by mike slater
 description: >
-  this is mike slater's develpment demo and music recording blog
+  this is mike slater's web develpment and music recording blog
 baseurl: ""
 url: "http://slatron.github.io"
 reddit_username: slatron11
@@ -10,6 +10,7 @@ twitter_username: slatron
 github_username:  slatron
 plugins: [jekyll-paginate]
 paginate: 18
+paginate_path: "/blog/page:num"
 port: 5000
 
 # Build settings
