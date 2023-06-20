@@ -110,6 +110,7 @@
     border-bottom: 1px solid $color-white;
     transition: $transtion-drawer;
     margin: 0;
+    padding: 0 0.5rem;
 
     &:last-child {
       border-bottom: none;
@@ -121,7 +122,7 @@
     }
 
     a {
-      font-size: 0.75rem;
+      font-size: 1rem;
       display: block;
       padding: $base-unit-quarter;
       color: #fff;
@@ -130,17 +131,14 @@
       &:hover {
         color: #fff;
       }
-      @include breakpoint(tablet) {
-        font-size: 1rem;
-      }
     }
   }
 
-  @include breakpoint(tablet) {
+  @include breakpoint(mobile) {
     width: $drawer-width * 1.5;
     left: -$drawer-width * 1.5;
   }
-  @include breakpoint(laptop) {
+  @include breakpoint(tablet) {
     width: $drawer-width * 2;
     left: -$drawer-width * 2;
   }
