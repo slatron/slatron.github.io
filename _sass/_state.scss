@@ -218,19 +218,10 @@
 }
 
 .demo {
-  border-bottom: 1px dashed #333;
-  margin: 0.5rem;
-  padding: 0.5rem;
+  border-top: 1px dashed #333;
+  margin: 1rem;
+  padding: 1rem;
   clear: both;
-  
-  p {
-    line-height: 1.8rem;
-  }
-  
-
-  &:first-child {
-    border-top: 1px dashed #333;
-  }
 
   h3 {
     margin: 0;
@@ -245,19 +236,19 @@
   h4 {
     margin: 0;
     font-size: 0.75rem;
-    line-height: 1.2rem;
+    line-height: 1.4rem;
     @include breakpoint(tablet) {
       font-size: 0.85rem;
-      line-height: 1.3srem;
+      line-height: 1.6rem;
     }
   }
 
   p {
-    font-size: 0.75rem;
-    line-height: 1.2rem;
+    font-size: 0.9rem;
+    line-height: 1.7rem;
     @include breakpoint(tablet) {
       font-size: 1rem;
-      line-height: 1.4rem;
+      line-height: 1.8rem;
     }
   }
 }
