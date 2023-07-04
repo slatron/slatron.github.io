@@ -81,11 +81,11 @@ li {
  * Links
  */
 a {
-    color: $brand-color;
+    color: #005B99;
     text-decoration: none;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        color: #005B99;
     }
 
     &:hover {
