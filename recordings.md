@@ -3,7 +3,7 @@ layout: page
 permalink: recordings.html
 ---
 
-<h2 class="page-heading">Recordings by Mike Slater</h2>
+<h2 class="page-heading">Playlists by Mike Slater</h2>
 
 <h3>w/ Mad Bread</h3>
 

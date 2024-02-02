@@ -220,9 +220,16 @@
 
 .demo {
   border-top: 1px dashed #333;
-  margin: 1rem;
-  padding: 1rem;
+  border-bottom: 1px dashed #333;
+  margin: 1rem 1rem 2rem;
+  padding: 1rem 1rem 2rem;
   clear: both;
+
+  &.lower {
+    border-top: none;
+    margin: 1rem;
+    padding: 0 1rem 1rem;
+  }
 
   h3 {
     margin: 0;
