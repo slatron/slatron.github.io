@@ -1,0 +1,56 @@
+
+<div class="spacer">
+  <a class="btn" href="/recordings.html">
+    Listen To Playlists <img class="link-icon" src="/ms_assets/images/listen.svg" />
+  </a>
+</div>
+
+<ul class="slug-list">
+  {% for post in paginator.posts %}
+  <li class="category-{{post.category}}">
+    <div class="slug-list-dateline">
+      <span class="slug-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+      {% if post.final_mix %}
+      <a title="Listen to Final Mix" href="{{post.final_mix}}" target="_blank">
+        <img class="link-icon" src="/ms_assets/images/listen.svg" />
+      </a>
+      {% else %}
+      <span title="Song In Progress">
+        <img class="link-icon" src="/ms_assets/images/hourglass.svg" />
+      </span>
+      {% endif %}
+    </div>
+    <h2>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    <a href="{{ post.url | prepend: site.baseurl }}">
+      <img loading="lazy" src="/ms_assets/images/albums/{{ post.image }}" />
+    </a>
+    <span class="desc">{{ post.desc }}</span>
+  </li>
+  {% endfor %}
+</ul>
+
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a class="pag-but" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <span class="pag-but active">{{ page }}</span>
+    {% elsif page == 1 %}
+      <a class="pag-but" href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a class="pag-but" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a class="pag-but" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a>
+  {% endif %}
+</div>
+{% endif %}
