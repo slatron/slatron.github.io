@@ -9,7 +9,7 @@ category: music
 desc: new podcast
 permalink: geekout-starts.html
 ---
- <img loading="lazy" style="border: 3px solid #333;border-radius: 3px;float: right;width: 150px; margin: 60px 0 0 25px;" alt="Geek Out with Megan and Carin" src="/ms_assets/images/albums/geekout.jpg" />
+ <a title="Get Podcast on Spotify" href="https://open.spotify.com/show/0JTuERDsjFAFtz8lOaWaVV" target="_blank"><img loading="lazy" style="border: 3px solid #333;border-radius: 3px;float: right;width: 150px; margin: 60px 0 0 25px;" alt="Geek Out with Megan and Carin" src="/ms_assets/images/albums/geekout.jpg" /></a>
 
 ### New Podcast
 
