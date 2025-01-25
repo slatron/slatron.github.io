@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ain't No Sunshine Solo Improv
-image: solo-pose-2.jpg
+image: solo-pose-2b.jpg
 year: "2025"
 date: 2025-01-25t14:55:01
 tags: original
