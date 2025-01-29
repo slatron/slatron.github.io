@@ -23,9 +23,9 @@ Minors continued with "Hotel California". "Nobody Knows You When You're Down and
 
 The other main part of lessons is improvising solos over changes. My first few will be very much centerd on pentatonic scales. Steve has me playing over a five minute backing track of "Ain't No Sunshine" every day. I had to record myself soloing over the changes, so I might as well share them here too:
 
-<a href="https://drive.google.com/file/d/1DLaF6gBCX65uflyENXm51dX7vOnFRfsk/view?usp=sharing" target="_blank">Ain't No Sunchine Beginning</a>
+- <a href="https://drive.google.com/file/d/1DLaF6gBCX65uflyENXm51dX7vOnFRfsk/view?usp=sharing" target="_blank">Ain't No Sunshine Beginning</a>
 
-<a href="https://drive.google.com/file/d/1TkgVKYMROh2Z0_D4vy0r6cdiAfzdPmt0/view?usp=sharing" target="_blank">Ain't No Sunchine Ending</a>
+- <a href="https://drive.google.com/file/d/1TkgVKYMROh2Z0_D4vy0r6cdiAfzdPmt0/view?usp=sharing" target="_blank">Ain't No Sunshine Ending</a>
 
 On top of those changes for Minor Pentatonics, I'm working on the solo for "Need Your Love So Bad" to apply this to Major pentatonic changes.
 
@@ -34,7 +34,3 @@ The other big news is that Mad Bread will be playing again at the Celtic Knot. T
 I feel like my time on Mandolin and Fiddle really set me up for this role.
 
 The big challenge is to mesh with Carl and not overplay. I always hear myself fixing mistakes in my solos on the spot. Instead, I should be more prepared for each line and play less notes behind Carl. I've been working out a plan for each song. Mostly from the rhythm guitar standpoint. If I have the rhythm part down, it's easier to generalize a scale on top of it for the lead lines.
-
-<a href="https://drive.google.com/file/d/1DLaF6gBCX65uflyENXm51dX7vOnFRfsk/view?usp=sharing" target="_blank">Ain't No Sunshine Beginning</a>
-
-<a href="https://drive.google.com/file/d/1TkgVKYMROh2Z0_D4vy0r6cdiAfzdPmt0/view?usp=sharing" target="_blank">Ain't No Sunshine End</a>
