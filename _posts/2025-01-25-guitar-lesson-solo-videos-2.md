@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Ain't No Sunshine Solo Improv
-image: solo-pose-2b.jpg
+image: solo-pose-2b.jpeg
 year: "2025"
 date: 2025-01-25t14:55:01
 tags: original
@@ -35,3 +35,6 @@ I feel like my time on Mandolin and Fiddle really set me up for this role.
 
 The big challenge is to mesh with Carl and not overplay. I always hear myself fixing mistakes in my solos on the spot. Instead, I should be more prepared for each line and play less notes behind Carl. I've been working out a plan for each song. Mostly from the rhythm guitar standpoint. If I have the rhythm part down, it's easier to generalize a scale on top of it for the lead lines.
 
+<a href="https://drive.google.com/file/d/1DLaF6gBCX65uflyENXm51dX7vOnFRfsk/view?usp=sharing" target="_blank">Ain't No Sunshine Beginning</a>
+
+<a href="https://drive.google.com/file/d/1TkgVKYMROh2Z0_D4vy0r6cdiAfzdPmt0/view?usp=sharing" target="_blank">Ain't No Sunshine End</a>
