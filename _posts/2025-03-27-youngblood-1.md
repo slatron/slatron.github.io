@@ -45,8 +45,9 @@ I picked up a copy of the first three issues on Ebay. Since I'm taking notes on 
 - word balloons positioned wildly off
   - Panel 2 has background characters between both word balloons and the character speaking
   - Panel 3 Jeff Shaft looks like he’s having a closed-eyed shouting argument with himself as his concerned girlfriend stares at him.
-
-<img src="/ms_assets/images/youngblood-1-jeff.jpg" /><br>
+<div style="height: 32rem;margin-left: 2rem;">
+  <img height="100%;" src="/ms_assets/images/youngblood-1-jeff.jpg" /><br>
+</div>
 
 ##### Page 2-3
 
