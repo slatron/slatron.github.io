@@ -6,7 +6,7 @@ year: "2025"
 date: 2025-03-31t14:55:01
 tags: original
 category: comics
-desc: Nerd Notes II
+desc: nerd notes II
 permalink: youngblood2.html
 video: https://youtu.be/2lrT4_GohrI?si=blgIFYw5zmN_SDO_&t=634
 final_mix: https://drive.google.com/file/d/16g9g24LkLoRV956SskElk59edg6ey1TK/view?usp=sharing
