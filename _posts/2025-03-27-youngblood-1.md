@@ -24,15 +24,22 @@ I picked up a copy of the first three issues on Ebay. Since I'm taking notes on 
 
 #### First thoughts on issue one
 
-- Holy shit, Shaft is leading this team. Shut your mouth. Book way cooler than I thought… never mind. I’ll be calling him Jeff Shaft
-- Cheapest card inserts ever
-- How long will this double-sided gimick last?
+- This is not the Shaft I know. I’ll be calling this guy Jeff Shaft
+- These card inserts are not great
+  - I don't remember these. Were they a big thing like X-Force style bagged w/cards?
+- How long will this double-sided gimick last? It's not fun.
 - Surprised only ½ of team has wolverine claws
-- Photon might have lady deathstrike hands on one side, but likely just hands
 - What is going on with away team cover?
   - rolling a giant beach ball towards me while outrunning a wave
 - Home Team just posing on their giant beach ball
   - Light and sand behind them?
+- Photon might have lady deathstrike fingers on right hand
+
+<div style="width: 40%;" class="image-plus-caption">
+  <img src="/ms_assets/images/youngblood/flame-fingers.jpg">
+  <em>Dumb headflame powers ignited via "pull my finger"</em>
+</div>
+
 
 #### Issue #1 Home Team Notes
 
@@ -43,36 +50,58 @@ I picked up a copy of the first three issues on Ebay. Since I'm taking notes on 
 - 2-2 first two panels Wild on the angle perspectives
 - This guy hates paperwork
 - word balloons positioned wildly off
-  - Panel 2 has background characters between both word balloons and the character speaking
-  - Panel 3 Jeff Shaft looks like he’s having a closed-eyed shouting argument with himself as his concerned girlfriend stares at him.
-<div style="height: 32rem;margin-left: 2rem;">
-  <img height="100%;" src="/ms_assets/images/youngblood-1-jeff.jpg" /><br>
+- Panel 2 has background characters between both word balloons and the character speaking
+- Panel 3 Jeff Shaft looks like he’s having a closed-eyed shouting argument with himself as his concerned girlfriend stares at him.
+
+<div style="width: 30%;margin-left: 2rem;" class="image-plus-caption">
+  <img src="/ms_assets/images/youngblood-1-jeff.jpg">
+  <em>Hello Jeff, it's Jeff again</em>
 </div>
 
 ##### Page 2-3
 
 - Did the shooter send the thief, or is this happenstance
 - Jeff Shaft transforms into quasimodo on page 3
-- Birth of the cap reborn perspective?
+- Birth of the cap reborn perspective in reverse?
+
+<div style="width: 40%;margin-left: 2rem;" class="image-plus-caption">
+  <img src="/ms_assets/images/youngblood/jeff-quasi.jpg">
+  <em>Form Of Cap!</em>
+</div>
 
 ##### Page 4-5
 
 - Gotta drop the signing autographs line
-- 3rd panel page 4 - how is he standing??!?!?
 - Same goofy smile on bg women on page 5 panel 2 & 5
 - Is “‘tall” a Baltimore accent?!
+- 3rd panel page 4 - how is he standing??!?!?
+
+<div style="width: 40%;margin-left: 2rem;" class="image-plus-caption">
+  <img src="/ms_assets/images/youngblood/jeff-buckles.jpg">
+  <em>If I walk on knees, they can't sees me</em>
+</div>
 
 ##### Page 6-7
 - Is Bedrock eight years old?
 - Why are you talking to the other team. Please don’t make me turn the comic over and read the names of the Away Team to be sure that’s what’s up here. I’m old
 
 ##### Page 8-9
-- I was distracted by Liefeld’s ability to draw everyone with feet and missed Bedrock transforming into President Red Hulk from the abs down. With a mist-foot.
 - Looks like some kinda jail break. From a porta-potty.
+- I was distracted by Liefeld’s ability to draw everyone with feet and missed Badrock transforming into President Red Hulk from the abs down.
 
+<div style="width: 50%;margin-left: 2rem;" class="image-plus-caption">
+  <img src="/ms_assets/images/youngblood/badrock-hulk.jpg">
+  <em>Gotta cut back on those pills</em>
+</div>
 
 ##### Page 10 - 11
 - Bad guys out. Lotsa punching.
+- I think this is their group therapy
+
+<div style="width: 40%;margin-left: 2rem;" class="image-plus-caption">
+  <img src="/ms_assets/images/youngblood/diehard-punch.jpg">
+  <em>Diehard is working through his issues positively</em>
+</div>
 
 ##### Page 12 - 13
 - 2 page spread of team. I guess that was it.
@@ -86,8 +115,9 @@ Everything else I know from the included trading cards and character designs. I�
 #### Issue #1 Away Team Notes
 
 ##### Page 1
-- Oh shit, this is all based on a fictionalized occupation of Isreal. Liefeld is certainly the scribe for this topic… right?
-- Hassan Kussien… yeah he’s just mixing and matching names he hears in the news without thinking of any real-world implications beyond the names
+- Oh shit, this is all based on a fictionalized occupation of Isreal
+- This is not going to have aged well
+- Hassan Kussien… yeah he’s just mixing and matching names he hears in the news without thinking of any implications
 - First mention of super powered soldiers in the super powered soldiers comic
 
 ##### Page 2-3
@@ -96,20 +126,22 @@ Everything else I know from the included trading cards and character designs. I�
 ##### Page 4-5
 - Who is that in the golden horn-ear mask?
 - He was clearly in on the briefing
-- Everyone else in the team photo is accounted for
+- Everyone else in the team photo is accounted for, he's not in the cover team list
 - I think those shiny balls are soldier heads
 
 ##### Page 6-7
-- Psi-Fire jokes about buying the enemy land. Too close despite there being no attempt to make actual parallels or comments on events. Just using Isreali as a general conflict area.
-  - First time power usages are underwhelming.
-  - Riptide can make water
-  - Psi-Fire can glow and fly
-  - Sentinal can’t glow but can fly
-  - Cougar is a wolf-man
+- Psi-Fire jokes about buying the enemy land. He's the biggest facist
+- First time power usages are underwhelming
+- Riptide can make water
+- Psi-Fire can glow and fly
+- Sentinal can’t glow but can fly
+- Cougar is a wolf-man
 
 ##### Page 8-9
-- Riptide’s hand is talking in panel 2
 - They didn’t see that electric fence coming
+- According to balloon placment, Riptide’s hand is talking in panel 2
+
+
 
 ##### Page 10-11
 - Is psy-boi immune to the eclectic fence?
@@ -123,8 +155,8 @@ Everything else I know from the included trading cards and character designs. I�
 - Looks like metal-armed asdshole has pointy ears like Cougar. Is Daddy?!!?
 Nope, that’s Combat from the other team. What the hell are the rules here.
 - Also,  Combat?!?
-- Whatever Liefeld thinks the Saddam character is aligned with, Psy-boi makes a point of insisting he likes the way he dictates - but is a contract soldier for the highest bidder
-  - With the images, is this some sympathizer BS
+- Whatever Liefeld thinks the Saddam character is aligned with, Psy-boi makes a point of insisting he likes the way he dictates
+  - is this some sympathizer BS
 - Are these dudes also celebs?
 
 ##### Page 14-15
