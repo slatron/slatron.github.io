@@ -129,8 +129,12 @@ Everything else I know from the included trading cards and character designs. I�
 - Everyone else in the team photo is accounted for, he's not in the cover team list
 - I think those shiny balls are soldier heads
 
+<div style="width: 50%;margin-left: 2rem;" class="image-plus-caption">
+  <img src="/ms_assets/images/youngblood/balls.jpg">
+  <em>I must pump those balls!</em>
+</div>
+
 ##### Page 6-7
-- Psi-Fire jokes about buying the enemy land. He's the biggest facist
 - First time power usages are underwhelming
 - Riptide can make water
 - Psi-Fire can glow and fly
@@ -141,31 +145,38 @@ Everything else I know from the included trading cards and character designs. I�
 - They didn’t see that electric fence coming
 - According to balloon placment, Riptide’s hand is talking in panel 2
 
-
-
 ##### Page 10-11
 - Is psy-boi immune to the eclectic fence?
 - Who is this asshole with metal arms??
-- Not the same as gold-eared dick from earlier because of shoulder metal and different outfit.
+- Not the same as gold-eared dude from earlier because of shoulder metal and different outfit.
 - Counter-point… shoulder things disappear and re-appear every other panel
 - So there are two members of the team who may or may not be part of the team
 - OK, I’m convinced they’re the same person whose outfit accessories spontaneously phase in and out 
 
 ##### Page 12-13
-- Looks like metal-armed asdshole has pointy ears like Cougar. Is Daddy?!!?
-Nope, that’s Combat from the other team. What the hell are the rules here.
-- Also,  Combat?!?
+- Looks like metal-armed asdshole has pointy ears like Cougar. Is Cougar Daddy?!!?
+Nope, that’s Combat from the other team. It was Combat the entire time. What the hell are the rules here.
+- Also, "Combat"?!?
 - Whatever Liefeld thinks the Saddam character is aligned with, Psy-boi makes a point of insisting he likes the way he dictates
   - is this some sympathizer BS
 - Are these dudes also celebs?
 
+<div style="width: 50%;margin-left: 2rem;" class="image-plus-caption">
+  <img src="/ms_assets/images/youngblood/combat.jpg">
+  <em>He says his name every other balloon. How did I miss it so long?</em>
+</div>
+
 ##### Page 14-15
 - Psy-boi blows up saddam’s brain with psychic waves and really enjoys it
 - They should have named this team Wetworks
-- Some of them are so old, but they like to get wet!
+
+<div style="width: 50%;margin-left: 2rem;" class="image-plus-caption">
+  <img src="/ms_assets/images/youngblood/exploding-head.jpg">
+  <em>Psy-Boi keeps avoiding therapy</em>
+</div>
 
 ##### Page 16-17
-- Rest of team reacts to exploded man
+- Rest of team reacts to exploded man with much retching
 - Sentinal implies that they sneak out
 
 ##### Page 18
