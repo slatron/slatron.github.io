@@ -8,8 +8,7 @@ tags: original
 category: comics
 desc: early finish
 permalink: youngblood3.html
-video: https://youtu.be/2lrT4_GohrI?si=blgIFYw5zmN_SDO_&t=634
-final_mix: https://drive.google.com/file/d/16g9g24LkLoRV956SskElk59edg6ey1TK/view?usp=sharing
+final_mix: https://drive.google.com/file/d/1WUD0LOLCcxaN0Sdvl8NOm8twrhMf4VUZ/view?usp=sharing
 ---
 
 ### Early Series Finish
