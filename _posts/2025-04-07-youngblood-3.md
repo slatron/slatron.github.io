@@ -72,7 +72,7 @@ If you're at all interested in more Image behind the scenes, [there's a great ar
 - Are they fighting over who the traitor is?
 - This is a two page meanwhile with no context except what I can decipher from wikipedia entries
 
-<div style="width: 50%;" class="image-plus-caption">
+<div class="image-plus-caption">
   <img src="/ms_assets/images/youngblood/hot-space-people.jpg">
   <em>Patch's mid-life crisis</em>
 </div>
@@ -116,7 +116,7 @@ If you're at all interested in more Image behind the scenes, [there's a great ar
 - Robotech Ad
 - Chapel is extremely violent
 
-<div style="width: 50%;" class="image-plus-caption">
+<div class="image-plus-caption">
   <img src="/ms_assets/images/youngblood/violent-man.jpg">
   <em>Chapel is working through things at home</em>
 </div>
@@ -135,7 +135,7 @@ If you're at all interested in more Image behind the scenes, [there's a great ar
 #### Page #30
 - That’s just Cage, Boom Boom and Spiral jumping with a couple friends
 
-<div style="width: 50%;" class="image-plus-caption">
+<div class="image-plus-caption">
   <img src="/ms_assets/images/youngblood/we-are-cable.jpg">
   <em>Each Cable is more Cable than the Cable before</em>
 </div>

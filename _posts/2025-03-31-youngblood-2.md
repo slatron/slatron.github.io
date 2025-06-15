@@ -37,7 +37,7 @@ I had a good talk with Dre from Nerd! to prep for the show. Its good knowing you
 - Glad the respect to Kirby was reiterated in writing
   - Cuz He's about to dress his namesake like a damn fool
 
-<div style="width: 50%;" class="image-plus-caption">
+<div class="image-plus-caption">
   <img src="/ms_assets/images/youngblood/wildmane.jpg">
   <em>It's... just Beast</em>
 </div>
@@ -52,7 +52,7 @@ I had a good talk with Dre from Nerd! to prep for the show. Its good knowing you
 - POUCHES GALORE! √
 - Are those metal files positioned directly around his left nipple? Did Jack have to see this?
 
-<div style="width: 50%;" class="image-plus-caption">
+<div class="image-plus-caption">
   <img src="/ms_assets/images/youngblood/kirby.jpg">
   <em>Look what they did to ya, Jack</em>
 </div>
@@ -109,7 +109,7 @@ I had a good talk with Dre from Nerd! to prep for the show. Its good knowing you
 - Oh yeah, there'sd another muscle guy with the proportions of an overgrown Puck
 - That's Brama (thanks dialog!) - he was in the first issue and I completely forgot.
 
-<div style="width: 50%;" class="image-plus-caption">
+<div class="image-plus-caption">
   <img src="/ms_assets/images/youngblood/riptide.jpg">
   <em>When all you have is dude-sweat...</em>
 </div>
@@ -147,7 +147,7 @@ This Batman is not shy about literally breaking spines
 
 At least Rob abandoned the flip book double-plot format after issue one. The “Home” team story is pushed aside for the worst character promo I’ve seen. Worst in that it just reminded me how much better Batman is than anything that came out of this era of Image.
 
-<div style="width: 50%;" class="image-plus-caption">
+<div class="image-plus-caption">
   <img src="/ms_assets/images/youngblood/shadowhawk.jpg">
   <em>Batman is clearly going through one</em>
 </div>

@@ -34,7 +34,7 @@ I picked up a copy of the first three issues on Ebay. Since I'm taking notes on 
   - Light and sand behind them?
 - Photon might have lady deathstrike fingers on right hand
 
-<div style="width: 40%;" class="image-plus-caption">
+<div class="image-plus-caption">
   <img src="/ms_assets/images/youngblood/flame-fingers.jpg">
   <em>Dumb headflame powers ignited via "pull my finger"</em>
 </div>
@@ -52,7 +52,7 @@ I picked up a copy of the first three issues on Ebay. Since I'm taking notes on 
 - Panel 2 has background characters between both word balloons and the character speaking
 - Panel 3 Jeff Shaft looks like he’s having a closed-eyed shouting argument with himself as his concerned girlfriend stares at him.
 
-<div style="width: 30%;margin-left: 2rem;" class="image-plus-caption">
+<div style="margin-left: 2rem;" class="image-plus-caption">
   <img src="/ms_assets/images/youngblood-1-jeff.jpg">
   <em>Hello Jeff, it's Jeff again</em>
 </div>
@@ -63,7 +63,7 @@ I picked up a copy of the first three issues on Ebay. Since I'm taking notes on 
 - Jeff Shaft transforms into quasimodo on page 3
 - Birth of the cap reborn perspective in reverse?
 
-<div style="width: 40%;margin-left: 2rem;" class="image-plus-caption">
+<div style="margin-left: 2rem;" class="image-plus-caption">
   <img src="/ms_assets/images/youngblood/jeff-quasi.jpg">
   <em>Form Of Cap!</em>
 </div>
@@ -75,7 +75,7 @@ I picked up a copy of the first three issues on Ebay. Since I'm taking notes on 
 - Is “‘tall” a Baltimore accent?!
 - 3rd panel page 4 - how is he standing??!?!?
 
-<div style="width: 40%;margin-left: 2rem;" class="image-plus-caption">
+<div style="margin-left: 2rem;" class="image-plus-caption">
   <img src="/ms_assets/images/youngblood/jeff-buckles.jpg">
   <em>If I walk on knees, they can't sees me</em>
 </div>
@@ -88,7 +88,7 @@ I picked up a copy of the first three issues on Ebay. Since I'm taking notes on 
 - Looks like some kinda jail break. From a porta-potty.
 - I was distracted by Liefeld’s ability to draw everyone with feet and missed Badrock transforming into President Red Hulk from the abs down.
 
-<div style="width: 50%;margin-left: 2rem;" class="image-plus-caption">
+<div style="margin-left: 2rem;" class="image-plus-caption">
   <img src="/ms_assets/images/youngblood/badrock-hulk.jpg">
   <em>Gotta cut back on those pills</em>
 </div>
@@ -97,7 +97,7 @@ I picked up a copy of the first three issues on Ebay. Since I'm taking notes on 
 - Bad guys out. Lotsa punching.
 - I think this is their group therapy
 
-<div style="width: 40%;margin-left: 2rem;" class="image-plus-caption">
+<div style="margin-left: 2rem;" class="image-plus-caption">
   <img src="/ms_assets/images/youngblood/diehard-punch.jpg">
   <em>Diehard is working through his issues positively</em>
 </div>
@@ -128,7 +128,7 @@ Everything else I know from the included trading cards and character designs. I�
 - Everyone else in the team photo is accounted for, he's not in the cover team list
 - I think those shiny balls are soldier heads
 
-<div style="width: 50%;margin-left: 2rem;" class="image-plus-caption">
+<div style="margin-left: 2rem;" class="image-plus-caption">
   <img src="/ms_assets/images/youngblood/balls.jpg">
   <em>I must pump those balls!</em>
 </div>
@@ -160,7 +160,7 @@ Nope, that’s Combat from the other team. It was Combat the entire time. What t
   - is this some sympathizer BS
 - Are these dudes also celebs?
 
-<div style="width: 50%;margin-left: 2rem;" class="image-plus-caption">
+<div style="margin-left: 2rem;" class="image-plus-caption">
   <img src="/ms_assets/images/youngblood/combat.jpg">
   <em>He says his name every other balloon. How did I miss it so long?</em>
 </div>
@@ -169,7 +169,7 @@ Nope, that’s Combat from the other team. It was Combat the entire time. What t
 - Psy-boi blows up saddam’s brain with psychic waves and really enjoys it
 - They should have named this team Wetworks
 
-<div style="width: 50%;margin-left: 2rem;" class="image-plus-caption">
+<div style="margin-left: 2rem;" class="image-plus-caption">
   <img src="/ms_assets/images/youngblood/exploding-head.jpg">
   <em>Psy-Boi keeps avoiding therapy</em>
 </div>

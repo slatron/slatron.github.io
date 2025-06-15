@@ -84,6 +84,19 @@ li > ul > li {
   }
 }
 
+.image-plus-caption {
+  border: 3px dotted black;
+  margin: 1em 3em;
+  padding: 0.5em;
+  line-height: 1em;
+  img {
+    margin-bottom: 0.25em;
+  }
+  @include breakpoint(tablet) {
+    margin: 1em 7em;
+  }
+}
+
 @include media-query($mobile) {
   .slug-list {
     li {
