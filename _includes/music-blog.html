@@ -14,6 +14,10 @@
       <a title="Listen to Final Mix" href="{{post.final_mix}}" target="_blank">
         <img class="link-icon" src="/ms_assets/images/listen.svg" />
       </a>
+      {% else if post.episode_audio_link %}
+      <a title="Listen to Full Episode" href="{{post.episode_audio_link}}" target="_blank">
+        <img class="link-icon" src="/ms_assets/images/listen.svg" />
+      </a>      
       {% else %}
       <span title="Song In Progress">
         <img class="link-icon" src="/ms_assets/images/hourglass.svg" />
