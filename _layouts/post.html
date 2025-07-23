@@ -31,6 +31,11 @@ layout: default
         <img class="link-icon" src="/ms_assets/images/listen.svg" /> Listen Final Mix
       </a>
       {% endif %}
+      {% if page.episode_audio_link %}
+      <a class="btn" title="Listen to the Episode" href="{{page.episode_audio_link}}" target="_blank">
+        <img class="link-icon" src="/ms_assets/images/listen.svg" /> Listen to {{page.episode_title}}
+      </a>
+      {% endif %}
     </div>
 
     {{ content }}
