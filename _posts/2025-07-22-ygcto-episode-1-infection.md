@@ -127,7 +127,7 @@ Racial purity tests can lead to living artifact monsters. But as long as we have
 
 ### Next Episode
 
-Season 1 Episode 12 "Deathwalker" drops on Sunday, August 10th on all podcast platforms.
+We cover Babylon 5: Season 1 Episode 9 "Deathwalker" on the next full episode. Coming to you Sunday, August 10th.
 
 ### Get the podcast
 
