@@ -4,7 +4,7 @@ title: YGCTO Episode 2 - Deathwalker
 episode_title: Episode 2
 image: YGCTO-logo.jpg
 year: "2025"
-date: 2025-08-10t10:00:00
+date: 2025-07-10t10:00:00
 tags: babylon5, ygcto
 category: podcast
 desc: Cats!
@@ -94,6 +94,4 @@ We cover Babylon 5: Season 1 Episode 13 "Signs & Portents" on the next full epis
 - <a href="https://www.audible.com/podcast/ITEM_NAME/B0FHZD3TV9?qid=1753047101&sr=1-1&ref_pageloadid=not_applicable&pf_rd_p=83218cca-c308-412f-bfcf-90198b687a2f&pf_rd_r=1Y22648K70VFN579SFNF&plink=MgJUQtEbuvASs5gh&pageLoadId=CkYrwLMhoqxJDaDb&creativeId=0d6f6720-f41c-457e-a42b-8c8dceb62f2c&ref=a_search_c3_lProduct_1_1" target="_blank">Audible</a>
 - <a href="https://open.spotify.com/show/4IQrAJ74XC2gd70U9OG1qq" target="_blank">Spotify</a>
 
-\* People for the Ethical Treatment of Muppets
-
-
+&#42; = People for the Ethical Treatment of Muppets
