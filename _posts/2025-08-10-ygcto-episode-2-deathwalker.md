@@ -4,7 +4,7 @@ title: YGCTO Episode 2 - Deathwalker
 episode_title: Episode 2
 image: YGCTO-logo.jpg
 year: "2025"
-date: 2025-07-10t10:00:00
+date: 2025-08-10t10:00:00
 tags: babylon5, ygcto
 category: podcast
 desc: Cats!
