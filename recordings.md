@@ -5,7 +5,11 @@ permalink: recordings.html
 
 <h2 class="page-heading">Playlists by Mike Slater</h2>
 
-<h3>w/ Mad Bread</h3>
+<h3>You Gotta Check This Out! Podcast</h3>
+
+<iframe src="https://castbox.fm/app/castbox/player/id6684593?v=8.22.11&autoplay=0" frameborder="0" width="100%" height="500"></iframe>
+
+<h3>Mad Bread</h3>
 
 <iframe width="100%" height="315" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1726003&color=%23d1c6c0&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
