@@ -4,7 +4,7 @@ title: YGCTO Episode 3 - Signs & Portents
 episode_title: Episode 3
 image: YGCTO-logo.jpg
 year: "2025"
-date: 2025-08-24t10:00:00
+date: 2025-08-24t10:00:01
 tags: babylon5, ygcto
 category: podcast
 desc: Secret Pilot
