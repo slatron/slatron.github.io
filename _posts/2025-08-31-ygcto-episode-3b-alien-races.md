@@ -1,6 +1,6 @@
 ---
 layout: post
-title: YGCTO Episode 3b - Alien Rasces of B5
+title: YGCTO Episode 3b - Alien Races of B5
 episode_title: Episode 3b
 image: YGCTO-logo.jpg
 year: "2025"
