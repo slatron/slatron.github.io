@@ -91,6 +91,7 @@ li > ul > li {
   line-height: 1em;
   img {
     margin-bottom: 0.25em;
+    width:100%;
   }
   @include breakpoint(tablet) {
     margin: 1em 7em;
