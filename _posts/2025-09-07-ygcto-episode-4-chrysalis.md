@@ -56,11 +56,11 @@ Garibaldi gets shot in the back by his own #2
 <em>Sucka lazer punch always stings</em>
 </div>
 
-The triangle that signifies nothing
+The triangle that signifies all things Minbari
 
 <div class="image-plus-caption">
 <img src="/ms_assets/images/bab5/ep4/meaningless-triangle.jpg" alt="They use this to floss between their what?">
-<em>JMS bailed on the triangle Minbari symbols by season 2</em>
+<em>This means something... this is important</em>
 </div>
 
 Sinclair gives a wistful stare with his bride-to-be
