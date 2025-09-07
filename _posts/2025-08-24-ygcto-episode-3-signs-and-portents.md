@@ -2,7 +2,7 @@
 layout: post
 title: YGCTO Episode 3 - Signs & Portents
 episode_title: Episode 3
-image: YGCTO-logo.jpg
+image: YCGTO-logo-carin.jpg
 year: "2025"
 date: 2025-08-24t10:00:01
 tags: babylon5, ygcto
