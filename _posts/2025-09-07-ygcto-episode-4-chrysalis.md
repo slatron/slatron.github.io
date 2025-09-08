@@ -2,7 +2,7 @@
 layout: post
 title: YGCTO Episode 4 - Chrysalis with Evynne Stitely
 episode_title: Episode 4
-image: YGCTO-logo.jpg
+image: YCGTO-logo-evynne.jpg
 year: "2025"
 date: 2025-09-05t10:00:00
 tags: babylon5, ygcto
@@ -21,6 +21,11 @@ I'm currently in season 3 of my Babylon 5 watch. I'm surprised that there aren't
 But this season really felt like its own thing to establish the setting and characters. Especially with the literal changing of the guard between Sinclair and Sheridan. As we discovered, you can get away with watching just two episodes from season 1 and get the basics of what you need to speed through the series. But the charm of season 1 is in the poor sets and the actors figuring out what to do with their hands.
 
 ### This Week's Guest
+
+<div class="image-plus-caption">
+<img src="/ms_assets/images/albums/evynne-full.jpg" alt="Clowns Everywhere!">
+<em>Evynne Stitely</em>
+</div>
 
 Evynne Stitely is a Drummer / Teacher / YouTube Creator / Writer / Graphic Artist living in Chicago. I've had the privilege of playing music with Evynne several times. She is definitely not JMS in disguise, no matter what Dre tells you.
 

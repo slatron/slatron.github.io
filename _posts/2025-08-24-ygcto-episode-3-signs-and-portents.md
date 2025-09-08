@@ -26,6 +26,12 @@ Having a guest gives us an audience surrogate to bounce ideas off. It also prove
 
 ### This Week's Guest
 
+<div class="image-plus-caption">
+<img src="/ms_assets/images/albums/carin-headshot.jpeg" alt="My Wife!!!">
+<em>Carin Slater</em>
+</div>
+
+
 Carin Slater is with us this week from the "Geek Out! with Megan and Carin" podcast. Carin is an email. marketing professional in a good way.  She helps companies to stop bothering people with unwanted spam. And make the emails that do get through smaller and more effective. She and Megan talk a little email on each show, but mostly dive into their nerdy interests. Come to think of it, Geek Out! is a much better sister show to Nerd! than YGCTO! will ever be.
 
 You can read an
