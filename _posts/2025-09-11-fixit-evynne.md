@@ -39,7 +39,7 @@ Babylon 5 is a TV show about a giant space station that houses the future equiva
 
 <div class="image-plus-caption">
 <img src="/ms_assets/images/bab5/fix1/council-room.png" alt="Council Room">
-<em>Newsie Lurkers</em>
+<em>Council Room</em>
 </div>
 
 Additionally, Babylon 5 serves as both a port for transport and cargo, requiring housing for its staff and travelers. It is, essentially, a giant intergalactic airport and motel.
