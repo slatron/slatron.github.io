@@ -5,7 +5,7 @@ episode_title: Episode 4
 image: YGCTO-logo.jpg
 year: "2025"
 date: 2025-09-11t10:00:00
-tags: babylon5, ygcto
+tags: babylon5, ygcto, dre-fixes-it
 category: podcast
 desc: First Guest Column
 permalink: fix-1.html
