@@ -249,7 +249,7 @@ Another tense negotiation episode where Earth ground forces are forcibly station
 Though he learns from the experience, Sheridan's brash sense of immortality gets him in trouble.
 
 <div class="image-plus-caption">
-<img src="/ms_assets/images/bab5/ep5b/franklins-dad.jpg" alt="Why did I bring the neck pillow?">
+<img src="/ms_assets/images/bab5/ep5b/narn-neck.jpg" alt="Why did I bring the neck pillow?">
 <em>So you always wear that thing on your neck? Not only on planes?</em>
 </div>
 
