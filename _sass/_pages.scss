@@ -93,8 +93,14 @@ li > ul > li {
     margin-bottom: 0.25em;
     width:100%;
   }
+  &.small {
+    margin: 1em 6em;
+  }
   @include breakpoint(tablet) {
     margin: 1em 7em;
+    &.small {
+      margin: 1em 12em !important;
+    }
   }
 }
 
